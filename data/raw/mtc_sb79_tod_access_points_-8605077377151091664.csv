@@ -1,0 +1,1199 @@
+﻿OBJECTID,access_id,station_id,access_point_name,location_type,x,y
+1,COLS_5,mtc:oakland-coliseum-bart,Snell St Entrance / Exit,2,-122.19678,37.7540000000001
+2,19TH_3,mtc:19th-st-oakland-bart,A2 20th and Broadway Entrance / Exit,2,-122.26853,37.8088100000001
+3,EMBR_2,mtc:embarcadero-bart,A1 Market & Drumm Street (NE) Entrance / Exit,2,-122.39602,37.7936800000001
+4,EMBR_1,mtc:embarcadero-bart,B1 Market & Spear Street (SE) Entrance / Exit,2,-122.39583,37.79355
+5,EMBR_3,mtc:embarcadero-bart,A2 Market & Davis Street (North) Entrance / Exit,2,-122.397,37.7929
+6,MONT_4,mtc:montgomery-bart,B2 Market & 2nd Street (South) Entrance / Exit,2,-122.40104,37.78941
+7,EMBR_4,mtc:embarcadero-bart,B2 Market Street & Main Street (South) Entrance / Exit,2,-122.39677,37.7928000000001
+8,EMBR_5,mtc:embarcadero-bart,A3 Market Street & Front Street (NW) Entrance / Exit,2,-122.39788,37.7922100000001
+9,EMBR_6,mtc:embarcadero-bart,B3 Market Street & Fremont Street (SW) Entrance / Exit,2,-122.39772,37.7920500000001
+10,12TH_2,mtc:12th-st-oakland-city-center-bart,A2 13th St and Broadway Entrance / Exit,2,-122.27195,37.80337
+11,12TH_1,mtc:12th-st-oakland-city-center-bart,B2 13th St and Broadway Entrance / Exit,2,-122.27172,37.80328
+12,12TH_4,mtc:12th-st-oakland-city-center-bart,A3 Oakland City Center Entrance / Exit,2,-122.27185,37.8038300000001
+13,12TH_3,mtc:12th-st-oakland-city-center-bart,B3 13th St and Broadway Entrance / Exit,2,-122.27133,37.80391
+14,12TH_8,mtc:12th-st-oakland-city-center-bart,B4 14th St and Broadway Entrance / Exit,2,-122.27078,37.80424
+15,12TH_7,mtc:12th-st-oakland-city-center-bart,A4 Frank Ogawa Plaza Entrance / Exit,2,-122.27132,37.8047800000001
+16,12TH_5,mtc:12th-st-oakland-city-center-bart,A1 12th St and Broadway Entrance / Exit,2,-122.27249,37.8024800000001
+17,12TH_6,mtc:12th-st-oakland-city-center-bart,B1 12th St and Broadway Entrance / Exit,2,-122.27226,37.8023900000001
+18,COLS_1,mtc:oakland-coliseum-bart,71st Ave Entrance / Exit,2,-122.19668,37.7542700000001
+19,COLS_3,mtc:oakland-coliseum-bart,San Leandro Street Entrance / Exit,2,-122.19728,37.75395
+20,SFIA_1,mtc:sfo,"SFIA Entrance / Exit, International Terminal, Level 3",2,-122.39267,37.6159200000001
+21,MLPT_1,mtc:great-mall-milpitas-bart,West Station Entrance / Exit,2,-121.89121,37.40995
+22,19TH_2,mtc:19th-st-oakland-bart,A1 17th and Broaddway Entrance / Exit,2,-122.26981,37.80728
+23,19TH_1,mtc:19th-st-oakland-bart,B2 19th and Broadway Entrance / Exit,2,-122.26909,37.80749
+24,19TH_5,mtc:19th-st-oakland-bart,B3 19th and Broadway Entrance / Exit,2,-122.26874,37.80809
+25,MONT_2,mtc:montgomery-bart,B1 598 Market St (SW) Entrance / Exit,2,-122.40221,37.78851
+26,MONT_1,mtc:montgomery-bart,A1 Market & Post Street (NW) Entrance / Exit,2,-122.40218,37.7889200000001
+27,MONT_3,mtc:montgomery-bart,A2 Market & Montgomery Street (NE) Entrance / Exit,2,-122.40175,37.7891900000001
+28,MONT_7,mtc:montgomery-bart,B3 575 Market St (SE) Entrance / Exit,2,-122.40051,37.7898200000001
+29,MONT_5,mtc:montgomery-bart,A3 Sutter Street Entrance / Exit,2,-122.40074,37.78997
+30,MONT_6,mtc:montgomery-bart,A4 Sansome Street Entrance / Exit,2,-122.40069,37.79051
+31,POWL_8,mtc:powell,B1 Market Street & 5th Street Entrance / Exit,2,-122.40828,37.78371
+32,POWL_7,mtc:powell,A1 899 Market St Entrance / Exit,2,-122.40777,37.7845800000001
+33,POWL_6,mtc:powell,B2 Market Street & 5th Street (NE) Entrance / Exit,2,-122.4074,37.7844000000001
+34,POWL_5,mtc:powell,B3 Market Street & 4th Street (South) Entrance / Exit,2,-122.40627,37.7852800000001
+35,POWL_4,mtc:powell,A2 Market Street & Ellis Street Entrance / Exit,2,-122.40644,37.7854600000001
+36,POWL_3,mtc:powell,A3 Stockton Street Entrance / Exit,2,-122.40636,37.78583
+37,POWL_2,mtc:powell,B4 Market Street & 4th Street (SE) Entrance / Exit,2,-122.4054,37.7859800000001
+38,POWL_1,mtc:powell,A4 Market Street & 4th Street (NE) Entrance / Exit,2,-122.40555,37.7861500000001
+39,CIVC_2,mtc:civic-center-bart,A3 1150 Market Street - UN Plaza Stairs Entrance / Exit,2,-122.41424,37.7797600000001
+40,CIVC_3,mtc:civic-center-bart,B3 1150 Market Street Entrance / Exit,2,-122.41355,37.7795300000001
+41,CIVC_5,mtc:civic-center-bart,B4 Market Street & 7th Street (NE) Entrance / Exit,2,-122.41265,37.7802500000001
+42,CIVC_4,mtc:civic-center-bart,A4 Market Street & 7th Street (NW) Entrance / Exit,2,-122.41289,37.78036
+43,CIVC_7,mtc:civic-center-bart,B2 Market Street & 8th Street (SE) Entrance / Exit,2,-122.41449,37.7788
+44,CIVC_6,mtc:civic-center-bart,A2 Market Street & Hyde Street (SW) Entrance / Exit,2,-122.41467,37.77896
+45,19TH_4,mtc:19th-st-oakland-bart,B4 20th and Broadway Entrance / Exit,2,-122.26783,37.80897
+46,19TH_6,mtc:19th-st-oakland-bart,B1 17th and Broadway Entrance / Exit,2,-122.26949,37.8068400000001
+47,MCAR_1,mtc:macarthur-bart,Main Entrance / Exit,2,-122.26685,37.8290700000001
+48,MLBR_1,mtc:millbrae-bart,Main Entrance / Exit,2,-122.38644,37.6004600000001
+49,COLS_2,mtc:oakland-coliseum-bart,"Elevated Walkway to Amtrak Station, Coliseum Arena Entrance / Exit",2,-122.19736,37.7540900000001
+50,MLPT_2,mtc:great-mall-milpitas-bart,East Station Entrance / Exit,2,-121.89068,37.41013
+51,DUBL_1,mtc:dublin-pleasanton-bart,Main Entrance / Exit,2,-121.89818,37.70165
+52,CIVC_1,mtc:civic-center-bart,Elevator Entrance / Exit,2,-122.41369,37.7797100000001
+53,WARM_1,mtc:warm-springs-south-fremont-bart,Main (East) Entrance / Exit,2,-121.93842,37.5022500000001
+54,16TH_1,901509,A 16TH & Mission SW Entrance / Exit,2,-122.42003,37.7647400000001
+55,BALB_2,901809,A1 Geneva Ave Entrance / Exit,2,-122.44762,37.7208200000001
+56,LAKE_4,902109,A1 NE Chinatown Entrance / Exit,2,-122.26552,37.7976
+57,DBRK_4,904209,A1 Shattuck Ave & Addison Street (East) Entrance / Exit,2,-122.26813,37.8710100000001
+58,24TH_3,901609,A 24TH & Mission SW Entrance / Exit,2,-122.41882,37.75194
+59,BALB_1,901809,A2 John F Foran Fwy (Ramp) Entrance / Exit,2,-122.4475,37.72198
+60,LAKE_3,902109,A2 SE 9th & Oak St Entrance / Exit,2,-122.26482,37.7973900000001
+61,DBRK_2,904209,A2 Shattuck Ave & Allston Way (East) Entrance / Exit,2,-122.26776,37.8697100000001
+62,ASHB_2,904109,Adeline Street East Entrance / Exit Elevator,2,-122.26956,37.85276
+63,ASHB_1,904109,Adeline Street East Entrance / Exit Stairs,2,-122.26969,37.8524
+64,ASHB_3,904109,TDB Pedestrian Access Point,2,-122.27006,37.8528200000001
+65,16TH_2,901509,B 16TH & Mission NE Entrance / Exit,2,-122.41933,37.7652800000001
+66,BALB_3,901809,B1 Geneva Ave Entrance / Exit,2,-122.44733,37.7211800000001
+67,LAKE_1,902109,B1 NW 8th & Oak St Jack London Sq Entrance / Exit,2,-122.26558,37.79711
+68,DBRK_3,904209,B1 Shattuck Ave & Addison Street (West) Entrance / Exit,2,-122.26836,37.8710100000001
+69,24TH_2,901609,B 24TH & Mission NE Entrance / Exit,2,-122.4181,37.75248
+70,BALB_5,901809,B2 (Elevator) Geneva Ave Entrance / Exit,2,-122.44757,37.7212400000001
+71,LAKE_2,902109,"B2 SW 8th St, Laney College Entrance / Exit",2,-122.26515,37.7970700000001
+72,DBRK_5,904209,B3 DBRK Entrance / Exit,2,-122.26821,37.8701
+73,BALB_4,901809,B3 Geneva Ave Entrance / Exit,2,-122.44738,37.7213300000001
+74,BALB_6,901809,B4 John F Foran Fwy (Ramp) Entrance / Exit,2,-122.44732,37.72196
+75,DBRK_1,904209,B4 Shattuck Ave & Allston Way (West) Entrance / Exit,2,-122.26818,37.8695000000001
+76,SSAN_1,906209,East Concourse Entrance / Exit,2,-122.44383,37.66432
+77,SANL_2,902409,East Entrance / Exit,2,-122.16044,37.7215200000001
+78,FRMT_1,902909,East Plaza Entrance / Exit,2,-121.97642,37.55751
+79,24TH_1,901609,Elevator Entrance / Exit,2,-122.41832,37.7525800000001
+80,16TH_3,901509,Elevator Entrance / Exit,2,-122.41954,37.7653500000001
+81,SBRN_1,906309,Huntington Ave Entrance / Exit,2,-122.41613,37.6377900000001
+82,SHAY_1,902709,Main Entrance / Exit,2,-122.05685,37.63451
+83,BERY_1,909509,Main Entrance / Exit,2,-121.8745,37.3684700000001
+84,HAYW_1,902609,Main Entrance / Exit,2,-122.08659,37.6695800000001
+85,CAST_1,905109,Main Entrance / Exit,2,-122.07592,37.69131
+86,ROCK_2,903109,Main (South) Entrance / Exit,2,-122.25143,37.8445
+87,NBRK_1,904309,North Entrance / Exit,2,-122.28345,37.8741000000001
+88,WOAK_1,901109,North Station Entrance / Exit,2,-122.29529,37.80503
+89,BERY_3,909509,South Entrance / Exit,2,-121.87428,37.36756
+90,WOAK_2,901109,South Station Entrance / Exit,2,-122.29538,37.8048900000001
+91,FRMT_3,902909,Station Entrance / Exit,2,-121.97645,37.5576300000001
+92,BAYF_2,902509,West Entrance / Exit,2,-122.12698,37.69687
+93,SANL_1,902409,West Entrance / Exit,2,-122.16061,37.72144
+94,FRMT_2,902909,West Plaza Entrance / Exit,2,-121.9767,37.5574
+95,Future_BART_Station_Diridon,Future_BART_Station_Diridon,Future_BART_Station_Diridon,2,-121.90138,37.33153
+96,"geom:37.33151,-121.90201",Future_BART_Station_Diridon,Future_BART_Station_Diridon,2,-121.90201,37.33151
+97,Future_BART_Station_SantaClara,Future_BART_Station_SantaClara,Future_BART_Station_SantaClara,2,-121.93684,37.35447
+98,Future_BART_Station_DowntownSanJose,Future_BART_Station_DowntownSanJose,Future_BART_Station_DowntownSanJose,2,-121.89133,37.33595
+99,"geom:37.33633,-121.89151",Future_BART_Station_DowntownSanJose,Future_BART_Station_DowntownSanJose,2,-121.89151,37.33633
+100,Future_BART_Station_28thSt,Future_BART_Station_28thSt,Future_BART_Station_28thSt,2,-121.86525,37.3503600000001
+101,"geom:37.35084,-121.86524",Future_BART_Station_28thSt,Future_BART_Station_28thSt,2,-121.86524,37.3508400000001
+102,Future_BART_Station_Irvington,Future_BART_Station_Irvington,Future_BART_Station_Irvington,2,-121.95368,37.5322400000001
+103,"geom:37.53223,-121.95355",Future_BART_Station_Irvington,Future_BART_Station_Irvington,2,-121.95355,37.53223
+104,"geom:37.53249,-121.95406",Future_BART_Station_Irvington,Future_BART_Station_Irvington,2,-121.95406,37.5324900000001
+105,DALY_1,mtc:daly-city-bart,Pedestrian Access Point,2,-122.46915,37.7061800000001
+106,"geom:37.70593,-122.46904",mtc:daly-city-bart,Pedestrian Access Point,2,-122.46904,37.7059300000001
+107,"geom:37.70605,-122.46928",mtc:daly-city-bart,Pedestrian Access Point,2,-122.46928,37.7060500000001
+108,"geom:37.70646,-122.46862",mtc:daly-city-bart,Pedestrian Access Point,2,-122.46862,37.70646
+109,"geom:37.70656,-122.46882",mtc:daly-city-bart,Pedestrian Access Point,2,-122.46882,37.70656
+110,"geom:37.70615,-122.46886",mtc:daly-city-bart,Pedestrian Access Point,2,-122.46886,37.70615
+111,COLM_1,906109,West Entrance / Exit to Parking Garage,2,-122.46635,37.6844800000001
+112,COLM_2,906109,East Entrance / Exit,2,-122.46603,37.6847700000001
+113,"geom:37.68331,-122.46793",906109,Pedestrian Access Point,2,-122.46793,37.6833100000001
+114,SSAN_2,906209,West Concourse Entrance / Exit,2,-122.44405,37.6641000000001
+115,SBRN_2,906309,Pedestrian Access Point,2,-122.41648,37.63771
+116,"geom:37.63790,-122.41625",906309,Pedestrian Access Point,2,-122.41625,37.6379000000001
+117,"geom:37.63763,-122.41609",906309,Pedestrian Access Point,2,-122.41609,37.6376300000001
+118,GLEN_1,901709,Main Entrance / Exit,2,-122.43387,37.73317
+119,"geom:37.60026,-122.38735",mtc:millbrae-bart,Main Entrance / Exit,2,-122.38735,37.60026
+120,"geom:37.59978,-122.38682",mtc:millbrae-bart,Main Entrance / Exit,2,-122.38682,37.5997800000001
+121,"geom:37.36876,-121.87445",909509,Pedestrian Access Point,2,-121.87445,37.3687600000001
+122,"geom:37.36849,-121.87439",909509,Pedestrian Access Point,2,-121.87439,37.3684900000001
+123,"geom:37.36824,-121.87425",909509,Pedestrian Access Point,2,-121.87425,37.3682400000001
+124,BERY_2,909509,North Entrance / Exit,2,-121.8749,37.3694400000001
+125,"geom:37.36896,-121.87502",909509,Pedestrian Access Point,2,-121.87502,37.3689600000001
+126,"geom:37.36900,-121.87477",909509,North Entrance / Exit,2,-121.87477,37.369
+127,"geom:37.36793,-121.87471",909509,Pedestrian Access Point,2,-121.87471,37.3679300000001
+128,"geom:37.40894,-121.89141",mtc:great-mall-milpitas-bart,West Station Entrance / Exit,2,-121.89141,37.40894
+129,"geom:37.41084,-121.89106",mtc:great-mall-milpitas-bart,East Station Entrance / Exit,2,-121.89106,37.4108400000001
+130,"geom:37.40982,-121.89054",mtc:great-mall-milpitas-bart,East Station Entrance / Exit,2,-121.89054,37.40982
+131,"geom:37.36802,-121.87430",909509,Pedestrian Access Point,2,-121.8743,37.3680200000001
+132,"geom:37.40986,-121.89121",mtc:great-mall-milpitas-bart,West Station Entrance / Exit,2,-121.89121,37.40986
+133,"geom:37.40995,-121.89125",mtc:great-mall-milpitas-bart,West Station Entrance / Exit,2,-121.89125,37.40995
+134,"geom:37.50182,-121.94044",mtc:warm-springs-south-fremont-bart,Pedestrian Access Point,2,-121.94044,37.5018200000001
+135,"geom:37.50194,-121.94040",mtc:warm-springs-south-fremont-bart,Pedestrian Access Point,2,-121.9404,37.50194
+136,"geom:37.50179,-121.94013",mtc:warm-springs-south-fremont-bart,Pedestrian Access Point,2,-121.94013,37.50179
+137,"geom:37.50218,-121.93860",mtc:warm-springs-south-fremont-bart,Pedestrian Access Point,2,-121.9386,37.5021800000001
+138,"geom:37.55767,-121.97650",902909,Pedestrian Access Point,2,-121.9765,37.55767
+139,"geom:37.55759,-121.97639",902909,Pedestrian Access Point,2,-121.97639,37.5575900000001
+140,UCTY_1,mtc:union-city-bart,Pedestrian Access Point,2,-122.01712,37.5908400000001
+141,"geom:37.59057,-122.01747",mtc:union-city-bart,Pedestrian Access Point,2,-122.01747,37.5905700000001
+142,"geom:37.59050,-122.01735",mtc:union-city-bart,Pedestrian Access Point,2,-122.01735,37.5905000000001
+143,"geom:37.59064,-122.01753",mtc:union-city-bart,Pedestrian Access Point,2,-122.01753,37.5906400000001
+144,"geom:37.66992,-122.08713",902609,Pedestrian Access Point,2,-122.08713,37.66992
+145,"geom:37.66980,-122.08728",902609,Pedestrian Access Point,2,-122.08728,37.6698000000001
+146,BAYF_1,902509,Pedestrian Access Point,2,-122.12641,37.69708
+147,"geom:37.69694,-122.12632",902509,Pedestrian Access Point,2,-122.12632,37.69694
+148,"geom:37.69708,-122.12646",902509,East Entrance / Exit,2,-122.12646,37.69708
+149,"geom:37.72162,-122.16050",902409,Pedestrian Access Point,2,-122.1605,37.72162
+150,"geom:37.72153,-122.16070",902409,Pedestrian Access Point,2,-122.1607,37.72153
+151,"geom:37.75380,-122.19716",mtc:oakland-coliseum-bart,San Leandro Street Entrance / Exit,2,-122.19716,37.7538000000001
+152,mtc:BA-FTVL_2-1643433662776,mtc:fruitvale,Enter/Exit : Station entrance,2,-122.22445,37.7750800000001
+153,mtc:BA-FTVL_3-1643433667504,mtc:fruitvale,Enter/Exit : Station entrance,2,-122.22448,37.7750500000001
+154,mtc:1643435575867,mtc:fruitvale,Southbound Elevator (Ground Level),2,-122.22435,37.7748700000001
+155,mtc:1643701439649,mtc:fruitvale,Northbound Elevator (Platform Level),2,-122.2242,37.77504
+156,51333,mtc:fruitvale,Pedestrian Access Point,2,-122.2246,37.77502
+157,"geom:37.77480,-122.22383",mtc:fruitvale,Pedestrian Access Point,2,-122.22383,37.7748
+158,"geom:37.77465,-122.22394",mtc:fruitvale,Pedestrian Access Point,2,-122.22394,37.7746500000001
+159,"geom:37.77506,-122.22460",mtc:fruitvale,Pedestrian Access Point,2,-122.2246,37.7750600000001
+160,"geom:37.84461,-122.25191",903109,Pedestrian Access Point,2,-122.25191,37.84461
+161,"geom:37.85335,-122.26978",904109,TDB Pedestrian Access Point,2,-122.26978,37.85335
+162,"geom:37.85274,-122.27000",904109,Adeline Street West Entrance / Exit,2,-122.27,37.85274
+163,"geom:37.85312,-122.26995",904109,TDB Pedestrian Access Point,2,-122.26995,37.85312
+164,"geom:37.85317,-122.26993",904109,TDB Pedestrian Access Point,2,-122.26993,37.85317
+165,"geom:37.85342,-122.26983",904109,TDB Pedestrian Access Point,2,-122.26983,37.85342
+166,"geom:37.87403,-122.28328",904309,North Entrance / Exit,2,-122.28328,37.8740300000001
+167,WDUB_1,905209,Pedestrian Access Point,2,-121.92783,37.7005100000001
+168,WDUB_2,905209,Pedestrian Access Point,2,-121.92791,37.69926
+169,"geom:37.66425,-122.44374",906209,Pedestrian Access Point,2,-122.44374,37.66425
+170,"geom:37.66437,-122.44392",906209,Pedestrian Access Point,2,-122.44392,37.6643700000001
+171,mtc:1590601891345,mtc:millbrae-bart,West Plaza Elevator (Concourse Level),2,-122.38707,37.6000300000001
+172,mtc:1590617125452,mtc:millbrae-bart,East Plaza Elevator (Ground Level),2,-122.38642,37.6003400000001
+173,"geom:37.33179,-121.90173",Future_BART_Station_Diridon,Future_BART_Station_Diridon,2,-121.90173,37.3317900000001
+174,0,mtc:palo-alto-station,Palo Alto Station,2,-122.16401,37.4427600000001
+175,"geom:37.59978,-122.38683",mtc:millbrae-bart,Millbrae BART,2,-122.38683,37.5997800000001
+176,"geom:37.70880,-122.40166",bayshore,Bayshore,2,-122.40166,37.7088000000001
+177,"geom:37.70880,-122.40168",bayshore,Bayshore,2,-122.40168,37.7088000000001
+178,"geom:37.58024,-122.34540",burlingame,Burlingame,2,-122.3454,37.5802400000001
+179,"geom:37.55271,-122.30924",hayward_park,Hayward Park,2,-122.30924,37.55271
+180,"geom:37.54248,-122.30168",hillsdale,Hillsdale,2,-122.30168,37.5424800000001
+181,"geom:37.54232,-122.30154",hillsdale,Hillsdale,2,-122.30154,37.5423200000001
+182,"geom:37.45430,-122.18141",menlo_park,Menlo Park,2,-122.18141,37.4543
+183,"geom:37.77674,-122.39475",mtc:caltrain-4th-&-king,Caltrain 4th & King,2,-122.39475,37.7767400000001
+184,"geom:37.77673,-122.39511",mtc:caltrain-4th-&-king,Caltrain 4th & King,2,-122.39511,37.77673
+185,"geom:37.77660,-122.39459",mtc:caltrain-4th-&-king,Caltrain 4th & King,2,-122.39459,37.7766
+186,"geom:37.77649,-122.39473",mtc:caltrain-4th-&-king,Caltrain 4th & King,2,-122.39473,37.77649
+187,"geom:37.77631,-122.39459",mtc:caltrain-4th-&-king,Caltrain 4th & King,2,-122.39459,37.7763100000001
+188,"geom:37.77687,-122.39494",mtc:caltrain-4th-&-king,Caltrain 4th & King,2,-122.39494,37.77687
+189,"geom:37.75761,-122.39278",22nd_street,22nd Street,2,-122.39278,37.7576100000001
+190,"geom:37.75759,-122.39217",22nd_street,22nd Street,2,-122.39217,37.7575900000001
+191,"geom:37.65565,-122.40552",south_sf,South San Francisco Caltrain Station,2,-122.40552,37.65565
+192,"geom:37.65474,-122.40579",south_sf,South San Francisco Caltrain Station,2,-122.40579,37.6547400000001
+193,"geom:37.65441,-122.40767",south_sf,South San Francisco Caltrain Station,2,-122.40767,37.65441
+194,"geom:37.63102,-122.41205",san_bruno,San Bruno Caltrain Station,2,-122.41205,37.63102
+195,"geom:37.63108,-122.41155",san_bruno,San Bruno Caltrain Station,2,-122.41155,37.6310800000001
+196,"geom:37.63117,-122.41193",san_bruno,San Bruno Caltrain Station,2,-122.41193,37.6311700000001
+197,"geom:37.63083,-122.41199",san_bruno,San Bruno Caltrain Station,2,-122.41199,37.6308300000001
+198,"geom:37.31264,-121.88479",tamien,Tamien Station,2,-121.88479,37.31264
+199,"geom:37.31268,-121.88470",tamien,Tamien Station,2,-121.8847,37.3126800000001
+200,"geom:37.32992,-121.90244",mtc:san-jose-diridon-station,San Jose Diridon Station,2,-121.90244,37.3299200000001
+201,"geom:37.33009,-121.90265",mtc:san-jose-diridon-station,San Jose Diridon Station,2,-121.90265,37.33009
+202,"geom:37.32905,-121.90367",mtc:san-jose-diridon-station,San Jose Diridon Station,2,-121.90367,37.3290500000001
+203,"geom:37.32967,-121.90254",mtc:san-jose-diridon-station,San Jose Diridon Station,2,-121.90254,37.3296700000001
+204,"geom:37.35357,-121.93652",mtc:santa-clara-caltrain,Santa Clara Caltrain,2,-121.93652,37.35357
+205,"geom:37.35334,-121.93663",mtc:santa-clara-caltrain,Santa Clara Caltrain,2,-121.93663,37.3533400000001
+206,"geom:37.37044,-121.99674",lawrence,Lawrence,2,-121.99674,37.37044
+207,"geom:37.37040,-121.99619",lawrence,Lawrence,2,-121.99619,37.3704000000001
+208,"geom:37.37062,-121.99570",lawrence,Lawrence,2,-121.9957,37.37062
+209,"geom:37.37069,-121.99592",lawrence,Lawrence,2,-121.99592,37.37069
+210,"geom:37.37069,-121.99607",lawrence,Lawrence,2,-121.99607,37.37069
+211,"geom:37.37069,-121.99674",lawrence,Lawrence,2,-121.99674,37.37069
+212,"geom:37.37068,-121.99666",lawrence,Lawrence,2,-121.99666,37.37068
+213,"geom:37.37070,-121.99704",lawrence,Lawrence,2,-121.99704,37.3707000000001
+214,"geom:37.37073,-121.99783",lawrence,Lawrence,2,-121.99783,37.37073
+215,"geom:37.37071,-121.99809",lawrence,Lawrence,2,-121.99809,37.37071
+216,"geom:37.37046,-121.99701",lawrence,Lawrence,2,-121.99701,37.37046
+217,"geom:37.37038,-121.99565",lawrence,Lawrence,2,-121.99565,37.3703800000001
+218,"geom:37.37877,-122.03086",sunnyvale,Sunnyvale,2,-122.03086,37.37877
+219,"geom:37.37869,-122.03063",sunnyvale,Sunnyvale,2,-122.03063,37.3786900000001
+220,"geom:37.37926,-122.03240",sunnyvale,Sunnyvale,2,-122.0324,37.37926
+221,"geom:37.37917,-122.03264",sunnyvale,Sunnyvale,2,-122.03264,37.37917
+222,"geom:37.37872,-122.03128",sunnyvale,Sunnyvale,2,-122.03128,37.37872
+223,"geom:37.37859,-122.03109",sunnyvale,Sunnyvale,2,-122.03109,37.37859
+224,"geom:37.37847,-122.03047",sunnyvale,Sunnyvale,2,-122.03047,37.37847
+225,"geom:37.37854,-122.03073",sunnyvale,Sunnyvale,2,-122.03073,37.37854
+226,"geom:37.37847,-122.03074",sunnyvale,Sunnyvale,2,-122.03074,37.37847
+227,"geom:37.37912,-122.03251",sunnyvale,Sunnyvale,2,-122.03251,37.3791200000001
+228,"geom:37.37859,-122.03041",sunnyvale,Sunnyvale,2,-122.03041,37.37859
+229,"geom:37.39435,-122.07597",mtc:mountain-view-station,Mountain View Station,2,-122.07597,37.39435
+230,"geom:37.39465,-122.07670",mtc:mountain-view-station,Mountain View Station,2,-122.0767,37.3946500000001
+231,"geom:37.39430,-122.07584",mtc:mountain-view-station,Mountain View Station,2,-122.07584,37.3943
+232,"geom:37.39494,-122.07677",mtc:mountain-view-station,Mountain View Station,2,-122.07677,37.3949400000001
+233,"geom:37.39394,-122.07492",mtc:mountain-view-station,Mountain View Station,2,-122.07492,37.39394
+234,"geom:37.39396,-122.07458",mtc:mountain-view-station,Mountain View Station,2,-122.07458,37.39396
+235,"geom:37.39478,-122.07661",mtc:mountain-view-station,Mountain View Station,2,-122.07661,37.39478
+236,"geom:37.39384,-122.07466",mtc:mountain-view-station,Mountain View Station,2,-122.07466,37.3938400000001
+237,"geom:37.40697,-122.10668",san_antonio,San Antonio,2,-122.10668,37.4069700000001
+238,"geom:37.40724,-122.10714",san_antonio,San Antonio,2,-122.10714,37.4072400000001
+239,"geom:37.40734,-122.10731",san_antonio,San Antonio,2,-122.10731,37.40734
+240,"geom:37.40762,-122.10774",san_antonio,San Antonio,2,-122.10774,37.4076200000001
+241,"geom:37.40784,-122.10809",san_antonio,San Antonio,2,-122.10809,37.4078400000001
+242,"geom:37.40700,-122.10642",san_antonio,San Antonio,2,-122.10642,37.407
+243,"geom:37.40812,-122.10826",san_antonio,San Antonio,2,-122.10826,37.4081200000001
+244,"geom:37.40706,-122.10659",san_antonio,San Antonio,2,-122.10659,37.4070600000001
+245,"geom:37.42921,-122.14202",california_ave,California Avenue,2,-122.14202,37.4292100000001
+246,"geom:37.42886,-122.14144",california_ave,California Avenue,2,-122.14144,37.42886
+247,"geom:37.42870,-122.14113",california_ave,California Avenue,2,-122.14113,37.4287
+248,"geom:37.42857,-122.14089",california_ave,California Avenue,2,-122.14089,37.42857
+249,"geom:37.42906,-122.14136",california_ave,California Avenue,2,-122.14136,37.42906
+250,"geom:37.42863,-122.14067",california_ave,California Avenue,2,-122.14067,37.4286300000001
+251,"geom:37.44371,-122.16544",mtc:palo-alto-station,Palo Alto Station,2,-122.16544,37.4437100000001
+252,"geom:37.44330,-122.16491",mtc:palo-alto-station,Palo Alto Station,2,-122.16491,37.4433000000001
+253,"geom:37.44353,-122.16540",mtc:palo-alto-station,Palo Alto Station,2,-122.1654,37.4435300000001
+254,"geom:37.44301,-122.16437",mtc:palo-alto-station,Palo Alto Station,2,-122.16437,37.4430100000001
+255,"geom:37.44311,-122.16455",mtc:palo-alto-station,Palo Alto Station,2,-122.16455,37.44311
+256,"geom:37.44356,-122.16469",mtc:palo-alto-station,Palo Alto Station,2,-122.16469,37.44356
+257,"geom:37.44394,-122.16515",mtc:palo-alto-station,Palo Alto Station,2,-122.16515,37.4439400000001
+258,"geom:37.44380,-122.16509",mtc:palo-alto-station,Palo Alto Station,2,-122.16509,37.4438000000001
+259,"geom:37.44330,-122.16435",mtc:palo-alto-station,Palo Alto Station,2,-122.16435,37.4433000000001
+260,"geom:37.44394,-122.16532",mtc:palo-alto-station,Palo Alto Station,2,-122.16532,37.4439400000001
+261,"geom:37.44411,-122.16558",mtc:palo-alto-station,Palo Alto Station,2,-122.16558,37.4441100000001
+262,"geom:37.45471,-122.18235",menlo_park,Menlo Park,2,-122.18235,37.45471
+263,"geom:37.45440,-122.18185",menlo_park,Menlo Park,2,-122.18185,37.4544000000001
+264,"geom:37.45479,-122.18269",menlo_park,Menlo Park,2,-122.18269,37.4547900000001
+265,"geom:37.45493,-122.18270",menlo_park,Menlo Park,2,-122.1827,37.45493
+266,"geom:37.45519,-122.18310",menlo_park,Menlo Park,2,-122.1831,37.4551900000001
+267,"geom:37.45421,-122.18151",menlo_park,Menlo Park,2,-122.18151,37.45421
+268,"geom:37.45434,-122.18146",menlo_park,Menlo Park,2,-122.18146,37.4543400000001
+269,"geom:37.45547,-122.18325",menlo_park,Menlo Park,2,-122.18325,37.45547
+270,"geom:37.45533,-122.18296",menlo_park,Menlo Park,2,-122.18296,37.4553300000001
+271,"geom:37.45516,-122.18271",menlo_park,Menlo Park,2,-122.18271,37.45516
+272,"geom:37.45536,-122.18337",menlo_park,Menlo Park,2,-122.18337,37.45536
+273,"geom:37.48617,-122.23219",redwood_city,Redwood City,2,-122.23219,37.4861700000001
+274,"geom:37.48636,-122.23257",redwood_city,Redwood City,2,-122.23257,37.48636
+275,"geom:37.48589,-122.23186",redwood_city,Redwood City,2,-122.23186,37.48589
+276,"geom:37.48522,-122.23071",redwood_city,Redwood City,2,-122.23071,37.48522
+277,"geom:37.48537,-122.23061",redwood_city,Redwood City,2,-122.23061,37.48537
+278,"geom:37.48651,-122.23241",redwood_city,Redwood City,2,-122.23241,37.4865100000001
+279,"geom:37.48632,-122.23213",redwood_city,Redwood City,2,-122.23213,37.48632
+280,"geom:37.48531,-122.23054",redwood_city,Redwood City,2,-122.23054,37.48531
+281,"geom:37.48573,-122.23116",redwood_city,Redwood City,2,-122.23116,37.48573
+282,"geom:37.50781,-122.25980",san_carlos,San Carlos,2,-122.2598,37.5078100000001
+283,"geom:37.50763,-122.25960",san_carlos,San Carlos,2,-122.2596,37.5076300000001
+284,"geom:37.50786,-122.26027",san_carlos,San Carlos,2,-122.26027,37.5078600000001
+285,"geom:37.50767,-122.26002",san_carlos,San Carlos,2,-122.26002,37.5076700000001
+286,"geom:37.50775,-122.26007",san_carlos,San Carlos,2,-122.26007,37.50775
+287,"geom:37.50835,-122.26045",san_carlos,San Carlos,2,-122.26045,37.5083500000001
+288,"geom:37.50788,-122.25993",san_carlos,San Carlos,2,-122.25993,37.5078800000001
+289,"geom:37.50756,-122.25956",san_carlos,San Carlos,2,-122.25956,37.5075600000001
+290,"geom:37.50743,-122.25971",san_carlos,San Carlos,2,-122.25971,37.5074300000001
+291,"geom:37.50749,-122.25996",san_carlos,San Carlos,2,-122.25996,37.5074900000001
+292,"geom:37.52050,-122.27541",belmont,Belmont,2,-122.27541,37.5205
+293,"geom:37.52132,-122.27640",belmont,Belmont,2,-122.2764,37.5213200000001
+294,"geom:37.52084,-122.27583",belmont,Belmont,2,-122.27583,37.5208400000001
+295,"geom:37.52131,-122.27625",belmont,Belmont,2,-122.27625,37.52131
+296,"geom:37.52159,-122.27619",belmont,Belmont,2,-122.27619,37.5215900000001
+297,"geom:37.52129,-122.27636",belmont,Belmont,2,-122.27636,37.5212900000001
+298,"geom:37.52123,-122.27644",belmont,Belmont,2,-122.27644,37.5212300000001
+299,"geom:37.54249,-122.30166",hillsdale,Hillsdale,2,-122.30166,37.54249
+300,"geom:37.54233,-122.30151",hillsdale,Hillsdale,2,-122.30151,37.54233
+301,"geom:37.54100,-122.30044",hillsdale,Hillsdale,2,-122.30044,37.5410000000001
+302,"geom:37.54120,-122.30061",hillsdale,Hillsdale,2,-122.30061,37.5412000000001
+303,"geom:37.54121,-122.30058",hillsdale,Hillsdale,2,-122.30058,37.54121
+304,"geom:37.54102,-122.30041",hillsdale,Hillsdale,2,-122.30041,37.5410200000001
+305,"geom:37.55292,-122.30933",hayward_park,Hayward Park,2,-122.30933,37.55292
+306,"geom:37.55311,-122.30943",hayward_park,Hayward Park,2,-122.30943,37.5531100000001
+307,"geom:37.55403,-122.30985",hayward_park,Hayward Park,2,-122.30985,37.5540300000001
+308,"geom:37.55397,-122.31008",hayward_park,Hayward Park,2,-122.31008,37.55397
+309,"geom:37.55291,-122.30959",hayward_park,Hayward Park,2,-122.30959,37.5529100000001
+310,"geom:37.55230,-122.30928",hayward_park,Hayward Park,2,-122.30928,37.5523000000001
+311,"geom:37.55235,-122.30909",hayward_park,Hayward Park,2,-122.30909,37.55235
+312,"geom:37.56772,-122.32332",san_mateo,San Mateo,2,-122.32332,37.5677200000001
+313,"geom:37.56823,-122.32392",san_mateo,San Mateo,2,-122.32392,37.56823
+314,"geom:37.56807,-122.32417",san_mateo,San Mateo,2,-122.32417,37.56807
+315,"geom:37.56778,-122.32373",san_mateo,San Mateo,2,-122.32373,37.56778
+316,"geom:37.56888,-122.32491",san_mateo,San Mateo,2,-122.32491,37.56888
+317,"geom:37.56821,-122.32412",san_mateo,San Mateo,2,-122.32412,37.5682100000001
+318,"geom:37.56836,-122.32427",san_mateo,San Mateo,2,-122.32427,37.56836
+319,"geom:37.56762,-122.32344",san_mateo,San Mateo,2,-122.32344,37.56762
+320,"geom:37.57981,-122.34501",burlingame,Burlingame,2,-122.34501,37.5798100000001
+321,"geom:37.57990,-122.34467",burlingame,Burlingame,2,-122.34467,37.5799000000001
+322,"geom:37.57987,-122.34451",burlingame,Burlingame,2,-122.34451,37.57987
+323,"geom:37.57934,-122.34323",burlingame,Burlingame,2,-122.34323,37.5793400000001
+324,"geom:37.58025,-122.34501",burlingame,Burlingame,2,-122.34501,37.58025
+325,"geom:37.58016,-122.34478",burlingame,Burlingame,2,-122.34478,37.58016
+326,"geom:37.58037,-122.34519",burlingame,Burlingame,2,-122.34519,37.5803700000001
+327,"geom:37.57946,-122.34315",burlingame,Burlingame,2,-122.34315,37.57946
+328,"geom:37.79033,-122.39496",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39496,37.79033
+329,"geom:37.79040,-122.39505",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39505,37.7904
+330,"geom:37.79064,-122.39534",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39534,37.7906400000001
+331,"geom:37.79059,-122.39528",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39528,37.7905900000001
+332,"geom:37.79011,-122.39601",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39601,37.79011
+333,"geom:37.78976,-122.39564",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39564,37.7897600000001
+334,"geom:37.78976,-122.39579",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39579,37.7897600000001
+335,"geom:37.78987,-122.39593",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39593,37.7898700000001
+336,"geom:37.78997,-122.39605",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39605,37.78997
+337,"geom:37.78995,-122.39624",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39624,37.78995
+338,"geom:37.78985,-122.39595",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39595,37.7898500000001
+339,"geom:37.78995,-122.39607",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39607,37.78995
+340,"geom:37.78974,-122.39580",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.3958,37.7897400000001
+341,"geom:37.78963,-122.39585",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39585,37.78963
+342,"geom:37.78939,-122.39694",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39694,37.78939
+343,"geom:37.78909,-122.39655",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39655,37.78909
+344,"geom:37.78927,-122.39690",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.3969,37.78927
+345,"geom:37.78903,-122.39661",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39661,37.78903
+346,"geom:37.78926,-122.39695",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39695,37.7892600000001
+347,"geom:37.78900,-122.39664",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39664,37.789
+348,"geom:37.78925,-122.39711",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39711,37.78925
+349,"geom:37.78893,-122.39672",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39672,37.7889300000001
+350,"geom:37.78890,-122.39753",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39753,37.7889000000001
+351,"geom:37.78859,-122.39715",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39715,37.7885900000001
+352,"geom:37.78858,-122.39796",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39796,37.78858
+353,"geom:37.78840,-122.39739",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39739,37.7884
+354,"geom:37.78810,-122.39856",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39856,37.7881
+355,"geom:37.78778,-122.39818",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39818,37.7877800000001
+356,"geom:37.78824,-122.39757",mtc:salesforce-transit-center,Salesforce Transit Center,2,-122.39757,37.78824
+357,"geom:37.63018,-122.41134",san_bruno,San Bruno Caltrain Station,2,-122.41134,37.6301800000001
+358,"geom:37.63010,-122.41156",san_bruno,San Bruno Caltrain Station,2,-122.41156,37.6301
+359,"geom:37.60027,-122.38736",mtc:millbrae-bart,Millbrae BART,2,-122.38736,37.6002700000001
+360,"geom:37.60039,-122.38652",mtc:millbrae-bart,Millbrae BART,2,-122.38652,37.6003900000001
+361,"geom:37.44292,-122.16370",mtc:palo-alto-station,Palo Alto Station,2,-122.1637,37.4429200000001
+362,"geom:37.44298,-122.16380",mtc:palo-alto-station,Palo Alto Station,2,-122.1638,37.44298
+363,"geom:37.42915,-122.14192",california_ave,California Avenue,2,-122.14192,37.42915
+364,"geom:37.40674,-122.10602",san_antonio,San Antonio,2,-122.10602,37.4067400000001
+365,"geom:37.40660,-122.10618",san_antonio,San Antonio,2,-122.10618,37.4066
+366,"geom:37.37900,-122.03214",sunnyvale,Sunnyvale,2,-122.03214,37.3790000000001
+367,"geom:37.39457,-122.07654",mtc:mountain-view-station,Mountain View Station,2,-122.07654,37.39457
+368,"geom:37.42824,-122.14036",california_ave,California Avenue,2,-122.14036,37.4282400000001
+369,"geom:37.44262,-122.16365",mtc:palo-alto-station,Palo Alto Station,2,-122.16365,37.44262
+370,"geom:37.48521,-122.23064",redwood_city,Redwood City,2,-122.23064,37.4852100000001
+371,"geom:37.48635,-122.23219",redwood_city,Redwood City,2,-122.23219,37.4863500000001
+372,"geom:37.48570,-122.23160",redwood_city,Redwood City,2,-122.2316,37.4857000000001
+373,"geom:37.55250,-122.30914",hayward_park,Hayward Park,2,-122.30914,37.5525000000001
+374,"geom:37.59951,-122.38661",mtc:millbrae-bart,Millbrae BART,2,-122.38661,37.5995100000001
+375,"geom:37.59910,-122.38619",mtc:millbrae-bart,Millbrae BART,2,-122.38619,37.5991000000001
+376,"geom:37.62919,-122.41116",san_bruno,San Bruno Caltrain Station,2,-122.41116,37.6291900000001
+377,"geom:37.62950,-122.41098",san_bruno,San Bruno Caltrain Station,2,-122.41098,37.6295000000001
+378,"geom:37.62919,-122.41079",san_bruno,San Bruno Caltrain Station,2,-122.41079,37.6291900000001
+379,"geom:37.63147,-122.41213",san_bruno,San Bruno Caltrain Station,2,-122.41213,37.63147
+380,"geom:37.63143,-122.41229",san_bruno,San Bruno Caltrain Station,2,-122.41229,37.6314300000001
+381,"geom:37.62874,-122.41114",san_bruno,San Bruno Caltrain Station,2,-122.41114,37.6287400000001
+382,"geom:37.62872,-122.41049",san_bruno,San Bruno Caltrain Station,2,-122.41049,37.62872
+383,"geom:37.65442,-122.40648",south_sf,South San Francisco Caltrain Station,2,-122.40648,37.6544200000001
+384,"geom:37.35387,-121.93650",Future_BART_Station_SantaClara,Santa Clara Caltrain,2,-121.9365,37.35387
+385,"geom:37.80279,-122.27149",mtc:12th-broadway,City Center NB,2,-122.27149,37.8027900000001
+386,"geom:37.72802,-122.15825",mtc:san-leandro-civic-center,San Leandro Civic Center NB,2,-122.15825,37.7280200000001
+387,"geom:37.72817,-122.15835",mtc:san-leandro-civic-center,San Leandro Civic Center NB,2,-122.15835,37.72817
+388,"geom:37.72842,-122.15880",mtc:san-leandro-civic-center,San Leandro Civic Center SB,2,-122.1588,37.72842
+389,"geom:37.72856,-122.15890",mtc:san-leandro-civic-center,San Leandro Civic Center SB,2,-122.1589,37.7285600000001
+390,"geom:37.73140,-122.16075",mtc:e14th-georgia-way,Georgia Way NB,2,-122.16075,37.7314000000001
+391,"geom:37.73155,-122.16086",mtc:e14th-georgia-way,Georgia Way NB,2,-122.16086,37.73155
+392,"geom:37.73218,-122.16159",mtc:e14th-georgia-way,Georgia Way SB,2,-122.16159,37.73218
+393,"geom:37.73204,-122.16149",mtc:e14th-georgia-way,Georgia Way SB,2,-122.16149,37.73204
+394,"geom:37.73554,-122.16393",mtc:e14th-durant,Durant Avenue,2,-122.16393,37.7355400000001
+395,"geom:37.73583,-122.16415",mtc:e14th-durant,Durant Avenue,2,-122.16415,37.7358300000001
+396,"geom:37.74055,-122.16767",mtc:international-103rd,103rd Avenue,2,-122.16767,37.74055
+397,"geom:37.74355,-122.16993",mtc:international-98th,98th Avenue,2,-122.16993,37.74355
+398,"geom:37.74587,-122.17164",mtc:international-95th,95th Avenue,2,-122.17164,37.74587
+399,"geom:37.74953,-122.17435",mtc:international-90th,90th Avenue,2,-122.17435,37.74953
+400,"geom:37.75247,-122.17652",mtc:international-86th,86th Avenue,2,-122.17652,37.7524700000001
+401,"geom:37.75565,-122.17961",mtc:international-82nd,82nd Avenue,2,-122.17961,37.7556500000001
+402,"geom:37.75797,-122.18450",mtc:international-77th,77th Avenue,2,-122.1845,37.7579700000001
+403,"geom:37.75976,-122.18827",mtc:international-73rd,73rd Avenue,2,-122.18827,37.75976
+404,"geom:37.76142,-122.19174",mtc:international-67th,67th Avenue,2,-122.19174,37.76142
+405,"geom:37.76338,-122.19592",mtc:international-63rd,63rd Avenue,2,-122.19592,37.76338
+406,"geom:37.72183,-122.16036",902409,San Leandro BART,2,-122.16036,37.7218300000001
+407,"geom:37.72181,-122.16040",902409,San Leandro BART,2,-122.1604,37.7218100000001
+408,"geom:37.72539,-122.15754",mtc:downtown-san-leandro,Downtown San Leandro NB,2,-122.15754,37.7253900000001
+409,"geom:37.72531,-122.15773",mtc:downtown-san-leandro,Downtown San Leandro NB,2,-122.15773,37.72531
+410,"geom:37.72544,-122.15796",mtc:downtown-san-leandro,Downtown San Leandro SB,2,-122.15796,37.72544
+411,"geom:37.72551,-122.15778",mtc:downtown-san-leandro,Downtown San Leandro SB,2,-122.15778,37.72551
+412,"geom:37.76554,-122.20042",mtc:international-seminary,Seminary,2,-122.20042,37.76554
+413,"geom:37.76796,-122.20558",mtc:international-54th,54th Avenue,2,-122.20558,37.7679600000001
+414,"geom:37.76951,-122.20890",mtc:international-48th,48th Avenue,2,-122.2089,37.76951
+415,"geom:37.77150,-122.21307",mtc:international-high,High Street,2,-122.21307,37.7715000000001
+416,"geom:37.77439,-122.21914",mtc:international-39th,39th Avenue,2,-122.21914,37.77439
+417,"geom:37.77658,-122.22369",mtc:international-fruitvale,Fruitvale,2,-122.22369,37.77658
+418,"geom:37.77822,-122.22712",mtc:international-31st,31st  Avenue,2,-122.22712,37.77822
+419,"geom:37.77992,-122.23012",mtc:international-28th,28th Avenue,2,-122.23012,37.7799200000001
+420,"geom:37.78270,-122.23477",mtc:international-24th,24th Avenue,2,-122.23477,37.7827
+421,"geom:37.78576,-122.23988",mtc:international-20th,20th Avenue,2,-122.23988,37.78576
+422,"geom:37.78932,-122.24580",mtc:international-14th,14th Avenue NB,2,-122.2458,37.78932
+423,"geom:37.78924,-122.24561",mtc:international-14th,14th Avenue NB,2,-122.24561,37.7892400000001
+424,"geom:37.79199,-122.24950",mtc:international-10th,10th Avenue NB,2,-122.2495,37.7919900000001
+425,"geom:37.79186,-122.24936",mtc:international-10th,10th Avenue NB,2,-122.24936,37.79186
+426,"geom:37.79602,-122.25406",mtc:international-5th,5th Avenue NB,2,-122.25406,37.7960200000001
+427,"geom:37.79590,-122.25392",mtc:international-5th,5th Avenue NB,2,-122.25392,37.7959000000001
+428,"geom:37.79785,-122.25613",mtc:international-2nd,2nd Avenue NB,2,-122.25613,37.79785
+429,"geom:37.79773,-122.25599",mtc:international-2nd,2nd Avenue NB,2,-122.25599,37.7977300000001
+430,"geom:37.79707,-122.25724",mtc:12th-2nd,2nd Avenue SB,2,-122.25724,37.7970700000001
+431,"geom:37.79695,-122.25709",mtc:12th-2nd,2nd Avenue SB,2,-122.25709,37.79695
+432,"geom:37.79368,-122.25334",mtc:12th-5th,5th Avenue SB,2,-122.25334,37.7936800000001
+433,"geom:37.79380,-122.25348",mtc:12th-5th,5th Avenue SB,2,-122.25348,37.7938
+434,"geom:37.79038,-122.24964",mtc:12th-10th,10th Avenue SB,2,-122.24964,37.79038
+435,"geom:37.79051,-122.24978",mtc:12th-10th,10th Avenue SB,2,-122.24978,37.79051
+436,"geom:37.78881,-122.24641",mtc:14th-12th,14th Avenue SB,2,-122.24641,37.7888100000001
+437,"geom:37.78866,-122.24649",mtc:14th-12th,14th Avenue SB,2,-122.24649,37.78866
+438,"geom:37.80012,-122.26468",mtc:12th-Madison,Madison NB,2,-122.26468,37.80012
+439,"geom:37.80004,-122.26450",mtc:12th-Madison,Madison NB,2,-122.2645,37.80004
+440,"geom:37.79947,-122.26562",mtc:11th-madison,Madison SB,2,-122.26562,37.79947
+441,"geom:37.80043,-122.26798",mtc:11th-harrison,Harrison SB,2,-122.26798,37.8004300000001
+442,"geom:37.80050,-122.26816",mtc:11th-harrison,Harrison SB,2,-122.26816,37.8005000000001
+443,"geom:37.80196,-122.26938",mtc:12th-harrison,Harrison NB,2,-122.26938,37.8019600000001
+444,"geom:37.80189,-122.26919",mtc:12th-harrison,Harrison NB,2,-122.26919,37.8018900000001
+445,"geom:37.80193,-122.27181",mtc:11th-broadway,City Center SB,2,-122.27181,37.80193
+446,"geom:37.80201,-122.27200",mtc:11th-broadway,City Center SB,2,-122.272,37.8020100000001
+447,"geom:37.80272,-122.27130",mtc:12th-broadway,City Center NB,2,-122.2713,37.8027200000001
+448,"geom:37.80420,-122.27145",mtc:broadway-14th,14th Street SB,2,-122.27145,37.8042
+449,"geom:37.80405,-122.27154",mtc:broadway-14th,14th Street SB,2,-122.27154,37.8040500000001
+450,"geom:37.80462,-122.27091",mtc:broadway-14th,14th Street NB,2,-122.27091,37.8046200000001
+451,"geom:37.80447,-122.27100",mtc:broadway-14th,14th Street NB,2,-122.271,37.80447
+452,"geom:37.80721,-122.26929",mtc:19th-st-oakland-bart,Uptown Oakland NB,2,-122.26929,37.8072100000001
+453,"geom:37.80708,-122.26937",mtc:19th-st-oakland-bart,Uptown Oakland NB,2,-122.26937,37.80708
+454,"geom:37.80868,-122.26860",mtc:19th-st-oakland-bart,Uptown Oakland SB,2,-122.2686,37.80868
+455,"geom:37.80853,-122.26870",mtc:19th-st-oakland-bart,Uptown Oakland SB,2,-122.2687,37.8085300000001
+456,64808,PS_LICK,Lick Mill Station,2,-121.96182,37.40835
+457,65237,PS_CROP,Cropley Station,2,-121.88192,37.4031800000001
+458,64809,PS_GRAM,Great America Station,2,-121.97508,37.4034300000001
+459,65857,mtc:alum-rock-king,Alum Rock & King,2,-121.85576,37.3527500000001
+460,65859,mtc:alum-rock-jackson,Alum Rock & Jackson,2,-121.84371,37.35846
+461,64765,PS_BONA,Bonaventura Station,2,-121.9292,37.38784
+462,65024,PS_MOFF,Moffett Park Station,2,-122.03333,37.4025
+463,64739,PS_BLSM,Blossom Hill Station,2,-121.84067,37.25257
+464,64771,PS_JAPN,Japantown/Ayer Station,2,-121.89787,37.3459500000001
+465,65378,PS_HAML,Hamilton Station,2,-121.9358,37.294
+466,64793,PS_CRSS,Crossman Station,2,-122.01111,37.4087700000001
+467,64798,PS_GRAM,Great America Station,2,-121.97508,37.4033700000001
+468,65250,PS_GRML,Great Mall Station,2,-121.90236,37.41448
+469,65235,PS_GRML,Great Mall Station,2,-121.90113,37.41418
+470,65238,PS_HOST,Hostetter Station,2,-121.86953,37.39509
+471,65244,PS_MKEE,Mckee Station,2,-121.84483,37.3720000000001
+472,65858,mtc:alum-rock-jackson,Alum Rock & Jackson,2,-121.84329,37.35855
+473,65236,mtc:great-mall-milpitas-bart,Milpitas Station,2,-121.8911,37.40973
+474,64780,PS_CPTL,Capitol Station,2,-121.86303,37.2742500000001
+475,65379,PS_CMBL,Campbell Station,2,-121.94301,37.28605
+476,65375,PS_RACE,Race Station,2,-121.91031,37.3176700000001
+477,65384,PS_BASC,Bascom Station,2,-121.93044,37.2994600000001
+478,65383,PS_FRTD,Fruitdale Station,2,-121.91844,37.3099700000001
+479,65249,mtc:great-mall-milpitas-bart,Milpitas Station,2,-121.89173,37.4091000000001
+480,"geom:37.29387,-121.93577",PS_HAML,Hamilton Station,2,-121.93577,37.29387
+481,"geom:37.28545,-121.94349",PS_CMBL,Campbell Station,2,-121.94349,37.28545
+482,64782,PS_BLSM,Blossom Hill Station,2,-121.84232,37.2534000000001
+483,64750,PS_JAPN,Japantown/Ayer Station,2,-121.89692,37.3446700000001
+484,64821,mtc:mountain-view-station,Mountain View Station,2,-122.07776,37.39534
+485,65388,PS_SFND,San Fernando Station,2,-121.89904,37.33005
+486,"geom:37.41436,-121.90217",PS_GRML,Great Mall Station,2,-121.90217,37.41436
+487,"geom:37.41419,-121.90100",PS_GRML,Great Mall Station,2,-121.901,37.4141900000001
+488,65856,mtc:alum-rock-king,Alum Rock & King,2,-121.85535,37.3528700000001
+489,65381,mtc:san-jose-diridon-station,Diridon Station,2,-121.9036,37.32811
+490,64803,PS_ALDR,Alder Station,2,-121.91704,37.4136800000001
+491,65243,PS_ALUM,Alum Rock Station,2,-121.83203,37.3580200000001
+492,65377,PS_BASC,Bascom Station,2,-121.9302,37.29931
+493,64806,PS_BAYP,Baypointe Station,2,-121.94143,37.4109500000001
+494,65246,PS_BRRS,Berryessa Station,2,-121.86244,37.3884600000001
+495,64781,PS_BRNM,Branham Station,2,-121.85919,37.26642
+496,New_VTA_Eastridge_LRT_Station,PS_ERTC,New_VTA_Eastridge_LRT_Station,2,-121.81111,37.3281900000001
+497,64756,PS_BONA,Bonaventura Station,2,-121.92936,37.3882400000001
+498,"geom:37.32900,-121.81171",PS_ERTC,New_VTA_Eastridge_LRT_Station,2,-121.81171,37.3290000000001
+499,64760,PS_BAYP,Baypointe Station,2,-121.94138,37.4108800000001
+500,65239,PS_BRRS,Berryessa Station,2,-121.86215,37.38802
+501,64790,PS_NASA,Bayshore Nasa Station,2,-122.05014,37.4047400000001
+502,64785,PS_TRSA,Santa Teresa Station,2,-121.78911,37.2367600000001
+503,64774,mtc:san-antonio-wb,San Antonio Station,2,-121.88771,37.33421
+504,"geom:37.31708,-121.91083",PS_RACE,Race Station,2,-121.91083,37.31708
+505,"geom:37.25256,-121.84058",PS_BLSM,Blossom Hill Station,2,-121.84058,37.2525600000001
+506,64776,PS_CDMS,Children's Discovery Museum Station,2,-121.89372,37.3277800000001
+507,64816,PS_LOCK,Lockheed Martin Station,2,-122.02716,37.4093100000001
+508,65023,PS_MOFF,Moffett Park Station,2,-122.03451,37.4024400000001
+509,64753,PS_METR,Metro/Airport Station,2,-121.91552,37.3697000000001
+510,"geom:37.40430,-122.04906",PS_NASA,Bayshore Nasa Station,2,-122.04906,37.4043
+511,65386,PS_CMBL,Campbell Station,2,-121.94332,37.28536
+512,65380,PS_WINC,Winchester Station,2,-121.94843,37.2791300000001
+513,"geom:37.40248,-122.03382",PS_MOFF,Moffett Park Station,2,-122.03382,37.40248
+514,64733,PS_OHLO,Ohlone-Chynoweth Station,2,-121.8598,37.2581300000001
+515,65245,PS_PENC,Penitencia Creek Station,2,-121.85531,37.3818900000001
+516,64811,PS_REAM,Reamwood Station,2,-121.98867,37.4036
+517,64796,PS_REAM,Reamwood Station,2,-121.98839,37.40349
+518,64747,mtc:san-antonio-eb,San Antonio Station,2,-121.88812,37.3329000000001
+519,64815,PS_BORR,Borregas Station,2,-122.01824,37.41175
+520,64792,PS_BORR,Borregas Station,2,-122.0178,37.4115600000001
+521,"geom:37.29985,-121.92965",PS_BASC,Bascom Station,2,-121.92965,37.29985
+522,"geom:37.33039,-121.89799",PS_SFND,San Fernando Station,2,-121.89799,37.3303900000001
+523,64772,mtc:saint-james-wb,Saint James Station,2,-121.89075,37.3382800000001
+524,64731,PS_OHLO,Ohlone-Chynoweth Station,2,-121.86018,37.2572700000001
+525,64818,PS_MIDD,Middlefield Station,2,-122.05194,37.39615
+526,64789,PS_MIDD,Middlefield Station,2,-122.05231,37.39514
+527,64763,PS_ROAK,River Oaks Station,2,-121.93941,37.4018
+528,"geom:37.33950,-121.89165",mtc:saint-james-wb,Saint James Station,2,-121.89165,37.3395
+529,64791,PS_LOCK,Lockheed Martin Station,2,-122.02686,37.4102100000001
+530,"geom:37.32721,-121.89314",PS_CDMS,Children's Discovery Museum Station,2,-121.89314,37.32721
+531,64744,PS_VIRG,Virginia Station,2,-121.89017,37.3199900000001
+532,64748,mtc:santa-clara-eb,Santa Clara Station,2,-121.88986,37.3352600000001
+533,64773,mtc:santa-clara-wb,Santa Clara Station,2,-121.88944,37.33653
+534,64757,PS_ORCH,Orchard Station,2,-121.93442,37.3951200000001
+535,64764,PS_ORCH,Orchard Station,2,-121.93427,37.3947200000001
+536,64749,mtc:saint-james-eb,Saint James Station,2,-121.89173,37.3377800000001
+537,"geom:37.33899,-121.89264",mtc:saint-james-eb,,2,-121.89264,37.33899
+538,65389,PS_SFND,San Fernando Station,2,-121.89804,37.3304900000001
+539,64807,PS_CHMP,Champion Station,2,-121.95271,37.4094900000001
+540,"geom:37.33850,-121.89227",mtc:saint-james-eb,Saint James Station,2,-121.89227,37.3385000000001
+541,64800,PS_CHMP,Champion Station,2,-121.95278,37.40941
+542,"geom:37.31058,-121.91795",PS_FRTD,Fruitdale Station,2,-121.91795,37.3105800000001
+543,65240,PS_PENC,Penitencia Creek Station,2,-121.85511,37.38158
+544,64802,PS_CISC,Cisco Station,2,-121.92817,37.4123200000001
+545,64768,PS_METR,Metro/Airport Station,2,-121.91537,37.3693200000001
+546,64766,PS_COMP,Component Station,2,-121.92524,37.38257
+547,"geom:37.25805,-121.85963",PS_OHLO,Ohlone-Chynoweth Station,2,-121.85963,37.25805
+548,"geom:37.25734,-121.86036",PS_OHLO,Ohlone-Chynoweth Station,2,-121.86036,37.2573400000001
+549,64797,PS_OLDI,Old Ironsides Station,2,-121.97996,37.4033200000001
+550,64758,PS_ROAK,River Oaks Station,2,-121.93957,37.4022000000001
+551,64770,PS_CIVC,Civic Center Station,2,-121.90192,37.3513
+552,"geom:37.33229,-121.88764",mtc:san-antonio-eb,San Antonio Station,2,-121.88764,37.3322900000001
+553,65382,PS_RACE,Race Station,2,-121.91013,37.3175000000001
+554,"geom:37.33897,-121.89126",mtc:saint-james-wb,,2,-121.89126,37.3389700000001
+555,"geom:37.41379,-121.90115",PS_GRML,,2,-121.90115,37.4137900000001
+556,"geom:37.32998,-121.89997",PS_SFND,San Fernando Station,2,-121.89997,37.32998
+557,"geom:37.33010,-121.89998",PS_SFND,San Fernando Station,2,-121.89998,37.3301000000001
+558,64778,PS_TAMN,Tamien Station,2,-121.88412,37.3110300000001
+559,64759,PS_TASM,Tasman Station,2,-121.94473,37.40903
+560,64795,PS_VIEN,Vienna Station,2,-121.99935,37.40333
+561,64819,PS_WHIS,Whisman Station,2,-122.05906,37.39169
+562,New_VTA_StoryRd_LRT_Station,New_VTA_StoryRd_LRT_Station,New_VTA_StoryRd_LRT_Station,2,-121.82629,37.3505400000001
+563,"geom:37.33606,-121.89046",mtc:santa-clara-eb,Santa Clara Station,2,-121.89046,37.33606
+564,"geom:37.41380,-121.90132",PS_GRML,,2,-121.90132,37.4138
+565,64755,PS_COMP,Component Station,2,-121.9254,37.3829700000001
+566,64746,PS_CONV,Convention Center Station,2,-121.88973,37.3301900000001
+567,"geom:37.39226,-122.05815",PS_WHIS,Whisman Station,2,-122.05815,37.3922600000001
+568,"geom:37.33341,-121.88712",mtc:san-antonio-wb,San Antonio Station,2,-121.88712,37.3334100000001
+569,"geom:37.33019,-121.89851",PS_SFND,San Fernando Station,2,-121.89851,37.3301900000001
+570,"geom:37.23585,-121.78954",PS_TRSA,Santa Teresa Station,2,-121.78954,37.23585
+571,64783,PS_SNLL,Snell Station,2,-121.83038,37.24699
+572,"geom:37.40887,-121.89133",mtc:great-mall-milpitas-bart,Milpitas Station,2,-121.89133,37.40887
+573,64769,PS_GISH,Gish Station,2,-121.90957,37.36157
+574,"geom:37.29406,-121.93588",PS_HAML,Hamilton Station,2,-121.93588,37.2940600000001
+575,"geom:37.40755,-121.96386",PS_LICK,Lick Mill Station,2,-121.96386,37.4075500000001
+576,"geom:37.27975,-121.94796",PS_WINC,Winchester Station,2,-121.94796,37.27975
+577,64737,PS_CTTL,Cottle Station,2,-121.80371,37.2427900000001
+578,64794,PS_FAIR,Fair Oaks Station,2,-122.01018,37.4029
+579,64754,PS_KRNA,Karina Station,2,-121.91993,37.3756300000001
+580,64767,PS_KRNA,Karina Station,2,-121.91978,37.37523
+581,65241,PS_MKEE,Mckee Station,2,-121.8447,37.3717100000001
+582,64786,mtc:mountain-view-station,Mountain View Station,2,-122.07665,37.3949000000001
+583,64812,PS_VIEN,Vienna Station,2,-121.9998,37.4034
+584,"geom:37.32905,-121.90369",mtc:san-jose-diridon-station,Diridon Station,2,-121.90369,37.3290500000001
+585,"geom:37.35053,-121.82632",New_VTA_StoryRd_LRT_Station,New_VTA_StoryRd_LRT_Station,2,-121.82632,37.35053
+586,"geom:37.35029,-121.82697",New_VTA_StoryRd_LRT_Station,,2,-121.82697,37.35029
+587,65248,PS_CROP,Cropley Station,2,-121.88222,37.4035000000001
+588,64752,PS_GISH,Gish Station,2,-121.90969,37.3619
+589,64799,PS_LICK,Lick Mill Station,2,-121.96382,37.40747
+590,"geom:37.35037,-121.82705",New_VTA_StoryRd_LRT_Station,New_VTA_StoryRd_LRT_Station,2,-121.82705,37.3503700000001
+591,"geom:37.33571,-121.88883",mtc:santa-clara-wb,Santa Clara Station,2,-121.88883,37.3357100000001
+592,64777,PS_VIRG,Virginia Station,2,-121.89013,37.31982
+593,64743,PS_TAMN,Tamien Station,2,-121.88496,37.3121100000001
+594,"geom:37.31110,-121.88417",PS_TAMN,Tamien Station,2,-121.88417,37.3111000000001
+595,64742,PS_CURT,Curtner Station,2,-121.87285,37.2943000000001
+596,64779,PS_CURT,Curtner Station,2,-121.87286,37.2943000000001
+597,"geom:37.29271,-121.87221",PS_CURT,Curtner Station,2,-121.87221,37.2927100000001
+598,64741,PS_CPTL,Capitol Station,2,-121.86318,37.2748100000001
+599,"geom:37.27439,-121.86305",PS_CPTL,Capitol Station,2,-121.86305,37.27439
+600,64740,PS_BRNM,Branham Station,2,-121.85909,37.2661600000001
+601,"geom:37.40232,-122.03452",PS_MOFF,Moffett Park Station,2,-122.03452,37.40232
+602,"geom:37.40236,-122.03332",PS_MOFF,Moffett Park Station,2,-122.03332,37.40236
+603,"geom:37.40894,-121.89128",mtc:great-mall-milpitas-bart,Milpitas Station,2,-121.89128,37.40894
+604,"geom:37.24808,-121.83031",PS_SNLL,Snell Station,2,-121.83031,37.2480800000001
+605,"geom:37.24806,-121.83014",PS_SNLL,Snell Station,2,-121.83014,37.2480600000001
+606,"geom:37.24278,-121.80331",PS_CTTL,Cottle Station,2,-121.80331,37.24278
+607,"geom:37.29264,-121.87218",PS_CURT,Curtner Station,2,-121.87218,37.2926400000001
+608,"geom:37.32905,-121.90351",mtc:san-jose-diridon-station,Diridon Station,2,-121.90351,37.3290500000001
+609,"geom:37.33573,-121.89020",mtc:santa-clara-eb,Santa Clara Station,2,-121.8902,37.3357300000001
+610,"geom:37.33620,-121.88920",mtc:santa-clara-wb,Santa Clara Station,2,-121.8892,37.3362000000001
+611,13124,mtc:3rd-folsom,3rd St & Folsom St,0,-122.39928,37.7841900000001
+612,"geom:37.78403,-122.39908",mtc:3rd-folsom,3rd St & Folsom St,0,-122.39908,37.78403
+613,13136,mtc:mission-3rd,3rd St & Mission St,0,-122.40211,37.78637
+614,13144,mtc:3rd-bryant,3rd St & Bryant St,0,-122.39618,37.7817200000001
+615,"geom:37.78157,-122.39600",mtc:3rd-bryant,3rd St & Bryant St,0,-122.396,37.78157
+616,13192,mtc:7th-folsom,7th St & Folsom St,0,-122.40792,37.7768600000001
+617,13194,mtc:7th-howard,7th St & Howard St,0,-122.40928,37.77795
+618,13296,mtc:16th-potrero,16th St & Potrero Ave,0,-122.40809,37.7658300000001
+619,13847,mtc:california-baker,California St & Baker St,0,-122.44363,37.78774
+620,13848,mtc:california-baker,California St & Baker St,0,-122.44338,37.7876200000001
+621,13858,mtc:california-divisadero,California St & Divisadero St,0,-122.44087,37.7880900000001
+622,13859,mtc:california-divisadero,California St & Divisadero St,0,-122.44072,37.7879500000001
+623,13884,mtc:california-pierce,California St & Pierce St,0,-122.43748,37.7885200000001
+624,14017,mtc:clay-front,Clay St & Front St,0,-122.39894,37.79517
+625,14026,mtc:clay-polk,Clay St & Polk St,0,-122.42069,37.7923900000001
+626,14028,mtc:clay-sansome,Clay St & Sansome St,0,-122.40121,37.7948000000001
+627,14255,mtc:geary-3rd,Geary Blvd & 3rd Ave,0,-122.4609,37.7813100000001
+628,14256,mtc:geary-3rd,Geary Blvd & 3rd Ave,0,-122.46127,37.7810200000001
+629,14257,mtc:geary-6th,Geary Blvd & 6th Ave,0,-122.4641,37.78117
+630,14258,mtc:geary-6th,Geary Blvd & 6th Ave,0,-122.46447,37.7808900000001
+631,14259,mtc:geary-9th,Geary Blvd & 9th Ave,0,-122.46781,37.7810200000001
+632,14260,mtc:geary-9th,Geary Blvd & 9th Ave,0,-122.46716,37.7807700000001
+633,14269,mtc:geary-25th,Geary Blvd & 25th Ave,0,-122.48457,37.7802500000001
+634,14270,mtc:geary-25th,Geary Blvd & 25th Ave,0,-122.48457,37.77995
+635,14271,mtc:geary-28th,Geary Blvd & 28th Ave,0,-122.48777,37.7800800000001
+636,14272,mtc:geary-28th,Geary Blvd & 28th Ave,0,-122.48813,37.7798000000001
+637,14273,mtc:geary-30th,Geary Blvd & 30th Ave,0,-122.48993,37.7799900000001
+638,14274,mtc:geary-30th,Geary Blvd & 30th Ave,0,-122.49019,37.77973
+639,14275,mtc:geary-32nd,Geary Blvd & 32nd Ave,0,-122.49171,37.7796300000001
+640,14288,mtc:geary-arguello,Geary Blvd & Arguello Blvd,0,-122.45856,37.7811600000001
+641,14289,mtc:geary-stjosephs,Geary Blvd & Baker St,0,-122.44314,37.7830000000001
+642,14290,mtc:geary-collins,Geary Blvd & Collins St,0,-122.44999,37.7822400000001
+643,14291,mtc:geary-collins,Geary Blvd & Collins St,0,-122.44991,37.7820300000001
+644,14292,mtc:geary-stanyan,Geary Blvd & Commonwealth St,0,-122.45589,37.78155
+645,14293,mtc:geary-divisadero,Geary Blvd & Divisadero St,0,-122.43929,37.78349
+646,14294,mtc:geary-divisadero,Geary Blvd & Divisadero St,0,-122.43969,37.78313
+647,14295,mtc:geary-fillmore,Geary Blvd & Fillmore St,0,-122.43328,37.78452
+648,14298,mtc:geary-gough,Geary Blvd & Gough St,0,-122.42527,37.7854600000001
+649,14300,mtc:geary-jones,Geary St & Jones St,0,-122.4135,37.7867600000001
+650,14301,mtc:kearny-geary,Geary St & Kearny St,0,-122.40388,37.7879800000001
+651,14302,mtc:geary-larkin,Geary St & Larkin St,0,-122.41842,37.7861500000001
+652,14303,mtc:geary-leavenworth,Geary St & Leavenworth St,0,-122.41528,37.78653
+653,14304,mtc:geary-laguna,Geary Blvd & Laguna St,0,-122.42784,37.7851600000001
+654,14305,mtc:geary-laguna,Geary Blvd & Laguna St,0,-122.42817,37.78479
+655,14755,mtc:geary-park-presidio,Geary Blvd & Park Presidio Blvd,0,-122.4727,37.78081
+656,14756,mtc:geary-park-presidio,Geary Blvd & Park Presidio Blvd,0,-122.47196,37.7804800000001
+657,14757,mtc:geary-powell,Geary St & Powell St,0,-122.40858,37.78738
+658,14760,mtc:geary-scott,Geary Blvd & Scott St,0,-122.43766,37.7839000000001
+659,14761,mtc:geary-scott,Geary Blvd & Scott St,0,-122.43754,37.78355
+660,14762,mtc:geary-spruce,Geary Blvd & Spruce St,0,-122.45307,37.7818500000001
+661,14763,mtc:geary-spruce,Geary Blvd & Spruce St,0,-122.45326,37.7816
+662,14764,mtc:geary-stanyan,Geary Blvd & Stanyan St,0,-122.45643,37.78126
+663,14765,mtc:geary-stjosephs,Geary Blvd & St Joseph'S Ave,0,-122.44234,37.78281
+664,14767,mtc:geary-taylor,Geary St & Taylor St,0,-122.41192,37.78695
+665,14769,mtc:geary-webster,Geary Blvd & Webster St,0,-122.43093,37.7848300000001
+666,14821,mtc:kearny-geary,Kearny St & Geary St,0,-122.40349,37.7884
+667,15532,mtc:mission-3rd,Mission St & 3rd St,0,-122.40236,37.78614
+668,15533,mtc:mission-4th,Mission St & 4th St,0,-122.40362,37.7848900000001
+669,15535,mtc:mission-5th,Mission St & 5th St,0,-122.40657,37.7825700000001
+670,15536,mtc:mission-5th,Mission St & 5th St,0,-122.40707,37.7824200000001
+671,15537,mtc:mission-6th,Mission St & 6th St,0,-122.40831,37.78119
+672,15538,mtc:mission-6th,Mission St & 6th St,0,-122.40905,37.78083
+673,15539,mtc:mission-7th,Mission St & 7th St,0,-122.41135,37.7789700000001
+674,15540,mtc:mission-8th,Mission St & 8th St,0,-122.41355,37.77723
+675,15541,mtc:mission-8th,Mission St & 8th St,0,-122.41291,37.77754
+676,15542,mtc:mission-9th,Mission St & 9th St,0,-122.41431,37.7764500000001
+677,15543,mtc:mission-9th,Mission St & 9th St,0,-122.41502,37.7760900000001
+678,15544,mtc:mission-11th,Mission St & 11th St,0,-122.41726,37.77412
+679,15545,mtc:mission-11th,Mission St & 11th St,0,-122.41756,37.7741100000001
+680,15548,mtc:mission-14th,Mission St & 14th St,0,-122.42008,37.7680500000001
+681,15552,901509,Mission St & 16th St,0,-122.41974,37.7648
+682,15554,mtc:mission-18th,Mission St & 18th St,0,-122.41947,37.7616200000001
+683,15558,mtc:mission-20th,Mission St & 20th St,0,-122.41914,37.75841
+684,15562,mtc:mission-22nd,Mission St & 22nd St,0,-122.41884,37.75505
+685,15566,901609,Mission St & 24th St,0,-122.41853,37.7519600000001
+686,15568,mtc:mission-26th,Mission St & 26th St,0,-122.41823,37.7487600000001
+687,15571,mtc:mission-30th,Mission St & 30th St,0,-122.42173,37.7426100000001
+688,15572,mtc:mission-30th,Mission St & 30th St,0,-122.42198,37.7425500000001
+689,15626,mtc:mission-valencia,Mission St & Valencia St,0,-122.42026,37.74521
+690,15813,mtc:ofarrell-larkin,O'Farrell St & Larkin St,0,-122.4176,37.78515
+691,15814,mtc:ofarrell-leavenworth,O'Farrell St & Leavenworth St,0,-122.41422,37.7855700000001
+692,15817,mtc:ofarrell-powell,O'Farrell St & Powell St,0,-122.40818,37.7863600000001
+693,16034,mtc:potrero-21st,Potrero Ave & 21st St,0,-122.40694,37.7575000000001
+694,16037,mtc:potrero-23rd,Potrero Ave & 23rd St,0,-122.40668,37.7551300000001
+695,16290,mtc:sacramento-battery,Sacramento St & Battery St,0,-122.40055,37.79416
+696,16294,mtc:sacramento-davis,Sacramento St & Davis St,0,-122.3976,37.7945500000001
+697,16297,mtc:sacramento-franklin,Sacramento St & Franklin St,0,-122.42405,37.7911800000001
+698,16307,mtc:sacramento-montgomery,Sacramento St & Montgomery St,0,-122.40334,37.7937900000001
+699,16311,mtc:sacramento-polk,Sacramento St & Polk St,0,-122.42118,37.79155
+700,16317,mtc:van-ness-sacramento,Sacramento St & Van Ness Ave,0,-122.42227,37.79141
+701,17129,mtc:mission-7th,Mission St & 7th St,0,-122.41053,37.7794200000001
+702,17301,mtc:ofarrell-taylor,O'Farrell St & Taylor St,0,-122.41198,37.78585
+703,17761,mtc:16th-rhode-island,16th St& Rhode Island St,0,-122.40282,37.76604
+704,17762,mtc:16th-wisconsin,16th St & Wisconsin St,0,-122.39993,37.76622
+705,17763,mtc:16th-missouri,16th St & Missouri St,0,-122.39702,37.76635
+706,17767,mtc:16th-4th,16th Street & 4th Street,0,-122.39089,37.7668600000001
+707,17768,mtc:16th-missouri,16th Street & Missouri St,0,-122.39704,37.7665200000001
+708,17769,mtc:16th-wisconsin,16th Street & Wisconsin St,0,-122.40022,37.76633
+709,17770,mtc:16th-rhode-island,16th Street & Rhode Island St,0,-122.40287,37.7662
+710,17841,mtc:mission-power,Mission St & Power St,0,-122.41921,37.7465100000001
+711,17854,mtc:geary-arguello,Geary Blvd & Arguello Blvd,0,-122.4595,37.78137
+712,17865,mtc:16th-owen,16th Street & Owen St,0,-122.39328,37.7667900000001
+713,17866,mtc:16th-owen,16th St & Owen St,0,-122.3922,37.7666400000001
+714,17912,mtc:potrero-19th,Potrero Ave & 19th St,0,-122.40721,37.76039
+715,17954,mtc:geary-fillmore,Geary Blvd & Fillmore St,0,-122.432,37.78427
+716,18089,mtc:van-ness-mcallister,Van Ness Ave & Mcallister St,0,-122.42021,37.7799400000001
+717,18090,mtc:van-ness-eddy,Van Ness Ave & Eddy St,0,-122.42077,37.78283
+718,18091,mtc:van-ness-gearey,Van Ness Ave & Geary Blvd,0,-122.42132,37.7856200000001
+719,18092,mtc:van-ness-bush,Van Ness Ave & Bush St,0,-122.4219,37.78842
+720,18093,mtc:van-ness-clay,Van Ness Ave & Clay St,0,-122.42265,37.79213
+721,18094,mtc:van-ness-pacific,Van Ness Ave & Pacific St,0,-122.42318,37.7947600000001
+722,18095,mtc:van-ness-vallejo,Van Ness Ave & Vallejo St,0,-122.42358,37.79679
+723,18096,mtc:van-ness-union,Van Ness Ave & Union St,0,-122.42393,37.79846
+724,18097,mtc:van-ness-union,Van Ness Ave & Union St,0,-122.42408,37.79864
+725,18098,mtc:van-ness-vallejo,Van Ness Ave & Vallejo St,0,-122.4237,37.7967800000001
+726,18099,mtc:van-ness-jackson,Van Ness Ave & Jackson St,0,-122.42312,37.7940400000001
+727,18100,mtc:van-ness-sacramento,Van Ness Ave & Sacramento St,0,-122.42262,37.79141
+728,18102,mtc:van-ness-ofarrell,Van Ness Ave & O'Farrell St,0,-122.42128,37.78484
+729,18103,mtc:van-ness-eddy,Van Ness Ave & Eddy St,0,-122.42091,37.7829800000001
+730,18104,mtc:van-ness-mcallister,Van Ness Ave & Mcallister St,0,-122.42034,37.78018
+731,17874,mtc:union-square,Union Square/Market St Station Southbound,0,-122.40652,37.78713
+732,14758,mtc:geary-masonic,Geary Blvd & Presidio Ave,0,-122.44681,37.7825500000001
+733,17953,mtc:geary-masonic,Geary Blvd & Masonic St,0,-122.4468,37.78223
+734,16016,mtc:post-larkin,Post St & Larkin St,0,-122.41772,37.7870500000001
+735,16017,mtc:post-leavenworth,Post St & Leavenworth St,0,-122.41459,37.78745
+736,16019,mtc:post-kearny,Post St & Kearny St,0,-122.40282,37.7889700000001
+737,16021,mtc:post-polk,Post St & Polk St,0,-122.41956,37.7868
+738,16023,mtc:post-taylor,Post St & Taylor St,0,-122.41144,37.78785
+739,16125,mtc:post-grant,Post St & Grant Ave,0,-122.40599,37.78855
+740,16126,mtc:post-hyde,Post St & Hyde St,0,-122.41626,37.7872400000001
+741,16127,mtc:post-jones,Post St & Jones St,0,-122.41303,37.78765
+742,16594,mtc:sutter-hyde,Sutter St & Hyde St,0,-122.41712,37.78822
+743,16595,mtc:sutter-jones,Sutter St & Jones St,0,-122.41384,37.7886300000001
+744,16598,mtc:sutter-leavenworth,Sutter St & Leavenworth St,0,-122.4155,37.7884
+745,16601,mtc:sutter-mason,Sutter St & Mason St,0,-122.41063,37.78905
+746,16603,mtc:sutter-polk,Sutter St & Polk St,0,-122.42017,37.7875500000001
+747,16612,mtc:sutter-taylor,Sutter St & Taylor St,0,-122.41226,37.7888400000001
+748,16516,mtc:union-square,Stockton St & Geary St,0,-122.40669,37.7876600000001
+749,13208,mtc:mission-8th,8th St & Mission St,0,-122.41313,37.77736
+750,14263,mtc:geary-17th,Geary Blvd & 17th Ave,0,-122.47594,37.7806400000001
+751,14264,mtc:geary-17th,Geary Blvd & 17th Ave,0,-122.47647,37.78033
+752,18088,mtc:market-van-ness-nb,South Van Ness Ave & Market St,0,-122.41921,37.7750100000001
+753,18105,mtc:market-van-ness-sb,Van Ness Ave & Market St,0,-122.41934,37.7753300000001
+754,17870,mtc:otis-mccoppin,Otis & Mccoppin St,0,-122.42041,37.77137
+755,15836,mtc:otis-12th,Otis St & 12th St,0,-122.41917,37.77281
+756,13599,mtc:taraval-46th,46th Ave & Taraval St,0,-122.50454,37.74183
+757,18136,mtc:ulloa-14th,Ulloa St & 14th Ave,0,-122.47004,37.7414900000001
+758,"geom:37.74137,-122.47022",mtc:ulloa-14th,Ulloa St & 14th Ave,0,-122.47022,37.7413700000001
+759,13266,mtc:taraval-16th,15th Ave & Taraval St,0,-122.4713,37.74312
+760,"geom:37.74326,-122.47156",mtc:taraval-16th,15th Ave & Taraval St,0,-122.47156,37.7432600000001
+761,16615,mtc:taraval-16th,Taraval St & 17th Ave,0,-122.47347,37.7431100000001
+762,"geom:37.74311,-122.47368",mtc:taraval-16th,Taraval St & 17th Ave,0,-122.47368,37.7431100000001
+763,16616,mtc:taraval-19th,Taraval St & 19th Ave,0,-122.47551,37.7431100000001
+764,"geom:37.74301,-122.47582",mtc:taraval-19th,Taraval St & 19th Ave,0,-122.47582,37.74301
+765,16619,mtc:taraval-22nd-23rd,Taraval St & 22nd Ave,0,-122.47795,37.7429300000001
+766,"geom:37.74288,-122.47882",mtc:taraval-22nd-23rd,Taraval St & 22nd Ave,0,-122.47882,37.7428800000001
+767,16620,mtc:taraval-22nd-23rd,Taraval St & 23rd Ave,0,-122.4801,37.74289
+768,16622,mtc:taraval-26th,Taraval St & 26th Ave,0,-122.48311,37.7427500000001
+769,"geom:37.74269,-122.48331",mtc:taraval-26th,Taraval St & 26th Ave,0,-122.48331,37.74269
+770,16626,mtc:taraval-30th,Taraval St & 30th Ave,0,-122.48739,37.7425700000001
+771,"geom:37.74251,-122.48760",mtc:taraval-30th,Taraval St & 30th Ave,0,-122.4876,37.74251
+772,16628,mtc:taraval-32nd,Taraval St & 32nd Ave,0,-122.48954,37.74247
+773,"geom:37.74241,-122.48974",mtc:taraval-32nd,Taraval St & 32nd Ave,0,-122.48974,37.7424100000001
+774,16640,mtc:taraval-sunset,Taraval St & Sunset Blvd,0,-122.49428,37.7422700000001
+775,16641,mtc:taraval-sunset,Taraval St & Sunset Blvd,0,-122.49508,37.7421600000001
+776,"geom:37.74218,-122.49464",mtc:taraval-sunset,Taraval St & Sunset Blvd,0,-122.49464,37.7421800000001
+777,16632,mtc:taraval-40th,Taraval St & 40th Ave,0,-122.49811,37.7421200000001
+778,"geom:37.74203,-122.49832",mtc:taraval-40th,Taraval St & 40th Ave,0,-122.49832,37.7420300000001
+779,16634,mtc:taraval-42nd,Taraval St & 42nd Ave,0,-122.50025,37.74202
+780,"geom:37.74194,-122.50025",mtc:taraval-42nd,Taraval St & 42nd Ave,0,-122.50025,37.7419400000001
+781,"geom:37.74194,-122.50046",mtc:taraval-42nd,Taraval St & 42nd Ave,0,-122.50046,37.7419400000001
+782,"geom:37.74201,-122.50047",mtc:taraval-42nd,Taraval St & 42nd Ave,0,-122.50047,37.7420100000001
+783,16636,mtc:taraval-44th,Taraval St & 44th Ave,0,-122.50239,37.7419200000001
+784,"geom:37.74184,-122.50260",mtc:taraval-44th,Taraval St & 44th Ave,0,-122.5026,37.74184
+785,16738,mtc:west-portal,West Portal Station,0,-122.46593,37.7410800000001
+786,"geom:37.74130,-122.46587",mtc:west-portal,West Portal Station,0,-122.46587,37.7413
+787,16993,mtc:forest-hill,Forest Hill Station,0,-122.45908,37.7481300000001
+788,15728,mtc:castro,Metro Castro Station,0,-122.43561,37.7626900000001
+789,15419,mtc:van-ness,Van Ness,0,-122.41964,37.77507
+790,"geom:37.77562,-122.41896",mtc:van-ness,Metro Van Ness Station,0,-122.41896,37.7756200000001
+791,"geom:37.77524,-122.41896",mtc:van-ness,Van Ness,0,-122.41896,37.7752400000001
+792,15199,mtc:judah-19th,Judah St & 19th Ave,0,-122.47717,37.7616600000001
+793,15198,mtc:judah-15th-16th,Judah St & 16th Ave,0,-122.47371,37.7618900000001
+794,"geom:37.76188,-122.47390",mtc:judah-15th-16th,Judah St & 16th Ave,0,-122.4739,37.7618800000001
+795,15197,mtc:judah-15th-16th,Judah St & 15th Ave,0,-122.47258,37.7618600000001
+796,"geom:37.76185,-122.47285",mtc:judah-15th-16th,Judah St & 15th Ave,0,-122.47285,37.76185
+797,15223,mtc:judah-laplaya-oceanbeach,Judah/La Playa/Ocean Beach,0,-122.50831,37.7602900000001
+798,"geom:37.76039,-122.50792",mtc:judah-laplaya-oceanbeach,Judah/La Playa/Ocean Beach,0,-122.50792,37.76039
+799,15215,mtc:judah-46th,Judah St & 46th Ave,0,-122.50584,37.7604700000001
+800,15211,mtc:judah-40th,Judah St & 40th Ave,0,-122.49943,37.76075
+801,"geom:37.76068,-122.49942",mtc:judah-40th,Judah St & 40th Ave,0,-122.49942,37.76068
+802,15213,mtc:judah-43rd,Judah St & 43rd Ave,0,-122.50263,37.76061
+803,"geom:37.76053,-122.50283",mtc:judah-43rd,Judah St & 43rd Ave,0,-122.50283,37.7605300000001
+804,15224,mtc:judah-sunset,Judah St & Sunset Blvd,0,-122.49594,37.76084
+805,15225,mtc:judah-sunset,Judah St & Sunset Blvd,0,-122.49621,37.76082
+806,"geom:37.76092,-122.49561",mtc:judah-sunset,Judah St & Sunset Blvd,0,-122.49561,37.7609200000001
+807,"geom:37.76094,-122.49532",mtc:judah-sunset,Judah St & Sunset Blvd,0,-122.49532,37.7609400000001
+808,15209,mtc:judah-34th,Judah St & 34th Ave,0,-122.49299,37.76104
+809,"geom:37.76096,-122.49318",mtc:judah-34th,Judah St & 34th Ave,0,-122.49318,37.7609600000001
+810,15207,mtc:judah-31st,Judah St & 31st Ave,0,-122.48977,37.76118
+811,"geom:37.76111,-122.48977",mtc:judah-31st,Judah St & 31st Ave,0,-122.48977,37.76111
+812,15205,mtc:judah-28th,Judah St & 28th Ave,0,-122.48675,37.76124
+813,"geom:37.76133,-122.48653",mtc:judah-28th,Judah St & 28th Ave,0,-122.48653,37.76133
+814,15203,mtc:judah-25th,Judah St & 25th Ave,0,-122.48354,37.76138
+815,"geom:37.76146,-122.48335",mtc:judah-25th,Judah St & 25th Ave,0,-122.48335,37.7614600000001
+816,15202,mtc:judah-22nd-23rd,Judah St & 23rd Ave,0,-122.48121,37.76156
+817,15201,mtc:judah-22nd-23rd,Judah St & 22nd Ave,0,-122.48013,37.7615300000001
+818,"geom:37.76175,-122.47689",mtc:judah-19th,Judah St & 19th Ave,0,-122.47689,37.7617500000001
+819,15219,mtc:judah-funston,Judah St & Funston Ave,0,-122.47058,37.7619500000001
+820,"geom:37.76204,-122.47039",mtc:judah-funston,Judah St & Funston Ave,0,-122.47039,37.7620400000001
+821,15195,mtc:judah-12th,Judah St & 12th Ave,0,-122.46931,37.76208
+822,"geom:37.76200,-122.46951",mtc:judah-12th,Judah St & 12th Ave,0,-122.46951,37.7620000000001
+823,15193,mtc:judah-9th,Judah St & 9th Ave,0,-122.46718,37.7621800000001
+824,"geom:37.76210,-122.46717",mtc:judah-9th,Judah St & 9th Ave,0,-122.46717,37.7621
+825,17999,mtc:irving-9th,9th Ave & Irving St,0,-122.46636,37.76363
+826,"geom:37.76337,-122.46634",mtc:irving-9th,9th Ave & Irving St,0,-122.46634,37.7633700000001
+827,17996,mtc:irving-9th,Irving St & 8th Ave,0,-122.46537,37.7640500000001
+828,"geom:37.76404,-122.46562",mtc:irving-9th,Irving St & 8th Ave,0,-122.46562,37.7640400000001
+829,18032,mtc:irving-5th-and-6th,Irving St & 6th Ave,0,-122.46302,37.76426
+830,"geom:37.76427,-122.46275",mtc:irving-5th-and-6th,Irving St & 6th Ave,0,-122.46275,37.7642700000001
+831,18031,mtc:irving-5th-and-6th,Irving St & 5th Ave,0,-122.46217,37.7641800000001
+832,"geom:37.76418,-122.46243",mtc:irving-5th-and-6th,Irving St & 5th Ave,0,-122.46243,37.7641800000001
+833,15124,mtc:irving-2nd-and-arguello,Irving St & Arguello Blvd,0,-122.45801,37.76437
+834,15118,mtc:irving-2nd-and-arguello,Irving St & 2nd Ave,0,-122.45849,37.7643400000001
+835,"geom:37.76441,-122.45896",mtc:irving-2nd-and-arguello,Irving St & 2nd Ave,0,-122.45896,37.7644100000001
+836,"geom:37.76443,-122.45871",mtc:irving-2nd-and-arguello,Irving St & 2nd Ave,0,-122.45871,37.7644300000001
+837,13912,mtc:carl-and-hillway,Carl St & Hillway Ave,0,-122.45661,37.76503
+838,"geom:37.76504,-122.45651",mtc:carl-and-hillway,Carl St & Hillway Ave,0,-122.45651,37.7650400000001
+839,"geom:37.76491,-122.45658",mtc:carl-and-hillway,Carl St & Hillway Ave,0,-122.45658,37.76491
+840,"geom:37.76493,-122.45647",mtc:carl-and-hillway,Carl St & Hillway Ave,0,-122.45647,37.76493
+841,13914,mtc:carl-and-stanyan,Carl St & Stanyan St,0,-122.45288,37.76539
+842,"geom:37.76538,-122.45296",mtc:carl-and-stanyan,Carl St & Stanyan St,0,-122.45296,37.7653800000001
+843,"geom:37.76550,-122.45269",mtc:carl-and-stanyan,Carl St & Stanyan St,0,-122.45269,37.7655
+844,"geom:37.76552,-122.45253",mtc:carl-and-stanyan,Carl St & Stanyan St,0,-122.45253,37.76552
+845,13909,mtc:carl-and-cole,Carl St & Cole St,0,-122.4499,37.7658900000001
+846,"geom:37.76601,-122.44931",mtc:carl-and-cole,Carl St & Cole St,0,-122.44931,37.7660100000001
+847,"geom:37.76575,-122.45013",mtc:carl-and-cole,Carl St & Cole St,0,-122.45013,37.76575
+848,13911,mtc:carl-and-cole,Carl St & Cole St,0,-122.45039,37.7657100000001
+849,17252,mtc:duboce-and-noe,Duboce St/Noe St/Duboce Park,0,-122.43354,37.7693600000001
+850,"geom:37.76925,-122.43386",mtc:duboce-and-noe,Duboce St/Noe St/Duboce Park,0,-122.43386,37.7692500000001
+851,"geom:37.76926,-122.43353",mtc:duboce-and-noe,Duboce St/Noe St/Duboce Park,0,-122.43353,37.76926
+852,14447,mtc:duboce-and-church,Duboce Ave & Church St,0,-122.42985,37.7694700000001
+853,14006,mtc:duboce-and-church,Church St & Duboce Ave,0,-122.42929,37.7695200000001
+854,"geom:37.76942,-122.42928",mtc:duboce-and-church,Church St & Duboce Ave,0,-122.42928,37.76942
+855,"geom:37.76936,-122.42908",mtc:duboce-and-church,Church St & Duboce Ave,0,-122.42908,37.7693600000001
+856,16898,mtc:west-portal-14th,West Portal Ave & 14th Ave,0,-122.46904,37.7380700000001
+857,"geom:37.73791,-122.46909",mtc:west-portal-14th,West Portal Ave & 14th Ave,0,-122.46909,37.7379100000001
+858,15806,mtc:ocean-san-leandro,Ocean Ave & San Leandro Way,0,-122.4695,37.7299800000001
+859,"geom:37.72997,-122.46928",mtc:ocean-san-leandro,Ocean Ave & San Leandro Way,0,-122.46928,37.72997
+860,15779,mtc:ocean-aptos,Ocean Ave & Aptos Ave,0,-122.46784,37.7284100000001
+861,"geom:37.72831,-122.46766",mtc:ocean-aptos,Ocean Ave & Aptos Ave,0,-122.46766,37.7283100000001
+862,15788,mtc:ocean-fairfield,Ocean Ave & Fairfield Way,0,-122.46437,37.7260600000001
+863,"geom:37.72603,-122.46410",mtc:ocean-fairfield,Ocean Ave & Fairfield Way,0,-122.4641,37.72603
+864,15787,mtc:ocean-dorado,Ocean Ave & Dorado Ter,0,-122.46141,37.72499
+865,"geom:37.72499,-122.46106",mtc:ocean-dorado,Ocean Ave & Dorado Ter,0,-122.46106,37.72499
+866,15797,mtc:ocean-miramar,Ocean Ave & Miramar Ave,0,-122.45804,37.72436
+867,"geom:37.72434,-122.45836",mtc:ocean-miramar,Ocean Ave & Miramar Ave,0,-122.45836,37.72434
+868,15794,mtc:ocean-lee,Ocean Ave & Lee St,0,-122.45427,37.72349
+869,"geom:37.72348,-122.45395",mtc:ocean-lee,Ocean Ave & Lee St,0,-122.45395,37.7234800000001
+870,15784,mtc:ocean-ccsf,Ocean Ave/Ccsf Pedestrian Bridge,0,-122.45122,37.72299
+871,"geom:37.72299,-122.45150",mtc:ocean-ccsf,Ocean Ave/Ccsf Pedestrian Bridge,0,-122.4515,37.72299
+872,16274,mtc:san-jose-ocean,San Jose Ave & Ocean Ave,0,-122.44468,37.7231100000001
+873,"geom:37.72309,-122.44466",mtc:san-jose-ocean,San Jose Ave & Ocean Ave,0,-122.44466,37.7230900000001
+874,16287,mtc:san-jose-santa-ynez,San Jose Ave & Santa Ynez Ave,0,-122.44235,37.7259
+875,"geom:37.72573,-122.44243",mtc:san-jose-santa-ynez,San Jose Ave & Santa Ynez Ave,0,-122.44243,37.7257300000001
+876,16284,mtc:san-jose-santa-rosa,San Jose Ave & Santa Rosa Ave,0,-122.44004,37.7290400000001
+877,"geom:37.72900,-122.44002",mtc:san-jose-santa-rosa,San Jose Ave & Santa Rosa Ave,0,-122.44002,37.729
+878,14788,mtc:san-jose-glen-park,San Jose Ave/Glen Park Station,0,-122.43398,37.73231
+879,"geom:37.73238,-122.43403",mtc:san-jose-glen-park,San Jose Ave/Glen Park Station,0,-122.43403,37.73238
+880,16277,mtc:san-jose-randall,San Jose Ave & Randall St,0,-122.42416,37.7397700000001
+881,"geom:37.73978,-122.42428",mtc:san-jose-randall,San Jose Ave & Randall St,0,-122.42428,37.7397800000001
+882,13537,mtc:30th-dolores,30th St & Dolores St,0,-122.42406,37.7423400000001
+883,"geom:37.74235,-122.42382",mtc:30th-dolores,30th St & Dolores St,0,-122.42382,37.74235
+884,"geom:37.74221,-122.42450",mtc:30th-dolores,30th St & Dolores St,0,-122.4245,37.7422100000001
+885,13538,mtc:30th-dolores,30th St & Dolores St,0,-122.4247,37.7422
+886,14000,mtc:church-30th-day,Church St & 30th St,0,-122.42637,37.7421600000001
+887,"geom:37.74222,-122.42646",mtc:church-30th-day,Church St & 30th St,0,-122.42646,37.74222
+888,14004,mtc:church-30th-day,Church St & Day St,0,-122.42665,37.7428400000001
+889,13999,mtc:church-29th,Church St & 29th St,0,-122.42659,37.74361
+890,"geom:37.74303,-122.42658",mtc:church-30th-day,Church St & Day St,0,-122.42658,37.74303
+891,18157,mtc:church-28th,Church St & 28th St,0,-122.42674,37.7452200000001
+892,"geom:37.74544,-122.42689",mtc:church-28th,Church St & 28th St,0,-122.42689,37.74544
+893,18155,mtc:church-26th,Church St & 26th St,0,-122.42706,37.7484200000001
+894,"geom:37.74860,-122.42726",mtc:church-26th,Church St & 26th St,0,-122.42726,37.7486000000001
+895,13995,mtc:church-24th,Church St & 24th St,0,-122.42741,37.7516400000001
+896,"geom:37.75183,-122.42751",mtc:church-24th,Church St & 24th St,0,-122.42751,37.75183
+897,13994,mtc:church-22th,Church St & 22nd St,0,-122.4277,37.7548
+898,"geom:37.75461,-122.42775",mtc:church-22th,Church St & 22nd St,0,-122.42775,37.7546100000001
+899,16216,mtc:row-21st,Right Of Way/21st St,0,-122.42687,37.7564400000001
+900,"geom:37.75634,-122.42686",mtc:row-21st,Right Of Way/21st St,0,-122.42686,37.7563400000001
+901,"geom:37.75652,-122.42697",mtc:row-21st,Right Of Way/21st St,0,-122.42697,37.7565200000001
+902,16221,mtc:row-liberty,Right Of Way/Liberty St,0,-122.42691,37.7574700000001
+903,"geom:37.75731,-122.42701",mtc:row-liberty,Right Of Way/Liberty St,0,-122.42701,37.7573100000001
+904,16214,mtc:row-20th,Right Of Way/20th St,0,-122.42784,37.75823
+905,"geom:37.75850,-122.42783",mtc:row-20th,Right Of Way/20th St,0,-122.42783,37.7585
+906,"geom:37.75835,-122.42799",mtc:row-20th,Right Of Way/20th St,0,-122.42799,37.7583500000001
+907,"geom:37.75822,-122.42799",mtc:row-20th,Right Of Way/20th St,0,-122.42799,37.7582200000001
+908,13987,mtc:row-18th,Church St & 18th St,0,-122.42822,37.76124
+909,"geom:37.76115,-122.42810",mtc:row-18th,Church St & 18th St,0,-122.4281,37.76115
+910,"geom:37.76111,-122.42829",mtc:row-18th,Church St & 18th St,0,-122.42829,37.76111
+911,"geom:37.74229,-122.49401",mtc:taraval-sunset,Taraval St & Sunset Blvd,0,-122.49401,37.74229
+912,"geom:37.74287,-122.47129",mtc:taraval-16th,15th Ave & Taraval St,0,-122.47129,37.74287
+913,"geom:37.76593,-122.44962",mtc:carl-and-cole,Carl St & Cole St,0,-122.44962,37.76593
+914,"geom:37.76925,-122.43372",mtc:duboce-and-noe,Duboce St/Noe St/Duboce Park,0,-122.43372,37.7692500000001
+915,15661,mtc:church-market,Market St & Church St,0,-122.42904,37.76782
+916,"geom:37.76734,-122.42890",mtc:church-market,Market St & Church St,0,-122.4289,37.76734
+917,13984,mtc:church-16th,Church St & 16th St,0,-122.42874,37.7646100000001
+918,"geom:37.76443,-122.42863",mtc:church-16th,Church St & 16th St,0,-122.42863,37.7644300000001
+919,"geom:37.76123,-122.42833",mtc:row-18th,Church St & 18th St,0,-122.42833,37.7612300000001
+920,17872,mtc:fourth-brannan,4th & Brannan Southbound,0,-122.39666,37.77842
+921,17873,mtc:yerba-buena,Yerba Buena/Moscone Station Southbound,0,-122.40176,37.78232
+922,17877,mtc:union-square,Union Sq & Market St,0,-122.40715,37.78761
+923,"geom:37.78576,-122.40653",mtc:market-4th,Union Sq & Market St,0,-122.40653,37.78576
+924,15643,mtc:market-4th,Union Sq & Market St,0,-122.40635,37.78581
+925,17876,mtc:chinatown,Chinatown Rose Pak Station,0,-122.4082,37.7948400000001
+926,15239,mtc:4th-king,King St & 4th St,0,-122.39425,37.7762700000001
+927,15234,mtc:king-2nd,King St & 2nd St,0,-122.38968,37.7797600000001
+928,14506,mtc:embarcadero-brannan,The Embarcadero & Brannan St,0,-122.38806,37.7834700000001
+929,14509,mtc:embarcadero-folsom,The Embarcadero & Folsom St,0,-122.38995,37.7907500000001
+930,17358,mtc:third-mission-rock,Third Street & Mission Rock St,0,-122.38975,37.77286
+931,"geom:37.77301,-122.38964",mtc:third-mission-rock,Third Street & Mission Rock St,0,-122.38964,37.7730100000001
+932,17357,mtc:ucsf-16th,Ucsf / Chase Center (16th St),0,-122.38919,37.7675800000001
+933,17353,mtc:third-marin,Third Street & Marin St,0,-122.38755,37.7491000000001
+934,"geom:37.74894,-122.38742",mtc:third-marin,Third Street & Marin St,0,-122.38742,37.7489400000001
+935,17352,mtc:third-evans,Third Street & Evans Ave,0,-122.38784,37.74283
+936,"geom:37.74262,-122.38804",mtc:third-evans,Third Street & Evans Ave,0,-122.38804,37.74262
+937,17390,mtc:third-hudson-innes,Third Street/Hudson/Innes,0,-122.38901,37.7396200000001
+938,"geom:37.74024,-122.38881",mtc:third-hudson-innes,Third Street/Hudson/Innes,0,-122.38881,37.74024
+939,17391,mtc:third-kirkwood-la-salle,Third Street/Kirkwood/La Salle,0,-122.38964,37.73787
+940,"geom:37.73728,-122.38984",mtc:third-kirkwood-la-salle,Third Street/Kirkwood/La Salle,0,-122.38984,37.7372800000001
+941,17392,mtc:third-oakdale-palou,Third Street/Oakdale/Palou,0,-122.39094,37.7341300000001
+942,"geom:37.73472,-122.39075",mtc:third-oakdale-palou,Third Street/Oakdale/Palou,0,-122.39075,37.73472
+943,17393,mtc:third-revere-shafter,Third Street/Revere/Shafter,0,-122.3916,37.73231
+944,17345,mtc:third-williams,Third Street & Williams Ave,0,-122.39257,37.72934
+945,"geom:37.72916,-122.39275",mtc:third-williams,Third Street & Williams Ave,0,-122.39275,37.72916
+946,17343,mtc:third-carroll,Third Street & Carroll Ave,0,-122.39418,37.7255500000001
+947,"geom:37.72543,-122.39435",mtc:third-carroll,Third Street & Carroll Ave,0,-122.39435,37.7254300000001
+948,17342,mtc:third-gilman-paul,Third Street/Gilman/Paul,0,-122.39575,37.72236
+949,17394,mtc:third-le-conte,Third Street & Le Conte Ave,0,-122.39759,37.7187700000001
+950,17395,mtc:bayshore-blanken,Bayshore Blvd & Blanken Ave,0,-122.4024,37.71223
+951,17396,mtc:bayshore-sunnydale,Bayshore Blvd & Sunnydale Ave,0,-122.4051,37.70892
+952,16265,mtc:san-jose-lakeview,San Jose Ave & Lakeview Ave,0,-122.45038,37.71626
+953,"geom:37.71608,-122.45042",mtc:san-jose-lakeview,San Jose Ave & Lakeview Ave,0,-122.45042,37.71608
+954,16257,mtc:san-jose-farallones,San Jose Ave & Farallones St,0,-122.45223,37.71412
+955,"geom:37.71398,-122.45224",mtc:san-jose-farallones,San Jose Ave & Farallones St,0,-122.45224,37.71398
+956,13718,mtc:broad-plymouth,Broad St & Plymouth Ave,0,-122.45617,37.71315
+957,"geom:37.71325,-122.45598",mtc:broad-plymouth,Broad St & Plymouth Ave,0,-122.45598,37.7132500000001
+958,"geom:37.71313,-122.45617",mtc:broad-plymouth,Broad St & Plymouth Ave,0,-122.45617,37.71313
+959,"geom:37.71327,-122.45598",mtc:broad-plymouth,Broad St & Plymouth Ave,0,-122.45598,37.7132700000001
+960,16172,mtc:randolph-arch,Randolph St & Arch St,0,-122.46689,37.7142200000001
+961,"geom:37.71433,-122.46719",mtc:randolph-arch,Randolph St & Arch St,0,-122.46719,37.7143300000001
+962,13387,mtc:19th-randolph,19th Ave & Randolph St,0,-122.47009,37.71441
+963,13385,mtc:19th-randolph,19th Ave & Randolph St,0,-122.47025,37.71486
+964,13376,mtc:19th-junipero-randolph,19th Ave & Randolph St,0,-122.47174,37.7161300000001
+965,13361,mtc:19th-junipero-randolph,19th Ave & Junipero Serra Blvd,0,-122.47227,37.71689
+966,13358,mtc:19th-holloway,19th Ave & Holloway Ave,0,-122.47523,37.7211500000001
+967,16174,mtc:randolph-bright,Randolph St & Bright St,0,-122.46339,37.71435
+968,"geom:37.71425,-122.46367",mtc:randolph-bright,Randolph St & Bright St,0,-122.46367,37.71425
+969,13717,mtc:broad-orizaba,Broad St & Orizaba Ave,0,-122.46263,37.71333
+970,"geom:37.71319,-122.46233",mtc:broad-orizaba,Broad St & Orizaba Ave,0,-122.46233,37.7131900000001
+971,13715,mtc:broad-capitol,Broad St & Capitol Ave,0,-122.45916,37.71313
+972,"geom:37.71322,-122.45892",mtc:broad-capitol,Broad St & Capitol Ave,0,-122.45892,37.71322
+973,16262,mtc:san-jose-geneva,San Jose Ave & Geneva Ave,0,-122.4472,37.7201000000001
+974,16269,mtc:san-jose-niagra,San Jose Ave & Niagra Ave,0,-122.44765,37.7194200000001
+975,17164,mtc:san-jose-geneva,San Jose Ave & Geneva Ave,0,-122.44677,37.7206
+976,"geom:37.72101,-122.44650",mtc:san-jose-geneva,San Jose Ave & Geneva Ave,0,-122.4465,37.72101
+977,"geom:37.72287,-122.44479",mtc:san-jose-ocean,San Jose Ave & Ocean Ave,0,-122.44479,37.7228700000001
+978,"geom:37.72305,-122.44475",mtc:san-jose-ocean,San Jose Ave & Ocean Ave,0,-122.44475,37.7230500000001
+979,16503,mtc:west-portal-sloat-stfrancis,West Portal/Sloat/St Francis Circle,0,-122.47153,37.7351100000001
+980,"geom:37.73457,-122.47161",mtc:west-portal-sloat-stfrancis,Junipero Serro/Sloat Blvd,0,-122.47161,37.7345700000001
+981,"geom:37.73511,-122.47142",mtc:west-portal-sloat-stfrancis,West Portal/Sloat/St Francis Circle,0,-122.47142,37.7351100000001
+982,"geom:37.73514,-122.47151",mtc:west-portal-sloat-stfrancis,West Portal/Sloat/St Francis Circle,0,-122.47151,37.7351400000001
+983,17114,mtc:junipero-serra-ocean,Junipero Serra Blvd & Ocean Ave,0,-122.47172,37.73112
+984,"geom:37.73119,-122.47187",mtc:junipero-serra-ocean,Junipero Serra Blvd & Ocean Ave,0,-122.47187,37.73119
+985,"geom:37.74122,-122.46624",mtc:ulloa-lenox,Ulloa St & Lenox Way,0,-122.46624,37.7412200000001
+986,"geom:37.74100,-122.46620",mtc:ulloa-lenox,Ulloa St & West Portal Ave,0,-122.4662,37.741
+987,13602,mtc:46th-vicente,46th Ave & Vicente St,0,-122.50446,37.7381800000001
+988,13600,mtc:46th-ulloa,46th Ave & Ulloa St,0,-122.5046,37.74003
+989,"geom:37.73980,-122.50442",mtc:46th-ulloa,46th Ave & Ulloa St,0,-122.50442,37.7398000000001
+990,"geom:37.73792,-122.50429",mtc:46th-vicente,46th Ave & Vicente St,0,-122.50429,37.73792
+991,17869,mtc:47th-cutler,Mammoth Lakes Park & Ride,0,-122.50541,37.73699
+992,16932,mtc:wawona-46th-sfzoo,Wawona/46th Ave /Sf Zoo,0,-122.50435,37.7361300000001
+993,13403,mtc:19th-winston,19th Ave & Winston Dr,0,-122.47493,37.72704
+994,16219,mtc:row-eucalyptus,Right Of Way/Eucalyptus Dr,0,-122.47435,37.7310400000001
+995,"geom:37.73117,-122.47439",mtc:row-eucalyptus,Right Of Way/Eucalyptus Dr,0,-122.47439,37.7311700000001
+996,16223,mtc:row-ocean,Right Of Way/Ocean Ave,0,-122.47379,37.73182
+997,"geom:37.73202,-122.47375",mtc:row-ocean,Right Of Way/Ocean Ave,0,-122.47375,37.73202
+998,17356,mtc:ucsf-mariposa,Ucsf Medical Center (Mariposa),0,-122.38893,37.7642500000001
+999,"geom:37.76446,-122.38882",mtc:ucsf-mariposa,Ucsf Medical Center (Mariposa),0,-122.38882,37.76446
+1000,17355,mtc:third-20th,Third Street & 20th St,0,-122.38863,37.7604200000001
+1001,"geom:37.76058,-122.38852",mtc:third-20th,Third Street & 20th St,0,-122.38852,37.7605800000001
+1002,17354,mtc:third-23rd,Third Street & 23rd St,0,-122.38807,37.7552900000001
+1003,"geom:37.75548,-122.38796",mtc:third-23rd,Third Street & 23rd St,0,-122.38796,37.75548
+1004,14513,mtc:embarcadero-ferry-building,The Embarcadero & Ferry Building,0,-122.3938,37.7948500000001
+1005,"geom:37.79502,-122.39396",mtc:embarcadero-ferry-building,The Embarcadero & Ferry Building,0,-122.39396,37.7950200000001
+1006,14534,mtc:embarcadero-washington,The Embarcadero & Washington St,0,-122.39517,37.7963300000001
+1007,"geom:37.79657,-122.39538",mtc:embarcadero-washington,The Embarcadero & Washington St,0,-122.39538,37.79657
+1008,14532,mtc:embarcadero-washington,The Embarcadero & Washington St,0,-122.39552,37.7968900000001
+1009,14504,mtc:embarcadero-broadway,The Embarcadero & Broadway,0,-122.39763,37.79911
+1010,14503,mtc:embarcadero-broadway,The Embarcadero & Broadway,0,-122.39771,37.79936
+1011,14517,mtc:embarcadero-green,The Embarcadero & Green St,0,-122.39917,37.8010400000001
+1012,14518,mtc:embarcadero-green,The Embarcadero & Green St,0,-122.39912,37.8008
+1013,14515,mtc:embarcadero-greenwich,The Embarcadero & Greenwich St,0,-122.40097,37.8028800000001
+1014,"geom:37.80325,-122.40115",mtc:embarcadero-greenwich,The Embarcadero & Greenwich St,0,-122.40115,37.80325
+1015,14529,mtc:embarcadero-sansome,The Embarcadero & Sansome St,0,-122.40329,37.8050000000001
+1016,"geom:37.80507,-122.40320",mtc:embarcadero-sansome,The Embarcadero & Sansome St,0,-122.4032,37.8050700000001
+1017,14501,mtc:embarcadero-bay,The Embarcadero & Bay St,0,-122.40611,37.8067500000001
+1018,"geom:37.80681,-122.40604",mtc:embarcadero-bay,The Embarcadero & Bay St,0,-122.40604,37.80681
+1019,14530,mtc:embarcadero-stockton,The Embarcadero & Stockton St,0,-122.4102,37.80839
+1020,"geom:37.80837,-122.41029",mtc:embarcadero-stockton,The Embarcadero & Stockton St,0,-122.41029,37.80837
+1021,13095,mtc:beach-stockton,Beach St & Stockton St,0,-122.411,37.8078100000001
+1022,13092,mtc:beach-mason,Beach St & Mason St,0,-122.41412,37.8074100000001
+1023,15184,mtc:jones-beach,Jones St & Beach St,0,-122.41738,37.8072100000001
+1024,15175,mtc:jefferson-taylor,Jefferson St & Taylor St,0,-122.41552,37.8083300000001
+1025,15174,mtc:jefferson-powell,Jefferson St & Powell St,0,-122.41354,37.8085800000001
+1026,13318,mtc:17th-noe,17th St & Noe St,0,-122.43299,37.7626500000001
+1027,13311,mtc:17th-castro,17th St & Castro St,0,-122.43498,37.7625800000001
+1028,15687,mtc:market-noe,Market St & Noe St,0,-122.43332,37.76399
+1029,15691,mtc:market-sanchez,Market St & Sanchez St,0,-122.43117,37.76568
+1030,"geom:37.76556,-122.43133",mtc:market-sanchez,Market St & Sanchez St,0,-122.43133,37.7655600000001
+1031,15686,mtc:market-noe,Market St & Noe St,0,-122.43286,37.76446
+1032,"geom:37.76459,-122.43270",mtc:market-noe,Market St & Noe St,0,-122.4327,37.7645900000001
+1033,"geom:37.76386,-122.43347",mtc:market-noe,Market St & Noe St,0,-122.43347,37.7638600000001
+1034,15690,mtc:market-sanchez,Market St & Sanchez St,0,-122.43079,37.7661400000001
+1035,"geom:37.76625,-122.43064",mtc:market-sanchez,Market St & Sanchez St,0,-122.43064,37.7662500000001
+1036,15662,mtc:church-market,Market St & Church St,0,-122.42911,37.7673100000001
+1037,"geom:37.76746,-122.42922",mtc:church,Church St,0,-122.42922,37.76746
+1038,"geom:37.76780,-122.42870",mtc:church-market,Market St & Church St,0,-122.4287,37.7678000000001
+1039,15668,mtc:market-dolores,Market St & Dolores St,0,-122.42708,37.7689100000001
+1040,"geom:37.76880,-122.42723",mtc:market-dolores,Market St & Dolores St,0,-122.42723,37.7688000000001
+1041,15659,mtc:market-dolores,Market St & Buchanan St,0,-122.42622,37.76975
+1042,"geom:37.76987,-122.42607",mtc:market-dolores,Market St & Buchanan St,0,-122.42607,37.76987
+1043,15675,mtc:market-guerrero,Market St & Guerrero St,0,-122.42512,37.77047
+1044,"geom:37.77060,-122.42495",mtc:market-guerrero,Market St & Guerrero St,0,-122.42495,37.7706000000001
+1045,"geom:37.77085,-122.42483",mtc:market-guerrero,Market St & Laguna St,0,-122.42483,37.7708500000001
+1046,15681,mtc:market-guerrero,Market St & Laguna St,0,-122.42457,37.7710700000001
+1047,15672,mtc:market-gough,Market St & Gough St,0,-122.42197,37.77291
+1048,"geom:37.77320,-122.42188",mtc:market-gough,Market St & Gough St,0,-122.42188,37.7732
+1049,"geom:37.77497,-122.41944",mtc:south-van-ness-market,Market St & South Van Ness Ave,0,-122.41944,37.7749700000001
+1050,"geom:37.77537,-122.41907",mtc:south-van-ness-market,Market & Van Ness,0,-122.41907,37.7753700000001
+1051,15652,mtc:market-9th,Market St & 9th St,0,-122.41617,37.7776700000001
+1052,"geom:37.77736,-122.41642",mtc:market-9th,Market St & 9th St,0,-122.41642,37.77736
+1053,15651,mtc:market-8th,Market St & 8th St,0,-122.41489,37.7785700000001
+1054,15676,mtc:market-hyde,Market St & Hyde St,0,-122.41467,37.7788600000001
+1055,15650,mtc:market-7th,Market St & 7th St,0,-122.41262,37.78036
+1056,"geom:37.78065,-122.41240",mtc:market-7th,Market St & 7th St,0,-122.4124,37.78065
+1057,15647,mtc:market-6th,Market St & 6th St,0,-122.41056,37.7819900000001
+1058,"geom:37.78237,-122.41022",mtc:market-6th,Market St & Taylor St,0,-122.41022,37.7823700000001
+1059,15645,mtc:market-5th,Market St & 5th St,0,-122.40818,37.7838800000001
+1060,"geom:37.78413,-122.40798",mtc:market-5th,Market St & 5th St,0,-122.40798,37.7841300000001
+1061,16995,mtc:powell,Metro Powell Station/Outbound,0,-122.40758,37.7844400000001
+1062,"geom:37.78409,-122.40802",mtc:market-5th,Market St & 5th St,0,-122.40802,37.78409
+1063,"geom:37.78545,-122.40618",mtc:market-4th,Market St & 4th St,0,-122.40618,37.78545
+1064,"geom:37.78587,-122.40580",mtc:market-4th,Market St & Stockton St,0,-122.4058,37.78587
+1065,15640,mtc:market-Kearny,Market St & 3rd St,0,-122.40363,37.7874600000001
+1066,"geom:37.78783,-122.40331",mtc:market-Kearny,Market St & Kearny St,0,-122.40331,37.78783
+1067,15685,mtc:market-new-montgomery,Market St & New Montgomery St,0,-122.40216,37.7886300000001
+1068,15657,mtc:market-1st,Market St & 1st St,0,-122.39929,37.7909000000001
+1069,"geom:37.79117,-122.39907",mtc:market-1st,Market St & Battery St,0,-122.39907,37.7911700000001
+1070,15682,mtc:market-main,Market St & Main St,0,-122.39659,37.79303
+1071,14726,mtc:don-chee-steuart,Don Chee Way/Steuart St,0,-122.3938,37.79391
+1072,"geom:37.79400,-122.39352",mtc:don-chee-steuart,Don Chee Way/Steuart St,0,-122.39352,37.794
+1073,"geom:37.74297,-122.47668",mtc:taraval-19th,Taraval St & 19th Ave,0,-122.47668,37.7429700000001
+1074,"geom:37.72135,-122.44625",mtc:san-jose-geneva,San Jose Ave & Geneva Ave,0,-122.44625,37.72135
+1075,"geom:37.78938,-122.40135",mtc:market-2nd,Market St & New Montgomery St,0,-122.40135,37.7893800000001
+1076,"geom:37.77623,-122.39420",mtc:4th-king,King St & 4th St,0,-122.3942,37.7762300000001
+1077,"geom:37.77619,-122.39414",mtc:4th-king,King St & 4th St,0,-122.39414,37.77619
+1078,"geom:37.77584,-122.39341",mtc:4th-king,King St & 4th St,0,-122.39341,37.7758400000001
+1079,"geom:37.76876,-122.38930",mtc:ucsf-16th,Ucsf / Chase Center (16th St),0,-122.3893,37.76876
+1080,"geom:37.74341,-122.38765",mtc:third-evans,Third Street & Evans Ave,0,-122.38765,37.74341
+1081,"geom:37.74203,-122.38824",mtc:third-evans,Third Street & Evans Ave,0,-122.38824,37.7420300000001
+1082,"geom:37.73172,-122.39180",mtc:third-revere-shafter,Third Street/Revere/Shafter,0,-122.3918,37.7317200000001
+1083,"geom:37.72993,-122.39237",mtc:third-williams,Third Street & Williams Ave,0,-122.39237,37.72993
+1084,"geom:37.72863,-122.39294",mtc:third-williams,Third Street & Williams Ave,0,-122.39294,37.7286300000001
+1085,"geom:37.72618,-122.39389",mtc:third-carroll,Third Street & Carroll Ave,0,-122.39389,37.7261800000001
+1086,"geom:37.72482,-122.39462",mtc:third-carroll,Third Street & Carroll Ave,0,-122.39462,37.7248200000001
+1087,"geom:37.72250,-122.39556",mtc:third-gilman-paul,Third Street/Gilman/Paul,0,-122.39556,37.7225
+1088,"geom:37.72180,-122.39599",mtc:third-gilman-paul,Third Street/Gilman/Paul,0,-122.39599,37.7218
+1089,"geom:37.71245,-122.40163",mtc:bayshore-blanken,Bayshore Blvd & Blanken Ave,0,-122.40163,37.71245
+1090,"geom:37.76082,-122.49639",mtc:judah-sunset,Judah St & Sunset Blvd,0,-122.49639,37.76082
+1091,"geom:37.76120,-122.48760",mtc:judah-28th,Judah St & 28th Ave,0,-122.4876,37.7612
+1092,"geom:37.76136,-122.48568",mtc:judah-28th,Judah St & 28th Ave,0,-122.48568,37.76136
+1093,"geom:37.76157,-122.47926",mtc:judah-22nd-23rd,Judah St & 22nd Ave,0,-122.47926,37.7615700000001
+1094,"geom:37.76163,-122.47799",mtc:judah-19th,Judah St & 19th Ave,0,-122.47799,37.76163
+1095,"geom:37.76179,-122.47603",mtc:judah-19th,Judah St & 19th Ave,0,-122.47603,37.7617900000001
+1096,"geom:37.76597,-122.44930",mtc:carl-and-cole,Carl St & Cole St,0,-122.4493,37.76597
+1097,"geom:37.76599,-122.44946",mtc:carl-and-cole,Carl St & Cole St,0,-122.44946,37.76599
+1098,"geom:37.76137,-122.42843",mtc:row-18th,Church St & 18th St,0,-122.42843,37.7613700000001
+1099,"geom:37.76224,-122.43568",mtc:castro,Metro Castro Station,0,-122.43568,37.7622400000001
+1100,"geom:37.76255,-122.43587",mtc:castro,Metro Castro Station,0,-122.43587,37.76255
+1101,"geom:37.76238,-122.43537",mtc:castro,Metro Castro Station,0,-122.43537,37.7623800000001
+1102,"geom:37.74217,-122.49491",mtc:taraval-sunset,Taraval St & Sunset Blvd,0,-122.49491,37.74217
+1103,"geom:37.74229,-122.49384",mtc:taraval-sunset,Taraval St & Sunset Blvd,0,-122.49384,37.74229
+1104,"geom:37.74291,-122.47988",mtc:taraval-22nd-23rd,Taraval St & 23rd Ave,0,-122.47988,37.7429100000001
+1105,"geom:37.74313,-122.47473",mtc:taraval-19th,Taraval St & 19th Ave,0,-122.47473,37.7431300000001
+1106,16992,mtc:embarcadero-bart,Embarcadero,0,-122.39678,37.7928000000001
+1107,"geom:37.79290,-122.39701",mtc:embarcadero-bart,Embarcadero,0,-122.39701,37.7929
+1108,"geom:37.79221,-122.39789",mtc:market-front,Embarcadero,0,-122.39789,37.7922100000001
+1109,"geom:37.79205,-122.39773",mtc:market-front,Embarcadero,0,-122.39773,37.7920500000001
+1110,15731,mtc:montgomery-bart,Montgomery,0,-122.40052,37.7898200000001
+1111,"geom:37.78997,-122.40075",mtc:market-2nd,Montgomery,0,-122.40075,37.78997
+1112,"geom:37.79051,-122.40070",mtc:montgomery-bart,Montgomery,0,-122.4007,37.79051
+1113,"geom:37.78941,-122.40105",mtc:montgomery-bart,Montgomery,0,-122.40105,37.78941
+1114,"geom:37.78851,-122.40222",mtc:market-new-montgomery,Montgomery,0,-122.40222,37.78851
+1115,"geom:37.78892,-122.40219",mtc:montgomery-bart,Montgomery,0,-122.40219,37.7889200000001
+1116,15417,mtc:market-4th,Powell,0,-122.40541,37.7859800000001
+1117,"geom:37.78615,-122.40556",mtc:market-4th,Powell,0,-122.40556,37.7861500000001
+1118,"geom:37.78546,-122.40645",mtc:market-4th,Powell,0,-122.40645,37.7854600000001
+1119,"geom:37.78528,-122.40628",mtc:market-4th,Powell,0,-122.40628,37.7852800000001
+1120,"geom:37.78458,-122.40778",mtc:powell,Powell,0,-122.40778,37.7845800000001
+1121,"geom:37.78440,-122.40741",mtc:powell,Powell,0,-122.40741,37.7844000000001
+1122,"geom:37.78371,-122.40829",mtc:market-5th,Powell,0,-122.40829,37.78371
+1123,15727,mtc:market-7th,Civic Center,0,-122.41266,37.7802500000001
+1124,"geom:37.78036,-122.41290",mtc:market-7th,Civic Center,0,-122.4129,37.78036
+1125,"geom:37.77971,-122.41370",mtc:civic-center-bart,Civic Center,0,-122.4137,37.7797100000001
+1126,"geom:37.77953,-122.41356",mtc:civic-center-bart,Civic Center,0,-122.41356,37.7795300000001
+1127,"geom:37.77976,-122.41425",mtc:civic-center-bart,Civic Center,0,-122.41425,37.7797600000001
+1128,"geom:37.77880,-122.41450",mtc:civic-center-bart,Civic Center,0,-122.4145,37.7788
+1129,"geom:37.77896,-122.41468",mtc:civic-center-bart,Civic Center,0,-122.41468,37.77896
+1130,"geom:37.77477,-122.41956",mtc:van-ness,Van Ness,0,-122.41956,37.77477
+1131,"geom:37.76711,-122.42925",mtc:church,Church St,0,-122.42925,37.7671100000001
+1132,"geom:37.74091,-122.46559",mtc:west-portal,West Portal Station,0,-122.46559,37.74091
+1133,"geom:37.72122,-122.44702",mtc:san-jose-geneva,San Jose Ave & Geneva Ave,0,-122.44702,37.7212200000001
+1134,"geom:37.77618,-122.39385",mtc:4th-king,King St & 4th St,0,-122.39385,37.7761800000001
+1135,"geom:37.77892,-122.39077",mtc:king-2nd,King St & 2nd St,0,-122.39077,37.77892
+1136,"geom:37.78462,-122.38806",mtc:embarcadero-brannan,The Embarcadero & Brannan St,0,-122.38806,37.7846200000001
+1137,"geom:37.78342,-122.38815",mtc:embarcadero-brannan,The Embarcadero & Brannan St,0,-122.38815,37.78342
+1138,"geom:37.78337,-122.38824",mtc:embarcadero-brannan,The Embarcadero & Brannan St,0,-122.38824,37.78337
+1139,"geom:37.78972,-122.38854",mtc:embarcadero-folsom,The Embarcadero & Folsom St,0,-122.38854,37.78972
+1140,"geom:37.78967,-122.38861",mtc:embarcadero-folsom,The Embarcadero & Folsom St,0,-122.38861,37.7896700000001
+1141,"geom:37.78963,-122.38866",mtc:embarcadero-folsom,The Embarcadero & Folsom St,0,-122.38866,37.78963
+1142,"geom:37.79534,-122.39409",mtc:embarcadero-ferry-building,The Embarcadero & Ferry Building,0,-122.39409,37.7953400000001
+1143,"geom:37.77558,-122.41881",mtc:south-van-ness-market,Market & Van Ness,0,-122.41881,37.77558
+1144,mtc:executive-park1,mtc:executive-park,mtc:executive-park,0,-122.39477,37.7106200000001
+1145,mtc:harney-jamestown1,mtc:harney-jamestown,mtc:harney-jamestown,0,-122.38637,37.7110500000001
+1146,mtc:spear-blandy,mtc:spear-blandy,mtc:spear-blandy,0,-122.36463,37.7262500000001
+1147,mtc:future-brt-access-spear-cochrane,mtc:future-brt-station-spear-cochrane,Spear Ave & Cochrane St BRT Acess (Future),2,-122.36728,37.7255500000001
+1148,mtc:future-brt-access-crisp,mtc:future-brt-station-crisp,Crisp Rd BRT Acess (Future),2,-122.37269,37.7257500000001
+1149,mtc:future-brt-access-fitch-quesanda, mtc:future-brt-station-fitch-quesanda,Fitch St & Quesanda Ave BRT Acess (Future),2,-122.37842,37.7259500000001
+1150,mtc:future-brt-access-donner-arelious-walker, mtc:future-brt-station-donner-arelious-walker,Donner Ave & Arelious Walker Dr BRT Access (Future),2,-122.38461,37.71907
+1151,mtc:future-brt-access-donner-harney, mtc:future-brt-station-donner-harney,Donner Ave & Harney Way BRT Access (Future),2,-122.38046,37.71684
+1152,mtc:future-brt-access-ingerson-harney, mtc:future-brt-station-ingerson-harney,Ingerson Ave & Harney Way BRT Access (Future),2,-122.38342,37.7136100000001
+1153,DPL_1,New_DublinPleasanton_ValleyLink,,2,-121.89795,37.7012500000001
+1154,ISA_1,New_Isabel_ValleyLink,,2,-121.80054,37.6992000000001
+1155,ISA_2,New_Isabel_ValleyLink,,2,-121.79918,37.70196
+1156,SF_1,New_Southfront_ValleyLInk,,2,-121.7305,37.7055
+1157,WOAK_3,901109,North Station Elevator Entrance / Exit,2,-122.2952,37.80494
+1158,WOAK_4,901109,South Station Elevator Entrance / Exit,2,-122.29524,37.80488
+1159,WOAK_5,901109,South Station Entrance / Exit,2,-122.29508,37.8047800000001
+1160,WOAK_6,901109,North Station Entrance / Exit,2,-122.295,37.8049100000001
+1161,12TH_9,mtc:12th-st-oakland-city-center-bart,A1 12th St and Broadway Elevator Entrance / Exit,2,-122.27198,37.8028100000001
+1162,12TH_10,mtc:12th-st-oakland-city-center-bart,A2 12th St and Broadway Elevator Entrance / Exit,2,-122.27235,37.8029700000001
+1163,12TH_11,mtc:broadway-14th,A4 Frank Ogawa Plaza Elevator Entrance / Exit,2,-122.27125,37.8044800000001
+1164,19TH_7,mtc:19th-st-oakland-bart,A1 17th and Broaddway Elevator Entrance / Exit,2,-122.2694,37.8070300000001
+1165,MCAR_2,mtc:macarthur-bart,Main West Entrance / Exit,2,-122.26724,37.82912
+1166,MCAR_3,mtc:macarthur-bart,South West Entrance / Exit,2,-122.2675,37.8278800000001
+1167,MCAR_4,mtc:macarthur-bart,South East Entrance / Exit,2,-122.26716,37.8278300000001
+1168,MCAR_5,mtc:macarthur-bart,South East Elevator Entrance / Exit,2,-122.26697,37.82867
+1169,MCAR_6,mtc:macarthur-bart,South West Elevator Entrance / Exit,2,-122.26731,37.8287300000001
+1170,DBRK_6,904209,Elevator Entrance / Exit,2,-122.26823,37.8711000000001
+1171,DBRK_7,904209,Elevator Entrace / Exit,2,-122.26836,37.87064
+1172,DBRK_8,904209,Entrance / Exit,2,-122.26834,37.8704300000001
+1173,DBRK_9,904209,Entrance / Exit,2,-122.26822,37.87021
+1174,DBRK_10,904209,Entrance / Exit,2,-122.26831,37.8695000000001
+1175,NBRK_2,904309,Elevator Entrance / Exit,2,-122.28323,37.8739100000001
+1176,"geom:37.79687,-122.26500",902109,Elevator Entrance / Exit,2,-122.265,37.7968700000001
+1177,LAKE_5,902109,Elevator Entrance / Exit,2,-122.26577,37.79745
+1178,ROCK_3,903109,Elevator Entrance / Exit,2,-122.25173,37.84457
+1179,BAYF_3,902509,Elevator Entrance / Exit,2,-122.12722,37.6972400000001
+1180,SHAY_2,902709,Elevator Entrance / Exit,2,-122.05698,37.63392
+1181,SHAY_3,902709,Elevator Entrance / Exit,2,-122.05683,37.6340000000001
+1182,UCTY_2,mtc:union-city-bart,Elevator Entrance / Exit,2,-122.01701,37.5908200000001
+1183,UCTY_3,mtc:union-city-bart,Elevator Entrance / Exit,2,-122.01718,37.5907500000001
+1184,UCTY_4,mtc:union-city-bart,Entrance / Exit,2,-122.01726,37.59085
+1185,UCTY_5,mtc:union-city-bart,Entrance / Exit,2,-122.01711,37.5907500000001
+1186,FRMT_5,902909,Elevator Entrance / Exit,2,-121.97661,37.5574700000001
+1187,DPL_2,mtc:dublin-pleasanton-bart,Elevator Entrance / Exit,2,-121.89871,37.7016400000001
+1188,mtc:access_webster_atlantic,mtc:station_webster_atlantic,Webster St & Atlantic Ave,2,-122.27637,37.7802
+1189,mtc:access_webster_willie_stargell,mtc:station_webster_willie_stargell,Webster St & Willie Stargell Ave,2,-122.27639,37.78317
+1190,mtc:access_durant_college,mtc:station_durant_college,Durant Ave & College Ave,2,-122.25463,37.8683
+1191,mtc:access_durant_dana,mtc:station_durant_dana,Durant Ave & Dana St,2,-122.26084,37.86749
+1192,mtc:access_durant_ellsworth,mtc:station_durant_ellsworth,Durant Ave & Ellsworth St,2,-122.26322,37.8672
+1193,mtc:access_durant_telegraph,mtc:station_durant_telegraph,Durant Ave & Telegraph Ave,2,-122.25864,37.8678400000001
+1194,mtc:access_bancroft_college,mtc:station_bancroft_college,Bancroft Way & College Ave,2,-122.25522,37.8692800000001
+1195,mtc:access_bancroft_dana,mtc:station_bancroft_dana,Bancroft Way & Dana St,2,-122.26191,37.86846
+1196,mtc:access_bancroft_ellsworth,mtc:station_bancroft_ellsworth,Bancroft Way & Ellsworth St,2,-122.26408,37.8681700000001
+1197,mtc:access_bancroft_telegraph,mtc:station_bancroft_telegraph,Bancroft Way & Telegraph Ave,2,-122.26026,37.8686500000001
+1198,mtc:access_downtown_campbell,PS_CMBL,Campbell Station,2,-121.94291,37.28605
