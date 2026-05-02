@@ -1,0 +1,781 @@
+﻿OBJECTID,stop_id,station_id,location_type,stop_name,agency_id,agency_name,route_short_name,route_type,tod_tier,x,y
+1,16995,mtc:powell,0,Metro Powell Station/Outbound,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.40782,37.7843
+2,15417,mtc:powell,0,Metro Powell Station/Downtown,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.40709,37.78465
+3,70011,mtc:caltrain-4th-&-king,0,San Francisco Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.39499,37.77639
+4,70012,mtc:caltrain-4th-&-king,0,San Francisco Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.39494,37.77635
+5,70172,mtc:palo-alto-station,0,Palo Alto Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.1647,37.4434
+6,70171,mtc:palo-alto-station,0,Palo Alto Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.16466,37.44344
+7,16992,mtc:embarcadero-bart,0,Metro Embarcadero Station,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.39682,37.79285
+8,16997,mtc:civic-center-bart,0,Metro Civic Center Station/Outbd,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.41422,37.77924
+9,15727,mtc:civic-center-bart,0,Metro Civic Center Station/Downtn,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.41335,37.77971
+10,16994,mtc:montgomery-bart,0,Metro Montgomery Station/Outbound,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.40213,37.78879
+11,15731,mtc:montgomery-bart,0,Metro Montgomery Station/Downtown,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.40135,37.78922
+12,64821,mtc:mountain-view-station,0,Mountain View Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.07683,37.39495
+13,64786,mtc:mountain-view-station,0,Mountain View Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.07759,37.3953
+14,70211,mtc:mountain-view-station,0,Mountain View Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.07596,37.39446
+15,70212,mtc:mountain-view-station,0,Mountain View Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.07599,37.3944
+16,65381,mtc:san-jose-diridon-station,0,Diridon Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.90357,37.3283
+17,65374,mtc:san-jose-diridon-station,0,Diridon Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.90351,37.32895
+18,70262,mtc:san-jose-diridon-station,0,San Jose Diridon Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend, South County",2,Tier 1,-121.90317,37.32923
+19,70261,mtc:san-jose-diridon-station,0,San Jose Diridon Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend, South County",2,Tier 1,-121.90301,37.32924
+20,70241,mtc:santa-clara-caltrain,0,Santa Clara Caltrain Station Northbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-121.93608,37.35324
+21,70242,mtc:santa-clara-caltrain,0,Santa Clara Caltrain Station Southbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-121.93613,37.35319
+22,17217,mtc:embarcadero-bart,0,Metro Embarcadero Station,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.39704,37.79277
+23,902202,mtc:fruitvale,0,Fruitvale,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Orange-N",1,Tier 1,-122.22407,37.77487
+24,902201,mtc:fruitvale,0,Fruitvale,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Orange-S",1,Tier 1,-122.22412,37.77482
+25,901902,mtc:daly-city-bart,0,Daly City,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.46885,37.70623
+26,901901,mtc:daly-city-bart,0,Daly City,BA,Bay Area Rapid Transit,"Blue-N, Blue-S, Green-N, Green-S",1,Tier 1,-122.46892,37.70626
+27,901903,mtc:daly-city-bart,0,Daly City,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.46899,37.7063
+28,902802,mtc:union-city-bart,0,Union City,BA,Bay Area Rapid Transit,"Green-S, Orange-N",1,Tier 1,-122.01723,37.59076
+29,902801,mtc:union-city-bart,0,Union City,BA,Bay Area Rapid Transit,"Green-N, Orange-S",1,Tier 1,-122.01729,37.59071
+30,909201,mtc:warm-springs-south-fremont-bart,0,Warm Springs / South Fremont,BA,Bay Area Rapid Transit,"Green-N, Orange-S",1,Tier 1,-121.93946,37.50227
+31,906403,mtc:millbrae-bart,0,Millbrae (Caltrain Transfer Platform),BA,Bay Area Rapid Transit,"Red-N, Red-S, Yellow-N, Yellow-S",1,Tier 1,-122.38684,37.6002
+32,902301,mtc:oakland-coliseum-bart,0,Coliseum,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Orange-S",1,Tier 1,-122.19676,37.75356
+33,901162,mtc:embarcadero-bart,0,Embarcadero,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.397,37.79269
+34,901401,mtc:civic-center-bart,0,Civic Center / UN Plaza,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.41388,37.77945
+35,901202,mtc:montgomery-bart,0,Montgomery Street,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.40151,37.78912
+36,905301,mtc:dublin-pleasanton-bart,0,Dublin / Pleasanton,BA,Bay Area Rapid Transit,Blue-N,1,Tier 1,-121.89924,37.70161
+37,901302,mtc:powell,0,Powell Street,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.40716,37.78457
+38,909202,mtc:warm-springs-south-fremont-bart,0,Warm Springs / South Fremont,BA,Bay Area Rapid Transit,"Green-S, Orange-N",1,Tier 1,-121.93936,37.50231
+39,902302,mtc:oakland-coliseum-bart,0,Coliseum,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Orange-N",1,Tier 1,-122.1967,37.7536
+40,901161,mtc:embarcadero-bart,0,Embarcadero,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.39708,37.79279
+41,901402,mtc:civic-center-bart,0,Civic Center / UN Plaza,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.4138,37.77938
+42,901201,mtc:montgomery-bart,0,Montgomery Street,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.40164,37.78921
+43,905302,mtc:dublin-pleasanton-bart,0,Dublin / Pleasanton,BA,Bay Area Rapid Transit,"Blue-N, Blue-S",1,Tier 1,-121.89924,37.70169
+44,901301,mtc:powell,0,Powell Street,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.40738,37.78465
+45,900301,mtc:macarthur-bart,0,MacArthur,BA,Bay Area Rapid Transit,"Orange-N, Red-N",1,Tier 1,-122.26698,37.82879
+46,900303,mtc:macarthur-bart,0,MacArthur,BA,Bay Area Rapid Transit,Yellow-N,1,Tier 1,-122.26708,37.8288
+47,900304,mtc:macarthur-bart,0,MacArthur,BA,Bay Area Rapid Transit,Yellow-S,1,Tier 1,-122.26716,37.82881
+48,900302,mtc:macarthur-bart,0,MacArthur,BA,Bay Area Rapid Transit,"Orange-S, Red-S",1,Tier 1,-122.26726,37.82883
+51,70062,mtc:millbrae-bart,0,Millbrae Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.38683,37.5998
+52,70061,mtc:millbrae-bart,0,Millbrae Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.38671,37.59986
+53,909401,mtc:great-mall-milpitas-bart,0,Milpitas,BA,Bay Area Rapid Transit,"Green-N, Orange-S",1,Tier 1,-121.89088,37.40981
+54,909402,mtc:great-mall-milpitas-bart,0,Milpitas,BA,Bay Area Rapid Transit,"Green-S, Orange-N",1,Tier 1,-121.8908,37.40984
+55,65249,mtc:great-mall-milpitas-bart,0,Milpitas Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.89136,37.40895
+56,65236,mtc:great-mall-milpitas-bart,0,Milpitas Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.89062,37.40855
+57,900102,mtc:12th-st-oakland-city-center-bart,0,12th Street / Oakland City Center,BA,Bay Area Rapid Transit,"Orange-S, Red-S, Yellow-S",1,Tier 1,-122.27159,37.80358
+58,900103,mtc:12th-st-oakland-city-center-bart,0,12th Street / Oakland City Center,BA,Bay Area Rapid Transit,Yellow-N,1,Tier 1,-122.27169,37.80351
+59,900101,mtc:12th-st-oakland-city-center-bart,0,12th Street / Oakland City Center,BA,Bay Area Rapid Transit,"Orange-N, Red-N",1,Tier 1,-122.27165,37.80347
+60,900203,mtc:19th-st-oakland-bart,0,19th Street Oakland,BA,Bay Area Rapid Transit,Yellow-N,1,Tier 1,-122.26882,37.8081
+61,900202,mtc:19th-st-oakland-bart,0,19th Street Oakland,BA,Bay Area Rapid Transit,"Orange-S, Red-S, Yellow-S",1,Tier 1,-122.26868,37.80813
+62,900201,mtc:19th-st-oakland-bart,0,19th Street Oakland,BA,Bay Area Rapid Transit,"Orange-N, Red-N",1,Tier 1,-122.26872,37.80806
+63,902303,mtc:oakland-coliseum-bart,0,Coliseum - OAC,BA,Bay Area Rapid Transit,"Grey-N, Grey-S",1,Tier 1,-122.19627,37.75223
+64,901502,901509,0,16th Street / Mission,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.41968,37.76518
+65,901501,901509,0,16th Street / Mission,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.41975,37.76518
+66,901602,901609,0,24th Street / Mission,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.41845,37.75243
+67,901601,901609,0,24th Street / Mission,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.41852,37.75242
+68,904102,904109,0,Ashby,BA,Bay Area Rapid Transit,"Orange-S, Red-S",1,Tier 1,-122.26982,37.85309
+69,904101,904109,0,Ashby,BA,Bay Area Rapid Transit,"Orange-N, Red-N",1,Tier 1,-122.26975,37.85307
+70,901801,901809,0,Balboa Park,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.44751,37.72176
+71,901802,901809,0,Balboa Park,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.44743,37.72175
+72,902502,902509,0,Bay Fair,BA,Bay Area Rapid Transit,"Blue-N, Blue-S, Green-S, Orange-N",1,Tier 1,-122.12643,37.69694
+73,902501,902509,0,Bay Fair,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Orange-S",1,Tier 1,-122.12649,37.69689
+74,909502,909509,0,Berryessa / North San Jose,BA,Bay Area Rapid Transit,"Orange-N, Orange-S",1,Tier 1,-121.87466,37.3685
+75,909501,909509,0,Berryessa / North San Jose,BA,Bay Area Rapid Transit,"Green-N, Green-S",1,Tier 1,-121.87476,37.36847
+78,906101,906109,0,Colma,BA,Bay Area Rapid Transit,"Red-S, Yellow-S",1,Tier 1,-122.46617,37.68464
+79,906102,906109,0,Colma,BA,Bay Area Rapid Transit,"Red-N, Yellow-N",1,Tier 1,-122.46612,37.68469
+80,904201,904209,0,Downtown Berkeley,BA,Bay Area Rapid Transit,"Orange-N, Red-N",1,Tier 1,-122.26808,37.87012
+81,904202,904209,0,Downtown Berkeley,BA,Bay Area Rapid Transit,"Orange-S, Red-S",1,Tier 1,-122.26817,37.87011
+82,902901,902909,0,Fremont,BA,Bay Area Rapid Transit,"Green-N, Orange-S",1,Tier 1,-121.97666,37.55746
+83,902902,902909,0,Fremont,BA,Bay Area Rapid Transit,"Green-S, Orange-N",1,Tier 1,-121.97661,37.55751
+84,901701,901709,0,Glen Park,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.43356,37.73327
+85,901702,901709,0,Glen Park,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.4335,37.73321
+86,902601,902609,0,Hayward,BA,Bay Area Rapid Transit,"Green-N, Orange-S",1,Tier 1,-122.087,37.66968
+87,902602,902609,0,Hayward,BA,Bay Area Rapid Transit,"Green-S, Orange-N",1,Tier 1,-122.08694,37.66973
+88,902101,902109,0,Lake Merritt,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Orange-S",1,Tier 1,-122.26529,37.7973
+89,902102,902109,0,Lake Merritt,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Orange-N",1,Tier 1,-122.26523,37.79736
+90,904302,904309,0,North Berkeley,BA,Bay Area Rapid Transit,"Orange-S, Red-S",1,Tier 1,-122.28359,37.874
+91,904301,904309,0,North Berkeley,BA,Bay Area Rapid Transit,"Orange-N, Red-N",1,Tier 1,-122.28351,37.87403
+92,903101,903109,0,Rockridge,BA,Bay Area Rapid Transit,Yellow-N,1,Tier 1,-122.25123,37.84472
+93,903102,903109,0,Rockridge,BA,Bay Area Rapid Transit,Yellow-S,1,Tier 1,-122.25127,37.84479
+94,906302,906309,0,San Bruno,BA,Bay Area Rapid Transit,"Red-N, Yellow-N",1,Tier 1,-122.41629,37.63775
+95,906301,906309,0,San Bruno,BA,Bay Area Rapid Transit,"Red-S, Yellow-S",1,Tier 1,-122.41638,37.63772
+96,902401,902409,0,San Leandro,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Orange-S",1,Tier 1,-122.16079,37.72177
+97,902402,902409,0,San Leandro,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Orange-N",1,Tier 1,-122.16071,37.72181
+98,902702,902709,0,South Hayward,BA,Bay Area Rapid Transit,"Green-S, Orange-N",1,Tier 1,-122.05716,37.63436
+99,902701,902709,0,South Hayward,BA,Bay Area Rapid Transit,"Green-N, Orange-S",1,Tier 1,-122.05723,37.63433
+100,906202,906209,0,South San Francisco,BA,Bay Area Rapid Transit,"Red-N, Yellow-N",1,Tier 1,-122.44419,37.6645
+101,906201,906209,0,South San Francisco,BA,Bay Area Rapid Transit,"Red-S, Yellow-S",1,Tier 1,-122.44425,37.66444
+102,905201,905209,0,West Dublin / Pleasanton,BA,Bay Area Rapid Transit,Blue-N,1,Tier 1,-121.92828,37.69969
+103,905202,905209,0,West Dublin / Pleasanton,BA,Bay Area Rapid Transit,Blue-S,1,Tier 1,-121.9283,37.69976
+104,901101,901109,0,West Oakland,BA,Bay Area Rapid Transit,"Blue-S, Green-S, Red-S, Yellow-S",1,Tier 1,-122.29514,37.80492
+105,901102,901109,0,West Oakland,BA,Bay Area Rapid Transit,"Blue-N, Green-N, Red-N, Yellow-N",1,Tier 1,-122.29519,37.80486
+106,13266,mtc:taraval-16th,0,15th Ave & Taraval St,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.4713,37.74312
+107,17763,mtc:16th-missouri,0,16th St & Missouri St,SF,San Francisco Municipal Transportation Agency,22,3,Tier 2,-122.39702,37.76638
+108,17866,mtc:16th-owen,0,16th St & Owen St,SF,San Francisco Municipal Transportation Agency,22,3,Tier 2,-122.39253,37.76665
+109,13296,mtc:16th-potrero,0,16th St & Potrero Ave,SF,San Francisco Municipal Transportation Agency,"22, 33, 55",3,Tier 2,-122.40761,37.76576
+110,17767,mtc:16th-4th,0,16th Street & 4th Street,SF,San Francisco Municipal Transportation Agency,22,3,Tier 2,-122.39089,37.76686
+111,17768,mtc:16th-missouri,0,16th Street & Missouri St,SF,San Francisco Municipal Transportation Agency,22,3,Tier 2,-122.39701,37.76649
+112,17865,mtc:16th-owen,0,16th Street & Owen St,SF,San Francisco Municipal Transportation Agency,22,3,Tier 2,-122.3928,37.76672
+113,17770,mtc:16th-rhode-island,0,16th Street & Rhode Island St,SF,San Francisco Municipal Transportation Agency,"22, 55",3,Tier 2,-122.40282,37.76611
+114,17769,mtc:16th-wisconsin,0,16th Street & Wisconsin St,SF,San Francisco Municipal Transportation Agency,"22, 55",3,Tier 2,-122.39984,37.76629
+115,17761,mtc:16th-rhode-island,0,16th St& Rhode Island St,SF,San Francisco Municipal Transportation Agency,"22, 55",3,Tier 2,-122.40286,37.76599
+116,17762,mtc:16th-wisconsin,0,16th St & Wisconsin St,SF,San Francisco Municipal Transportation Agency,"22, 55",3,Tier 2,-122.39991,37.7662
+117,13311,mtc:17th-castro,0,17th St & Castro St,SF,San Francisco Municipal Transportation Agency,"F, FBUS",0,Tier 2,-122.43498,37.76258
+118,13318,mtc:17th-noe,0,17th St & Noe St,SF,San Francisco Municipal Transportation Agency,F,0,Tier 2,-122.43299,37.76264
+119,17065,mtc:19th-holloway,0,19th Ave & Holloway Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47518,37.72134
+120,13358,mtc:19th-holloway,0,19th Ave & Holloway Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47525,37.72134
+121,13361,mtc:19th-junipero-randolph,0,19th Ave & Junipero Serra Blvd,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47227,37.71689
+122,13376,mtc:19th-junipero-randolph,0,19th Ave & Randolph St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47167,37.7162
+123,13387,mtc:19th-randolph,0,19th Ave & Randolph St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47,37.71444
+124,13385,mtc:19th-randolph,0,19th Ave & Randolph St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47025,37.71486
+125,13403,mtc:19th-winston,0,19th Ave & Winston Dr,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47494,37.72702
+126,17449,mtc:19th-winston,0,19th Ave & Winston Dr,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47485,37.7272
+127,13537,mtc:30th-dolores,0,30th St & Dolores St,SF,San Francisco Municipal Transportation Agency,"24, 36, J","0, 3",Tier 2,-122.42403,37.7423
+128,13538,mtc:30th-dolores,0,30th St & Dolores St,SF,San Francisco Municipal Transportation Agency,"24, 36, J","0, 3",Tier 2,-122.42446,37.74217
+129,13144,mtc:3rd-bryant,0,3rd St & Bryant St,SF,San Francisco Municipal Transportation Agency,"30, 45, 8, 8AX, 8BX, 91",3,Tier 2,-122.3962,37.78165
+130,13124,mtc:3rd-folsom,0,3rd St & Folsom St,SF,San Francisco Municipal Transportation Agency,"30, 45, 8, 8AX, 8BX, 91, TBUS",3,Tier 2,-122.39933,37.7842
+131,13136,mtc:mission-3rd,0,3rd St & Mission St,SF,San Francisco Municipal Transportation Agency,"15, 30, 45, 8, 8AX, 8BX, 91",3,Tier 2,-122.40211,37.78637
+132,13599,mtc:taraval-46th,0,46th Ave & Taraval St,SF,San Francisco Municipal Transportation Agency,"18, L, LOWL","0, 3",Tier 2,-122.50453,37.74168
+133,13600,mtc:46th-ulloa,0,46th Ave & Ulloa St,SF,San Francisco Municipal Transportation Agency,"18, L, LOWL","0, 3",Tier 2,-122.50458,37.74
+134,13601,mtc:46th-ulloa,0,46th Ave & Ulloa St,SF,San Francisco Municipal Transportation Agency,"18, L, LOWL","0, 3",Tier 2,-122.50441,37.73983
+135,13602,mtc:46th-vicente,0,46th Ave & Vicente St,SF,San Francisco Municipal Transportation Agency,"18, L, LOWL","0, 3",Tier 2,-122.50444,37.73814
+136,13603,mtc:46th-vicente,0,46th Ave & Vicente St,SF,San Francisco Municipal Transportation Agency,"18, L, LOWL","0, 3",Tier 2,-122.50427,37.73797
+137,17869,mtc:47th-cutler,0,47th Ave & Cutler Ave,SF,San Francisco Municipal Transportation Agency,L,0,Tier 2,-122.50541,37.73699
+138,17872,mtc:fourth-brannan,0,4th & Brannan Southbound,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39661,37.77834
+139,13153,mtc:third-mission-rock,0,4th St & 3rd St,SF,San Francisco Municipal Transportation Agency,"91, TBUS",3,Tier 2,-122.38969,37.77297
+140,17166,mtc:4th-king,0,4th St & King St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39386,37.77628
+141,17397,mtc:4th-king,0,4th St & King St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39383,37.77613
+142,13192,mtc:7th-folsom,0,7th St & Folsom St,SF,San Francisco Municipal Transportation Agency,"19, 27",3,Tier 2,-122.4079,37.77686
+143,13194,mtc:7th-howard,0,7th St & Howard St,SF,San Francisco Municipal Transportation Agency,"19, 27",3,Tier 2,-122.40922,37.77793
+144,13208,mtc:mission-8th,0,8th St & Mission St,SF,San Francisco Municipal Transportation Agency,"19, 27",3,Tier 2,-122.41303,37.77724
+145,17999,mtc:irving-9th,0,9th Ave & Irving St,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.46634,37.76331
+146,15418,901809,0,Balboa Park BART/Mezzanine Level,SF,San Francisco Municipal Transportation Agency,"J, K, M",0,Tier 2,-122.44742,37.72181
+147,17399,mtc:bayshore-blanken,0,Bayshore Blvd & Areta Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40234,37.71223
+148,17395,mtc:bayshore-blanken,0,Bayshore Blvd & Blanken Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40232,37.71225
+149,17396,mtc:bayshore-sunnydale,0,Bayshore Blvd & Sunnydale Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40511,37.70897
+150,17398,mtc:bayshore-sunnydale,0,Bayshore Blvd & Sunnydale Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40504,37.70894
+151,13092,mtc:beach-mason,0,Beach St & Mason St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.41412,37.80741
+152,13095,mtc:beach-stockton,0,Beach St & Stockton St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.41081,37.80784
+153,13716,mtc:broad-capitol,0,Broad St & Capitol Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.45916,37.71315
+154,13715,mtc:broad-capitol,0,Broad St & Capitol Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.45892,37.71319
+155,13717,mtc:broad-orizaba,0,Broad St & Orizaba Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.46233,37.71318
+156,13718,mtc:broad-plymouth,0,Broad St & Plymouth Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.45593,37.71322
+157,13719,mtc:broad-plymouth,0,Broad St & Plymouth Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.45618,37.71316
+158,13848,mtc:california-baker,0,California St & Baker St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.44338,37.78762
+159,13847,mtc:california-baker,0,California St & Baker St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.44363,37.78774
+160,13859,mtc:california-divisadero,0,California St & Divisadero St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.44072,37.78795
+161,13858,mtc:california-divisadero,0,California St & Divisadero St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.44087,37.78809
+162,13885,mtc:california-pierce,0,California St & Pierce St,SF,San Francisco Municipal Transportation Agency,1,3,0,-122.43681,37.78845
+163,13884,mtc:california-pierce,0,California St & Pierce St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.43748,37.78852
+164,13909,mtc:carl-and-cole,0,Carl St & Cole St,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.4498,37.76586
+165,13911,mtc:carl-and-cole,0,Carl St & Cole St,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.45013,37.76575
+166,13913,mtc:carl-and-hillway,0,Carl St & Hillway Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.45651,37.76493
+167,13912,mtc:carl-and-hillway,0,Carl St & Hillway Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.45656,37.765
+168,13914,mtc:carl-and-stanyan,0,Carl St & Stanyan St,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.45259,37.7655
+169,13915,mtc:carl-and-stanyan,0,Carl St & Stanyan St,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.45293,37.76537
+170,17876,mtc:chinatown,0,Chinatown - Rose Pak Station,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40808,37.79481
+171,13984,mtc:church-16th,0,Church St & 16th St,SF,San Francisco Municipal Transportation Agency,"22, J","0, 3",Tier 2,-122.42872,37.76462
+172,13985,mtc:church-16th,0,Church St & 16th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42861,37.76438
+173,13987,mtc:row-18th,0,Church St & 18th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42842,37.76147
+174,13994,mtc:church-22th,0,Church St & 22nd St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42764,37.75474
+175,16218,mtc:church-22th,0,Church St & 22nd St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42775,37.75461
+176,13996,mtc:church-24th,0,Church St & 24th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42735,37.75159
+177,13995,mtc:church-24th,0,Church St & 24th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.4275,37.7518
+178,18156,mtc:church-26th,0,Church St & 26th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42726,37.7486
+179,18155,mtc:church-26th,0,Church St & 26th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42706,37.74842
+180,18158,mtc:church-28th,0,Church St & 28th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42696,37.7454
+181,18157,mtc:church-28th,0,Church St & 28th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42674,37.74522
+182,13999,mtc:church-29th,0,Church St & 29th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42659,37.74359
+183,14000,mtc:church-30th-day,0,Church St & 30th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42646,37.74222
+184,14004,mtc:church-30th-day,0,Church St & Day St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42665,37.74281
+185,14006,mtc:duboce-and-church,0,Church St & Duboce Ave,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42909,37.7693
+186,17073,mtc:church-market,0,Church St & Market St,SF,San Francisco Municipal Transportation Agency,"22, J","0, 3",Tier 2,-122.42893,37.76751
+187,18059,mtc:church-market,0,Church St & Market St,SF,San Francisco Municipal Transportation Agency,"22, J","0, 3",Tier 2,-122.42905,37.76729
+188,14017,mtc:clay-front,0,Clay St & Front St,SF,San Francisco Municipal Transportation Agency,"1, 12",3,Tier 2,-122.3991,37.79512
+189,14026,mtc:clay-polk,0,Clay St & Polk St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.42101,37.79236
+190,14028,mtc:clay-sansome,0,Clay St & Sansome St,SF,San Francisco Municipal Transportation Agency,"1, 12",3,Tier 2,-122.40132,37.79478
+191,14726,mtc:don-chee-steuart,0,Don Chee Way/Steuart St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL, NOWL","0, 3",Tier 2,-122.39356,37.79398
+192,14727,mtc:don-chee-steuart,0,Don Chee Way/Steuart St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39344,37.79392
+193,14447,mtc:duboce-and-church,0,Duboce Ave & Church St,SF,San Francisco Municipal Transportation Agency,"N, NBUS","0, 3",Tier 2,-122.42941,37.76947
+194,14448,mtc:duboce-and-church,0,Duboce Ave & Church St,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.4294,37.76941
+195,17252,mtc:duboce-and-noe,0,Duboce St/Noe St/Duboce Park,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.43356,37.76936
+196,17281,mtc:embarcadero-sansome,0,Embarcadero & Sansome St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.40323,37.80515
+197,16993,mtc:forest-hill,0,Forest Hill Station Outbound,SF,San Francisco Municipal Transportation Agency,"K, L, M",0,Tier 2,-122.45919,37.74817
+198,17879,mtc:fourth-brannan,0,Fourth Street & Brannan Northbound,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39659,37.7784
+199,14263,mtc:geary-17th,0,Geary Blvd & 17th Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.47604,37.7806
+200,14264,mtc:geary-17th,0,Geary Blvd & 17th Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.47598,37.78046
+201,14270,mtc:geary-25th,0,Geary Blvd & 25th Ave,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.48456,37.78008
+202,14269,mtc:geary-25th,0,Geary Blvd & 25th Ave,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.48461,37.78022
+203,14271,mtc:geary-28th,0,Geary Blvd & 28th Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.48781,37.78001
+204,14272,mtc:geary-28th,0,Geary Blvd & 28th Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.48805,37.77986
+205,14273,mtc:geary-30th,0,Geary Blvd & 30th Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.48997,37.77996
+206,14274,mtc:geary-30th,0,Geary Blvd & 30th Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.49019,37.77973
+207,14275,mtc:geary-32nd,0,Geary Blvd & 32nd Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.49171,37.77963
+208,14255,mtc:geary-3rd,0,Geary Blvd & 3rd Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.4613,37.78118
+209,14256,mtc:geary-3rd,0,Geary Blvd & 3rd Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.46116,37.78104
+210,14258,mtc:geary-6th,0,Geary Blvd & 6th Ave,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.46412,37.781
+211,14257,mtc:geary-6th,0,Geary Blvd & 6th Ave,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.46449,37.78109
+212,14259,mtc:geary-9th,0,Geary Blvd & 9th Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.46764,37.78098
+213,14260,mtc:geary-9th,0,Geary Blvd & 9th Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.46732,37.78078
+214,14288,mtc:geary-arguello,0,Geary Blvd & Arguello Blvd,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.45869,37.78115
+215,17854,mtc:geary-arguello,0,Geary Blvd & Arguello Blvd,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.45896,37.78131
+216,14289,mtc:geary-stjosephs,0,Geary Blvd & Baker St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.44297,37.78297
+217,14291,mtc:geary-collins,0,Geary Blvd & Collins St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.44991,37.78203
+218,14290,mtc:geary-collins,0,Geary Blvd & Collins St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.44999,37.78224
+219,14292,mtc:geary-stanyan,0,Geary Blvd & Commonwealth St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.45568,37.78153
+220,14293,mtc:geary-divisadero,0,Geary Blvd & Divisadero St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.43937,37.78343
+221,14294,mtc:geary-divisadero,0,Geary Blvd & Divisadero St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.43957,37.78318
+222,17954,mtc:geary-fillmore,0,Geary Blvd & Fillmore St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.43205,37.78438
+223,14295,mtc:geary-fillmore,0,Geary Blvd & Fillmore St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.43305,37.78439
+224,14298,mtc:geary-gough,0,Geary Blvd & Gough St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.42508,37.78543
+225,14305,mtc:geary-laguna,0,Geary Blvd & Laguna St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.42816,37.78485
+226,14304,mtc:geary-laguna,0,Geary Blvd & Laguna St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.42781,37.78503
+227,17953,mtc:geary-masonic,0,Geary Blvd & Masonic St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.44703,37.7822
+228,14755,mtc:geary-park-presidio,0,Geary Blvd & Park Presidio Blvd,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.4728,37.78067
+229,14756,mtc:geary-park-presidio,0,Geary Blvd & Park Presidio Blvd,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.47183,37.78064
+230,14758,mtc:geary-masonic,0,Geary Blvd & Presidio Ave,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.44669,37.78254
+231,14760,mtc:geary-scott,0,Geary Blvd & Scott St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.43776,37.78385
+232,14761,mtc:geary-scott,0,Geary Blvd & Scott St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.43767,37.78362
+233,14762,mtc:geary-spruce,0,Geary Blvd & Spruce St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.45307,37.78185
+234,14763,mtc:geary-spruce,0,Geary Blvd & Spruce St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.45326,37.7816
+235,14764,mtc:geary-stanyan,0,Geary Blvd & Stanyan St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.45643,37.78126
+236,14765,mtc:geary-stjosephs,0,Geary Blvd & St Joseph'S Ave,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.44254,37.7828
+237,14769,mtc:geary-webster,0,Geary Blvd & Webster St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.43102,37.78464
+238,14300,mtc:geary-jones,0,Geary St & Jones St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.41333,37.78677
+239,14301,mtc:kearny-geary,0,Geary St & Kearny St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.40366,37.788
+240,14302,mtc:geary-larkin,0,Geary St & Larkin St,SF,San Francisco Municipal Transportation Agency,"19, 38",3,Tier 2,-122.41825,37.78614
+241,14303,mtc:geary-leavenworth,0,Geary St & Leavenworth St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.41497,37.78656
+242,14757,mtc:geary-powell,0,Geary St & Powell St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.40839,37.7874
+243,14767,mtc:geary-taylor,0,Geary St & Taylor St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.41168,37.78698
+244,15118,mtc:irving-2nd-and-arguello,0,Irving St & 2nd Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.45864,37.76444
+245,18031,mtc:irving-5th-and-6th,0,Irving St & 5th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.46214,37.76418
+246,18032,mtc:irving-5th-and-6th,0,Irving St & 6th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.46299,37.76424
+247,17996,mtc:irving-9th,0,Irving St & 8th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.46543,37.76404
+248,15124,mtc:irving-2nd-and-arguello,0,Irving St & Arguello Blvd,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.45802,37.76437
+249,15174,mtc:jefferson-powell,0,Jefferson St & Powell St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.41336,37.80859
+250,15175,mtc:jefferson-taylor,0,Jefferson St & Taylor St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.41551,37.80832
+251,15184,mtc:jones-beach,0,Jones St & Beach St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.41732,37.80713
+252,17219,mtc:judah-laplaya-oceanbeach,0,Judah/La Playa/Ocean Beach,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.50868,37.76035
+253,15223,mtc:judah-laplaya-oceanbeach,0,Judah/La Playa/Ocean Beach,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.50818,37.7603
+254,15196,mtc:judah-12th,0,Judah St & 12th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.46953,37.76199
+255,15195,mtc:judah-12th,0,Judah St & 12th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.46932,37.76207
+256,15197,mtc:judah-15th-16th,0,Judah St & 15th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.47278,37.76185
+257,15198,mtc:judah-15th-16th,0,Judah St & 16th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.47363,37.76194
+258,15199,mtc:judah-19th,0,Judah St & 19th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.47692,37.76174
+259,15200,mtc:judah-19th,0,Judah St & 19th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.47719,37.76165
+260,15201,mtc:judah-22nd-23rd,0,Judah St & 22nd Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.47986,37.76153
+261,15202,mtc:judah-22nd-23rd,0,Judah St & 23rd Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.48116,37.76155
+262,15203,mtc:judah-25th,0,Judah St & 25th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.4833,37.76145
+263,15204,mtc:judah-25th,0,Judah St & 25th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.48356,37.76137
+264,15206,mtc:judah-28th,0,Judah St & 28th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.48676,37.76123
+265,15205,mtc:judah-28th,0,Judah St & 28th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.48651,37.76131
+266,15208,mtc:judah-31st,0,Judah St & 31st Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.4895,37.76111
+267,15207,mtc:judah-31st,0,Judah St & 31st Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.48972,37.76117
+268,15210,mtc:judah-34th,0,Judah St & 34th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.4932,37.76096
+269,15209,mtc:judah-34th,0,Judah St & 34th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.49293,37.76103
+270,15212,mtc:judah-40th,0,Judah St & 40th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.49915,37.76068
+271,15211,mtc:judah-40th,0,Judah St & 40th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.49936,37.76074
+272,15213,mtc:judah-43rd,0,Judah St & 43rd Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.50257,37.7606
+273,15214,mtc:judah-43rd,0,Judah St & 43rd Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.50284,37.76052
+274,15215,mtc:judah-46th,0,Judah St & 46th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.50583,37.76049
+275,15216,mtc:judah-46th,0,Judah St & 46th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.50606,37.76039
+276,15194,mtc:judah-9th,0,Judah St & 9th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.46631,37.76214
+277,15193,mtc:judah-9th,0,Judah St & 9th Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.46669,37.76223
+278,15220,mtc:judah-funston,0,Judah St & Funston Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.47057,37.76195
+279,15219,mtc:judah-funston,0,Judah St & Funston Ave,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.47033,37.76208
+280,15225,mtc:judah-sunset,0,Judah St & Sunset Blvd,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.49581,37.76085
+281,15224,mtc:judah-sunset,0,Judah St & Sunset Blvd,SF,San Francisco Municipal Transportation Agency,"N, NBUS, NOWL","0, 3",Tier 2,-122.49567,37.76092
+282,17114,mtc:junipero-serra-ocean,0,Junipero Serra Blvd & Ocean Ave,SF,San Francisco Municipal Transportation Agency,K,0,Tier 2,-122.47182,37.73127
+283,17113,mtc:junipero-serra-ocean,0,Junipero Serra Blvd & Ocean Ave,SF,San Francisco Municipal Transportation Agency,K,0,Tier 2,-122.47171,37.73163
+284,14821,mtc:kearny-geary,0,Kearny St & Geary St,SF,San Francisco Municipal Transportation Agency,"30, 45, 8, 8AX, 8BX, 91, TBUS",3,Tier 2,-122.40346,37.78805
+285,15234,mtc:king-2nd,0,King St & 2nd St,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.38987,37.77972
+286,15237,mtc:king-2nd,0,King St & 2nd St,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.38982,37.77962
+287,15239,mtc:4th-king,0,King St & 4th St,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.39417,37.77627
+288,15240,mtc:4th-king,0,King St & 4th St,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.39408,37.77627
+289,17264,mtc:market-1st,0,Market St & 1st St,SF,San Francisco Municipal Transportation Agency,"2, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.3992,37.79094
+290,15639,mtc:market-2nd,0,Market St & 2nd St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.40131,37.78935
+291,15640,mtc:market-Kearny,0,Market St & 3rd St,SF,San Francisco Municipal Transportation Agency,"9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.40352,37.78753
+292,15643,mtc:market-4th,0,Market St & 4th St,SF,San Francisco Municipal Transportation Agency,"9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.40585,37.78571
+293,15645,mtc:market-5th,0,Market St & 5th St,SF,San Francisco Municipal Transportation Agency,"9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.40814,37.78389
+294,15655,mtc:market-5th,0,Market St & 5th  St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.40799,37.78408
+295,15647,mtc:market-6th,0,Market St & 6th St,SF,San Francisco Municipal Transportation Agency,"9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.4104,37.7821
+296,15656,mtc:market-7th,0,Market St & 7th St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.41244,37.78057
+297,15650,mtc:market-7th,0,Market St & 7th St,SF,San Francisco Municipal Transportation Agency,"9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.41261,37.78036
+298,15651,mtc:market-8th,0,Market St & 8th St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.41483,37.77861
+299,15652,mtc:market-9th,0,Market St & 9th St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.41634,37.77741
+300,15657,mtc:market-1st,0,Market St & Battery St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.39907,37.79111
+301,15659,mtc:market-dolores,0,Market St & Buchanan St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.42615,37.76979
+302,15662,mtc:church-market,0,Market St & Church St,SF,San Francisco Municipal Transportation Agency,"F, FBUS",0,Tier 2,-122.42921,37.76725
+303,15661,mtc:church-market,0,Market St & Church St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, KBUS, LOWL","0, 3",Tier 2,-122.42878,37.7677
+304,15668,mtc:market-dolores,0,Market St & Dolores St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.4271,37.76888
+305,15669,mtc:market-main,0,Market St & Drumm St,SF,San Francisco Municipal Transportation Agency,"2, 9, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.39618,37.79347
+306,15671,mtc:market-front,0,Market St & Front St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.39815,37.79192
+307,15672,mtc:market-gough,0,Market St & Gough St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.42177,37.77327
+308,15673,mtc:market-gough,0,Market St & Gough St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.42199,37.77287
+309,15675,mtc:market-guerrero,0,Market St & Guerrero St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.42497,37.77057
+310,15676,mtc:market-hyde,0,Market St & Hyde St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.41438,37.77911
+311,15678,mtc:market-Kearny,0,Market St & Kearny St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.40337,37.78773
+312,15681,mtc:market-guerrero,0,Market St & Laguna St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.42467,37.77095
+313,15680,mtc:market-9th,0,Market St & Larkin St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS","0, 3",Tier 2,-122.41624,37.7776
+314,15682,mtc:market-main,0,Market St & Main St,SF,San Francisco Municipal Transportation Agency,"F, FBUS",0,Tier 2,-122.39663,37.79298
+315,15685,mtc:market-new-montgomery,0,Market St & New Montgomery St,SF,San Francisco Municipal Transportation Agency,"9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.40216,37.78861
+316,15686,mtc:market-noe,0,Market St & Noe St,SF,San Francisco Municipal Transportation Agency,"F, FBUS",0,Tier 2,-122.43281,37.76449
+317,15687,mtc:market-noe,0,Market St & Noe St,SF,San Francisco Municipal Transportation Agency,"37, F, FBUS, KBUS, LOWL","0, 3",Tier 2,-122.43332,37.76396
+318,15691,mtc:market-sanchez,0,Market St & Sanchez St,SF,San Francisco Municipal Transportation Agency,"37, FBUS, KBUS, LOWL","0, 3",Tier 2,-122.43114,37.76569
+319,17123,mtc:market-sanchez,0,Market St & Sanchez St,SF,San Francisco Municipal Transportation Agency,F,0,Tier 2,-122.43122,37.76563
+320,15690,mtc:market-sanchez,0,Market St & Sanchez St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, KBUS, LOWL","0, 3",Tier 2,-122.43071,37.76619
+321,15692,mtc:south-van-ness-market,0,Market St & South Van Ness Ave,SF,San Francisco Municipal Transportation Agency,"7, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.41932,37.77506
+322,15694,mtc:market-4th,0,Market St & Stockton St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.40586,37.78578
+323,15695,mtc:market-6th,0,Market St & Taylor St,SF,San Francisco Municipal Transportation Agency,"7, 9, 9R, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.41023,37.78232
+324,15696,mtc:south-van-ness-market,0,Market St & Van Ness Ave,SF,San Francisco Municipal Transportation Agency,"7, F, FBUS, KBUS, LOWL, NBUS, NOWL","0, 3",Tier 2,-122.41925,37.7752
+325,15728,mtc:castro,0,Metro Castro Station/Downtown,SF,San Francisco Municipal Transportation Agency,"K, L, M",0,Tier 2,-122.43523,37.76262
+326,16991,mtc:castro,0,Metro Castro Station/Outbound,SF,San Francisco Municipal Transportation Agency,"K, L, M",0,Tier 2,-122.43529,37.76268
+327,15726,mtc:church,0,Metro Church Station/Downtown,SF,San Francisco Municipal Transportation Agency,"K, L, M",0,Tier 2,-122.42917,37.76719
+328,16998,mtc:church,0,Metro Church Station/Outbound,SF,San Francisco Municipal Transportation Agency,"K, L, M",0,Tier 2,-122.42932,37.76733
+329,15730,mtc:forest-hill,0,Metro Forest Hill Station/Downtown,SF,San Francisco Municipal Transportation Agency,"K, L, M",0,Tier 2,-122.45862,37.74835
+330,15419,mtc:van-ness,0,Metro Van Ness Station,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.41925,37.77513
+331,15545,mtc:mission-11th,0,Mission St & 11th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 90",3,Tier 2,-122.41729,37.77431
+332,15544,mtc:mission-11th,0,Mission St & 11th St,SF,San Francisco Municipal Transportation Agency,"14, 14R",3,Tier 2,-122.41628,37.77491
+333,15548,mtc:mission-14th,0,Mission St & 14th St,SF,San Francisco Municipal Transportation Agency,"14, 49",3,Tier 2,-122.42002,37.7678
+334,15552,901509,0,Mission St & 16th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 33, 49, 714",3,Tier 2,-122.41974,37.7648
+335,15554,mtc:mission-18th,0,Mission St & 18th St,SF,San Francisco Municipal Transportation Agency,"14, 49",3,Tier 2,-122.41946,37.76176
+336,15558,mtc:mission-20th,0,Mission St & 20th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 49",3,Tier 2,-122.41909,37.75817
+337,15562,mtc:mission-22nd,0,Mission St & 22nd St,SF,San Francisco Municipal Transportation Agency,"14, 49",3,Tier 2,-122.4188,37.75517
+338,15566,901609,0,Mission St & 24th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 49, 714",3,Tier 2,-122.41853,37.75196
+339,15568,mtc:mission-26th,0,Mission St & 26th St,SF,San Francisco Municipal Transportation Agency,"14, 49",3,Tier 2,-122.41818,37.74857
+340,15571,mtc:mission-30th,0,Mission St & 30th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 36, 49",3,Tier 2,-122.42194,37.74241
+341,15572,mtc:mission-30th,0,Mission St & 30th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 49",3,Tier 2,-122.42199,37.74242
+342,15532,mtc:mission-3rd,0,Mission St & 3rd St,SF,San Francisco Municipal Transportation Agency,"14, 14R",3,Tier 2,-122.40249,37.78597
+343,15533,mtc:mission-4th,0,Mission St & 4th St,SF,San Francisco Municipal Transportation Agency,"14, 14R",3,Tier 2,-122.40393,37.78464
+344,15535,mtc:mission-5th,0,Mission St & 5th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 714",3,Tier 2,-122.40653,37.78272
+345,15536,mtc:mission-5th,0,Mission St & 5th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 714",3,Tier 2,-122.40664,37.78272
+346,15538,mtc:mission-6th,0,Mission St & 6th St,SF,San Francisco Municipal Transportation Agency,14,3,Tier 2,-122.4091,37.78075
+347,15537,mtc:mission-6th,0,Mission St & 6th St,SF,San Francisco Municipal Transportation Agency,14,3,Tier 2,-122.40831,37.78119
+348,15539,mtc:mission-7th,0,Mission St & 7th St,SF,San Francisco Municipal Transportation Agency,14,3,Tier 2,-122.41135,37.77897
+349,17129,mtc:mission-7th,0,Mission St & 7th St,SF,San Francisco Municipal Transportation Agency,14,3,Tier 2,-122.41051,37.77935
+350,15541,mtc:mission-8th,0,Mission St & 8th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 714",3,Tier 2,-122.41273,37.7777
+351,15540,mtc:mission-8th,0,Mission St & 8th St,SF,San Francisco Municipal Transportation Agency,"14, 14R, 714",3,Tier 2,-122.41355,37.77723
+352,15542,mtc:mission-9th,0,Mission St & 9th St,SF,San Francisco Municipal Transportation Agency,14,3,Tier 2,-122.41431,37.77645
+353,15543,mtc:mission-9th,0,Mission St & 9th St,SF,San Francisco Municipal Transportation Agency,14,3,Tier 2,-122.41518,37.77594
+354,17841,mtc:mission-power,0,Mission St & Power St,SF,San Francisco Municipal Transportation Agency,"12, 14, 49",3,Tier 2,-122.4194,37.74625
+355,15626,mtc:mission-valencia,0,Mission St & Valencia St,SF,San Francisco Municipal Transportation Agency,"14, 36, 49",3,Tier 2,-122.4203,37.74508
+356,15780,mtc:ocean-aptos,0,Ocean Ave & Aptos Ave,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.46787,37.72838
+357,15779,mtc:ocean-aptos,0,Ocean Ave & Aptos Ave,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.46756,37.72828
+358,15785,mtc:ocean-ccsf,0,Ocean Ave/Ccsf Pedestrian Bridge,SF,San Francisco Municipal Transportation Agency,K,0,Tier 2,-122.45087,37.72295
+359,15784,mtc:ocean-ccsf,0,Ocean Ave/Ccsf Pedestrian Bridge,SF,San Francisco Municipal Transportation Agency,K,0,Tier 2,-122.45145,37.72304
+360,15787,mtc:ocean-dorado,0,Ocean Ave & Dorado Ter,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.46106,37.72496
+361,15788,mtc:ocean-fairfield,0,Ocean Ave & Fairfield Way,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.46407,37.72601
+362,15793,mtc:ocean-dorado,0,Ocean Ave & Jules Ave,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.46139,37.72496
+363,15794,mtc:ocean-lee,0,Ocean Ave & Lee St,SF,San Francisco Municipal Transportation Agency,"29, 91, K, KBUS","0, 3",Tier 2,-122.454,37.72346
+364,15795,mtc:ocean-lee,0,Ocean Ave & Lee St,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.45442,37.7234
+365,15798,mtc:ocean-miramar,0,Ocean Ave & Miramar Ave,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.45831,37.72426
+366,15797,mtc:ocean-miramar,0,Ocean Ave & Miramar Ave,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.45808,37.72439
+367,15806,mtc:ocean-san-leandro,0,Ocean Ave & San Leandro Way,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.4691,37.72999
+368,15807,mtc:ocean-san-leandro,0,Ocean Ave & San Leandro Way,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.46948,37.72995
+369,15808,mtc:ocean-fairfield,0,Ocean Ave & Victoria St,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS","0, 3",Tier 2,-122.46434,37.72603
+370,15813,mtc:ofarrell-larkin,0,O'Farrell St & Larkin St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.4177,37.78514
+371,15814,mtc:ofarrell-leavenworth,0,O'Farrell St & Leavenworth St,SF,San Francisco Municipal Transportation Agency,38,3,Tier 2,-122.41445,37.78554
+372,15817,mtc:ofarrell-powell,0,O'Farrell St & Powell St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.40814,37.78632
+373,17301,mtc:ofarrell-taylor,0,O'Farrell St & Taylor St,SF,San Francisco Municipal Transportation Agency,"38, 38R",3,Tier 2,-122.41198,37.78585
+374,15825,mtc:broad-orizaba,0,Orizaba Ave & Broad St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.46259,37.71333
+375,17870,mtc:otis-mccoppin,0,Otis & Mccoppin St,SF,San Francisco Municipal Transportation Agency,"14, 49",3,Tier 2,-122.42037,37.7716
+376,15836,mtc:otis-12th,0,Otis St & 12th St,SF,San Francisco Municipal Transportation Agency,"14, 49",3,Tier 2,-122.41917,37.77281
+377,16125,mtc:post-grant,0,Post St & Grant Ave,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.40599,37.78855
+378,16126,mtc:post-hyde,0,Post St & Hyde St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41626,37.78724
+379,16127,mtc:post-jones,0,Post St & Jones St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41295,37.78765
+380,16019,mtc:post-kearny,0,Post St & Kearny St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.40274,37.78896
+381,16016,mtc:post-larkin,0,Post St & Larkin St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41772,37.78705
+382,16017,mtc:post-leavenworth,0,Post St & Leavenworth St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41459,37.78745
+383,16021,mtc:post-polk,0,Post St & Polk St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41956,37.7868
+384,16023,mtc:post-taylor,0,Post St & Taylor St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41132,37.78788
+385,17912,mtc:potrero-19th,0,Potrero Ave & 19th St,SF,San Francisco Municipal Transportation Agency,"33, 9, 90",3,Tier 2,-122.40717,37.76061
+386,16034,mtc:potrero-21st,0,Potrero Ave & 21st St,SF,San Francisco Municipal Transportation Agency,"33, 9, 90",3,Tier 2,-122.40694,37.7575
+387,16037,mtc:potrero-23rd,0,Potrero Ave & 23rd St,SF,San Francisco Municipal Transportation Agency,"33, 9, 90, 9R",3,Tier 2,-122.4067,37.75506
+388,16172,mtc:randolph-arch,0,Randolph St & Arch St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.46698,37.71434
+389,16173,mtc:randolph-arch,0,Randolph St & Arch St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.46722,37.7142
+390,16174,mtc:randolph-bright,0,Randolph St & Bright St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.46339,37.71435
+391,16175,mtc:randolph-bright,0,Randolph St & Bright St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.46367,37.71425
+392,16213,mtc:row-18th,0,Right Of Way/18th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42818,37.76119
+393,16214,mtc:row-20th,0,Right Of Way/20th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42792,37.75826
+394,16215,mtc:row-20th,0,Right Of Way/20th St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.4278,37.75823
+395,16217,mtc:row-21st,0,Right Of Way/21st St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42682,37.75644
+396,16216,mtc:row-21st,0,Right Of Way/21st St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42692,37.75664
+397,16219,mtc:row-eucalyptus,0,Right Of Way/Eucalyptus Dr,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47435,37.73119
+398,16220,mtc:row-eucalyptus,0,Right Of Way/Eucalyptus Dr,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47437,37.73099
+399,16221,mtc:row-liberty,0,Right Of Way/Liberty St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.427,37.75745
+400,16222,mtc:row-liberty,0,Right Of Way/Liberty St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42687,37.75724
+401,16224,mtc:row-ocean,0,Right Of Way/Ocean Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47382,37.73181
+402,16223,mtc:row-ocean,0,Right Of Way/Ocean Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.47372,37.73202
+403,16290,mtc:sacramento-battery,0,Sacramento St & Battery St,SF,San Francisco Municipal Transportation Agency,"1, 12, 1X",3,Tier 2,-122.40028,37.79418
+404,16294,mtc:sacramento-davis,0,Sacramento St & Davis St,SF,San Francisco Municipal Transportation Agency,"1, 12, 1X",3,Tier 2,-122.3976,37.79455
+405,16297,mtc:sacramento-franklin,0,Sacramento St & Franklin St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.42407,37.79118
+406,16307,mtc:sacramento-montgomery,0,Sacramento St & Montgomery St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.4031,37.79382
+407,16311,mtc:sacramento-polk,0,Sacramento St & Polk St,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.42118,37.79155
+408,16317,mtc:van-ness-sacramento,0,Sacramento St & Van Ness Ave,SF,San Francisco Municipal Transportation Agency,1,3,Tier 2,-122.42227,37.79141
+409,16257,mtc:san-jose-farallones,0,San Jose Ave & Farallones St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.45215,37.71415
+410,16259,mtc:san-jose-farallones,0,San Jose Ave & Farallones St,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.45228,37.71396
+411,17164,mtc:san-jose-geneva,0,San Jose Ave & Geneva Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.44655,37.72063
+412,17778,mtc:san-jose-geneva,0,San Jose Ave & Geneva Ave,SF,San Francisco Municipal Transportation Agency,"J, K",0,Tier 2,-122.44622,37.72124
+413,16262,mtc:san-jose-geneva,0,San Jose Ave & Geneva Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.4472,37.7201
+414,14788,mtc:san-jose-glen-park,0,San Jose Ave/Glen Park Station,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.43385,37.7324
+415,14787,mtc:san-jose-glen-park,0,San Jose Ave/Glen Park Station,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.43342,37.73253
+416,16266,mtc:san-jose-lakeview,0,San Jose Ave & Lakeview Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.45043,37.71608
+417,16265,mtc:san-jose-lakeview,0,San Jose Ave & Lakeview Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.45037,37.71633
+418,16269,mtc:san-jose-niagra,0,San Jose Ave & Niagra Ave,SF,San Francisco Municipal Transportation Agency,M,0,Tier 2,-122.44765,37.71942
+419,16274,mtc:san-jose-ocean,0,San Jose Ave & Ocean Ave,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.4447,37.72308
+420,16275,mtc:san-jose-ocean,0,San Jose Ave & Ocean Ave,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.44479,37.72286
+421,16277,mtc:san-jose-randall,0,San Jose Ave & Randall St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42416,37.73974
+422,16280,mtc:san-jose-randall,0,San Jose Ave & Randall St,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.42432,37.73938
+423,16285,mtc:san-jose-santa-rosa,0,San Jose Ave & Santa Rosa Ave,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.44002,37.729
+424,16284,mtc:san-jose-santa-rosa,0,San Jose Ave & Santa Rosa Ave,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.43992,37.72899
+425,16287,mtc:san-jose-santa-ynez,0,San Jose Ave & Santa Ynez Ave,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.44236,37.72588
+426,16288,mtc:san-jose-santa-ynez,0,San Jose Ave & Santa Ynez Ave,SF,San Francisco Municipal Transportation Agency,J,0,Tier 2,-122.44244,37.72568
+427,18088,mtc:market-van-ness-nb,0,South Van Ness Ave & Market St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.41924,37.7751
+428,16516,mtc:union-square,0,Stockton St & Geary St,SF,San Francisco Municipal Transportation Agency,"15, 30, 45, 8, 8AX, 8BX, 91, TBUS",3,Tier 2,-122.40673,37.7877
+429,17318,mtc:duboce-and-noe,0,Sunset Tunnel East Portal,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.43351,37.76929
+430,16594,mtc:sutter-hyde,0,Sutter St & Hyde St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41691,37.78822
+431,16595,mtc:sutter-jones,0,Sutter St & Jones St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41362,37.78864
+432,16598,mtc:sutter-leavenworth,0,Sutter St & Leavenworth St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41527,37.78843
+433,16601,mtc:sutter-mason,0,Sutter St & Mason St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41032,37.78906
+434,16603,mtc:sutter-polk,0,Sutter St & Polk St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.4202,37.7878
+435,16604,mtc:sutter-mason,0,Sutter St & Powell St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.40868,37.78927
+436,16612,mtc:sutter-taylor,0,Sutter St & Taylor St,SF,San Francisco Municipal Transportation Agency,2,3,Tier 2,-122.41196,37.78886
+437,16615,mtc:taraval-16th,0,Taraval St & 17th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.47331,37.74313
+438,16616,mtc:taraval-19th,0,Taraval St & 19th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.47544,37.74311
+439,16617,mtc:taraval-19th,0,Taraval St & 19th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.47582,37.74297
+440,16619,mtc:taraval-22nd-23rd,0,Taraval St & 22nd Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.47843,37.74289
+441,16620,mtc:taraval-22nd-23rd,0,Taraval St & 23rd Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.48045,37.74287
+442,16622,mtc:taraval-26th,0,Taraval St & 26th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.48308,37.74278
+443,16623,mtc:taraval-26th,0,Taraval St & 26th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.48338,37.74268
+444,16627,mtc:taraval-30th,0,Taraval St & 30th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.48768,37.74249
+445,16626,mtc:taraval-30th,0,Taraval St & 30th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.48734,37.74259
+446,16628,mtc:taraval-32nd,0,Taraval St & 32nd Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.4895,37.74249
+447,16629,mtc:taraval-32nd,0,Taraval St & 32nd Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.4898,37.7424
+448,16632,mtc:taraval-40th,0,Taraval St & 40th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.49805,37.74212
+449,16633,mtc:taraval-40th,0,Taraval St & 40th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.49832,37.74199
+450,16634,mtc:taraval-42nd,0,Taraval St & 42nd Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.5002,37.74202
+451,16635,mtc:taraval-42nd,0,Taraval St & 42nd Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.50046,37.7419
+452,16636,mtc:taraval-44th,0,Taraval St & 44th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.50235,37.74192
+453,16637,mtc:taraval-44th,0,Taraval St & 44th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.50261,37.7418
+454,16638,mtc:taraval-46th,0,Taraval St & 46th Ave,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.50449,37.74182
+455,16640,mtc:taraval-sunset,0,Taraval St & Sunset Blvd,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.49436,37.74229
+456,16641,mtc:taraval-sunset,0,Taraval St & Sunset Blvd,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.49451,37.74219
+457,14501,mtc:embarcadero-bay,0,The Embarcadero & Bay St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.40628,37.80694
+458,14502,mtc:embarcadero-bay,0,The Embarcadero & Bay St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.40603,37.80663
+459,17145,mtc:embarcadero-brannan,0,The Embarcadero & Brannan St,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.38798,37.78463
+460,14506,mtc:embarcadero-brannan,0,The Embarcadero & Brannan St,SF,San Francisco Municipal Transportation Agency,N,0,Tier 2,-122.38814,37.78436
+461,14504,mtc:embarcadero-broadway,0,The Embarcadero & Broadway,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39743,37.7989
+462,14503,mtc:embarcadero-broadway,0,The Embarcadero & Broadway,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39787,37.79955
+463,14513,mtc:embarcadero-ferry-building,0,The Embarcadero & Ferry Building,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39355,37.79489
+464,17283,mtc:embarcadero-ferry-building,0,The Embarcadero & Ferry Building,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39377,37.79483
+465,14510,mtc:embarcadero-folsom,0,The Embarcadero & Folsom St,SF,San Francisco Municipal Transportation Agency,"K, L, M, N",0,Tier 2,-122.38984,37.79075
+466,14509,mtc:embarcadero-folsom,0,The Embarcadero & Folsom St,SF,San Francisco Municipal Transportation Agency,"K, L, M, N",0,Tier 2,-122.38969,37.79048
+467,14517,mtc:embarcadero-green,0,The Embarcadero & Green St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39937,37.80126
+468,14518,mtc:embarcadero-green,0,The Embarcadero & Green St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39892,37.8006
+469,14516,mtc:embarcadero-greenwich,0,The Embarcadero & Greenwich St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.40103,37.80296
+470,14515,mtc:embarcadero-greenwich,0,The Embarcadero & Greenwich St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.40111,37.80326
+471,14529,mtc:embarcadero-sansome,0,The Embarcadero & Sansome St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.40331,37.80502
+472,14530,mtc:embarcadero-stockton,0,The Embarcadero & Stockton St,SF,San Francisco Municipal Transportation Agency,"39, F, FBUS, LOWL","0, 3",Tier 2,-122.41029,37.80835
+473,14532,mtc:embarcadero-washington,0,The Embarcadero & Washington St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39567,37.79709
+474,14534,mtc:embarcadero-washington,0,The Embarcadero & Washington St,SF,San Francisco Municipal Transportation Agency,"F, FBUS, LOWL","0, 3",Tier 2,-122.39518,37.79635
+475,17355,mtc:third-20th,0,Third Street & 20th St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38856,37.76052
+476,17362,mtc:third-20th,0,Third Street & 20th St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38859,37.76037
+477,17354,mtc:third-23rd,0,Third Street & 23rd St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.388,37.75541
+478,17363,mtc:third-23rd,0,Third Street & 23rd St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38805,37.75526
+479,17343,mtc:third-carroll,0,Third Street & Carroll Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39422,37.72549
+480,17344,mtc:third-carroll,0,Third Street & Carroll Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39439,37.72524
+481,17365,mtc:third-evans,0,Third Street & Evans Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38803,37.74273
+482,17352,mtc:third-evans,0,Third Street & Evans Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38792,37.74273
+483,17342,mtc:third-gilman-paul,0,Third Street/Gilman/Paul,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39578,37.7222
+484,17347,mtc:third-gilman-paul,0,Third Street/Gilman/Paul,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39561,37.72245
+485,17404,mtc:third-hudson-innes,0,Third Street/Hudson/Innes,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38888,37.73992
+486,17390,mtc:third-hudson-innes,0,Third Street/Hudson/Innes,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38893,37.73993
+487,17391,mtc:third-kirkwood-la-salle,0,Third Street/Kirkwood/La Salle,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38973,37.73765
+488,17403,mtc:third-kirkwood-la-salle,0,Third Street/Kirkwood/La Salle,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38969,37.73764
+489,17400,mtc:third-le-conte,0,Third Street & Le Conte Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39747,37.71881
+490,17394,mtc:third-le-conte,0,Third Street & Le Conte Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.3977,37.71864
+491,17353,mtc:third-marin,0,Third Street & Marin St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38744,37.749
+492,17364,mtc:third-marin,0,Third Street & Marin St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38752,37.7491
+493,17358,mtc:third-mission-rock,0,Third Street & Mission Rock St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38968,37.77298
+494,17359,mtc:third-mission-rock,0,Third Street & Mission Rock St,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38972,37.77283
+495,17402,mtc:third-oakdale-palou,0,Third Street/Oakdale/Palou,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39084,37.73436
+496,17392,mtc:third-oakdale-palou,0,Third Street/Oakdale/Palou,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39089,37.73435
+497,17401,mtc:third-revere-shafter,0,Third Street/Revere/Shafter,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.3915,37.73226
+498,17393,mtc:third-revere-shafter,0,Third Street/Revere/Shafter,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.3916,37.73229
+499,17345,mtc:third-williams,0,Third Street & Williams Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.3926,37.72929
+500,17346,mtc:third-williams,0,Third Street & Williams Ave,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.39268,37.72921
+501,17357,mtc:ucsf-16th,0,Ucsf / Chase Center (16th St),SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38918,37.7685
+502,17360,mtc:ucsf-16th,0,Ucsf / Chase Center (16th Street),SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38937,37.76824
+503,17356,mtc:ucsf-mariposa,0,Ucsf Medical Center (Mariposa),SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38885,37.76439
+504,17361,mtc:ucsf-mariposa,0,Ucsf Medical Center (Mariposa),SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.38886,37.76424
+505,18137,mtc:ulloa-14th,0,Ulloa St & 14th Ave,SF,San Francisco Municipal Transportation Agency,L,0,Tier 2,-122.47021,37.74136
+506,18136,mtc:ulloa-14th,0,Ulloa St & 14th Ave,SF,San Francisco Municipal Transportation Agency,L,0,Tier 2,-122.46997,37.7415
+507,16738,mtc:ulloa-lenox,0,Ulloa St & Lenox Way,SF,San Francisco Municipal Transportation Agency,"48, L, LOWL, M","0, 3",Tier 2,-122.46616,37.74112
+508,16744,mtc:ulloa-lenox,0,Ulloa St & West Portal Ave,SF,San Francisco Municipal Transportation Agency,"57, L, M","0, 3",Tier 2,-122.46617,37.74101
+509,17877,mtc:union-square,0,Union Square/Market St Station Northbound,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40648,37.78715
+510,17874,mtc:union-square,0,Union Square/Market St Station Southbound,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40652,37.78713
+511,18092,mtc:van-ness-bush,0,Van Ness Ave & Bush St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42192,37.78845
+512,18093,mtc:van-ness-clay,0,Van Ness Ave & Clay St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42266,37.79213
+513,18090,mtc:van-ness-eddy,0,Van Ness Ave & Eddy St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42078,37.78285
+514,18103,mtc:van-ness-eddy,0,Van Ness Ave & Eddy St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42087,37.78292
+515,18091,mtc:van-ness-gearey,0,Van Ness Ave & Geary Blvd,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42137,37.78565
+516,18099,mtc:van-ness-jackson,0,Van Ness Ave & Jackson St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.4231,37.79396
+517,18105,mtc:market-van-ness-sb,0,Van Ness Ave & Market St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.41931,37.77517
+518,18089,mtc:van-ness-mcallister,0,Van Ness Ave & Mcallister St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42022,37.78003
+519,18104,mtc:van-ness-mcallister,0,Van Ness Ave & Mcallister St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.4203,37.7801
+520,18102,mtc:van-ness-ofarrell,0,Van Ness Ave & O'Farrell St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42121,37.78478
+521,18094,mtc:van-ness-pacific,0,Van Ness Ave & Pacific St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.4232,37.79478
+522,18100,mtc:van-ness-sacramento,0,Van Ness Ave & Sacramento St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42257,37.79131
+523,18097,mtc:van-ness-union,0,Van Ness Ave & Union St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42404,37.79858
+524,18096,mtc:van-ness-union,0,Van Ness Ave & Union St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42396,37.79851
+525,18098,mtc:van-ness-vallejo,0,Van Ness Ave & Vallejo St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.42366,37.79672
+526,18095,mtc:van-ness-vallejo,0,Van Ness Ave & Vallejo St,SF,San Francisco Municipal Transportation Agency,"49, 90",3,Tier 2,-122.4236,37.7968
+527,16996,mtc:van-ness,0,Van Ness Station Outbound,SF,San Francisco Municipal Transportation Agency,"J, K, L, M, N",0,Tier 2,-122.41934,37.77523
+528,16932,mtc:wawona-46th-sfzoo,0,Wawona/46th Ave /Sf Zoo,SF,San Francisco Municipal Transportation Agency,"L, LOWL","0, 3",Tier 2,-122.50435,37.73613
+529,17125,mtc:west-portal-14th,0,West Portal Ave & 14th Ave,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS, M","0, 3",Tier 2,-122.46898,37.73806
+530,16898,mtc:west-portal-14th,0,West Portal Ave & 14th Ave,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS, M","0, 3",Tier 2,-122.46904,37.73786
+531,16503,mtc:west-portal-sloat-stfrancis,0,West Portal/Sloat/St Francis Circle,SF,San Francisco Municipal Transportation Agency,"91, K, KBUS, M","0, 3",Tier 2,-122.47162,37.73481
+532,17109,mtc:west-portal-sloat-stfrancis,0,West Portal/Sloat/St Francis Circle,SF,San Francisco Municipal Transportation Agency,"K, M",0,Tier 2,-122.47145,37.73483
+533,16740,mtc:west-portal,0,West Portal Station,SF,San Francisco Municipal Transportation Agency,"K, L, M",0,Tier 2,-122.46522,37.74152
+534,16739,mtc:west-portal,0,West Portal Station,SF,San Francisco Municipal Transportation Agency,"K, L, M",0,Tier 2,-122.46553,37.74139
+535,17878,mtc:yerba-buena,0,Yerba Buena/Moscone Station Northbound,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40155,37.78236
+536,17873,mtc:yerba-buena,0,Yerba Buena/Moscone Station Southbound,SF,San Francisco Municipal Transportation Agency,T,0,Tier 2,-122.40173,37.78238
+537,52437,mtc:international-103rd,0,103rd Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.16776,37.74064
+538,52435,mtc:international-103rd,0,103rd Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.16778,37.74073
+539,52538,mtc:international-10th,0,10th Avenue NB,AC,AC TRANSIT,1T,3,Tier 2,-122.24948,37.79196
+540,52539,mtc:12th-10th,0,10th Avenue SB,AC,AC TRANSIT,1T,3,Tier 2,-122.24967,37.79042
+541,52536,mtc:international-14th,0,14th Avenue NB,AC,AC TRANSIT,1T,3,Tier 2,-122.24578,37.78931
+542,52537,mtc:14th-12th,0,14th Avenue SB,AC,AC TRANSIT,1T,3,Tier 2,-122.24642,37.78878
+543,52581,mtc:broadway-14th,0,14th Street NB,AC,AC TRANSIT,1T,3,Tier 2,-122.27089,37.80458
+544,52583,mtc:broadway-14th,0,14th Street SB,AC,AC TRANSIT,1T,3,Tier 2,-122.27149,37.80409
+545,52519,mtc:international-20th,0,20th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.23974,37.7857
+546,52531,mtc:international-20th,0,20th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.23967,37.78562
+547,52518,mtc:international-24th,0,24th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.23453,37.78255
+548,52517,mtc:international-24th,0,24th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.2346,37.78262
+549,52516,mtc:international-28th,0,28th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.2302,37.77996
+550,52514,mtc:international-28th,0,28th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.23033,37.78007
+551,52549,mtc:international-2nd,0,2nd Avenue NB,AC,AC TRANSIT,1T,3,Tier 2,-122.25611,37.79783
+552,52548,mtc:12th-2nd,0,2nd Avenue SB,AC,AC TRANSIT,1T,3,Tier 2,-122.2571,37.79697
+553,52596,mtc:international-31st,0,31st  Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.22684,37.77807
+554,52594,mtc:international-31st,0,31st  Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.22693,37.77813
+555,52605,mtc:international-39th,0,39th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.21928,37.77445
+556,52602,mtc:international-39th,0,39th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.21935,37.7745
+557,52508,mtc:international-48th,0,48th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.20905,37.76957
+558,52507,mtc:international-48th,0,48th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.20913,37.76964
+559,52615,mtc:international-54th,0,54th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.20574,37.76801
+560,52606,mtc:international-54th,0,54th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.20583,37.76808
+561,52547,mtc:international-5th,0,5th Avenue NB,AC,AC TRANSIT,1T,3,Tier 2,-122.25403,37.796
+562,52546,mtc:12th-5th,0,5th Avenue SB,AC,AC TRANSIT,1T,3,Tier 2,-122.25336,37.79369
+563,52498,mtc:international-63rd,0,63rd Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.19613,37.7635
+564,52503,mtc:international-63rd,0,63rd Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.19605,37.76344
+565,52494,mtc:international-67th,0,67th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.19159,37.76137
+566,52495,mtc:international-67th,0,67th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.19151,37.7613
+567,52492,mtc:international-73rd,0,73rd Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.18838,37.75981
+568,52489,mtc:international-73rd,0,73rd Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.18852,37.7599
+569,52485,mtc:international-77th,0,77th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.18474,37.7581
+570,52487,mtc:international-77th,0,77th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.18465,37.75803
+571,52484,mtc:international-82nd,0,82nd Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.17974,37.7557
+572,52482,mtc:international-82nd,0,82nd Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.17982,37.75576
+573,52476,mtc:international-86th,0,86th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.17641,37.75235
+574,52478,mtc:international-86th,0,86th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.17639,37.75226
+575,52474,mtc:international-90th,0,90th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.17423,37.7494
+576,52475,mtc:international-90th,0,90th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.1742,37.7493
+577,52467,mtc:international-95th,0,95th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.17176,37.74607
+578,52472,mtc:international-95th,0,95th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.17173,37.74598
+579,52464,mtc:international-98th,0,98th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.16979,37.74334
+580,52462,mtc:international-98th,0,98th Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.16982,37.74344
+581,55593,mtc:station_bancroft_dana,0,Bancroft Way & Dana St,AC,AC TRANSIT,"22, 27, 36, 51B, 52, 6, 604, 605, 851, F",3,Tier 2,-122.26191,37.86846
+582,54655,mtc:station_bancroft_ellsworth,0,Bancroft Way & Ellsworth St,AC,AC TRANSIT,"22, 27, 36, 51B, 52, 6, 604, 605, 851, F",3,Tier 2,-122.26408,37.86817
+583,56888,mtc:station_bancroft_telegraph,0,Bancroft Way & Telegraph Av,AC,AC TRANSIT,"52, 6",3,Tier 2,-122.26026,37.86865
+584,52584,mtc:12th-broadway,0,City Center NB,AC,AC TRANSIT,1T,3,Tier 2,-122.27151,37.80282
+585,52586,mtc:11th-broadway,0,City Center SB,AC,AC TRANSIT,1T,3,Tier 2,-122.2718,37.80189
+586,52404,mtc:downtown-san-leandro,0,Downtown San Leandro NB,AC,AC TRANSIT,1T,3,Tier 2,-122.15757,37.72538
+587,52405,mtc:downtown-san-leandro,0,Downtown San Leandro SB,AC,AC TRANSIT,1T,3,Tier 2,-122.15793,37.72544
+588,52333,mtc:station_durant_college,0,Durant Av & College Av,AC,AC TRANSIT,"22, 27, 36, 51B, 604, 605, 851",3,Tier 2,-122.25463,37.8683
+589,51606,mtc:station_durant_dana,0,Durant Av & Dana St,AC,AC TRANSIT,"22, 27, 36, 51B, 604, 605, 851",3,Tier 2,-122.26084,37.86749
+590,51584,mtc:station_durant_ellsworth,0,Durant Av & Ellsworth St,AC,AC TRANSIT,"22, 36, 51B, 6, 604, 605, 851",3,Tier 2,-122.26322,37.8672
+591,52429,mtc:e14th-durant,0,Durant Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.16401,37.73562
+592,52428,mtc:e14th-durant,0,Durant Avenue,AC,AC TRANSIT,1T,3,Tier 2,-122.16405,37.73571
+593,51579,mtc:station_durant_telegraph,0,Durant Av & Telegraph Av,AC,AC TRANSIT,"22, 27, 36, 51B, 604, 605, 851",3,Tier 2,-122.25864,37.86784
+594,52601,mtc:international-fruitvale,0,Fruitvale,AC,AC TRANSIT,1T,3,Tier 2,-122.22344,37.77644
+595,52597,mtc:international-fruitvale,0,Fruitvale,AC,AC TRANSIT,1T,3,Tier 2,-122.22358,37.77654
+596,52426,mtc:e14th-georgia-way,0,Georgia Way NB,AC,AC TRANSIT,1T,3,Tier 2,-122.16086,37.73151
+597,52427,mtc:e14th-georgia-way,0,Georgia Way SB,AC,AC TRANSIT,1T,3,Tier 2,-122.16148,37.73203
+598,52593,mtc:12th-harrison,0,Harrison NB,AC,AC TRANSIT,1T,3,Tier 2,-122.26941,37.80193
+599,52591,mtc:11th-harrison,0,Harrison SB,AC,AC TRANSIT,1T,3,Tier 2,-122.26799,37.80043
+600,52509,mtc:international-high,0,High Street,AC,AC TRANSIT,1T,3,Tier 2,-122.21333,37.77164
+601,52513,mtc:international-high,0,High Street,AC,AC TRANSIT,1T,3,Tier 2,-122.21318,37.77154
+602,52571,mtc:12th-Madison,0,Madison NB,AC,AC TRANSIT,1T,3,Tier 2,-122.26464,37.8001
+603,52573,mtc:11th-madison,0,Madison SB,AC,AC TRANSIT,1T,3,Tier 2,-122.26564,37.79951
+604,52541,902409,0,San Leandro BART,AC,AC TRANSIT,1T,3,Tier 2,-122.16017,37.72157
+605,52414,mtc:san-leandro-civic-center,0,San Leandro Civic Center NB,AC,AC TRANSIT,1T,3,Tier 2,-122.15834,37.72813
+606,52415,mtc:san-leandro-civic-center,0,San Leandro Civic Center SB,AC,AC TRANSIT,1T,3,Tier 2,-122.1588,37.72845
+607,52504,mtc:international-seminary,0,Seminary,AC,AC TRANSIT,1T,3,Tier 2,-122.20064,37.76566
+608,52506,mtc:international-seminary,0,Seminary,AC,AC TRANSIT,1T,3,Tier 2,-122.20055,37.76559
+609,52579,mtc:19th-st-oakland-bart,0,Uptown Oakland SB,AC,AC TRANSIT,1T,3,Tier 2,-122.26868,37.80854
+610,59400,mtc:station_webster_atlantic,0,Webster St & Atlantic Av,AC,AC TRANSIT,"19, 30, 51A, 851, 96, O, W",3,Tier 2,-122.27637,37.7802
+611,50542,mtc:station_webster_willie_stargell,0,Webster St & Willie Stargell Av,AC,AC TRANSIT,"19, 30, 51A, 851, O, W",3,Tier 2,-122.27639,37.78317
+612,64804,PS_ALDR,0,Alder Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.9177,37.41313
+613,64803,PS_ALDR,0,Alder Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.91712,37.41357
+614,65858,mtc:alum-rock-jackson,0,Alum Rock & Jackson,SC,VTA,Rapid 522,3,Tier 2,-121.843,37.35872
+615,65859,mtc:alum-rock-jackson,0,Alum Rock & Jackson,SC,VTA,Rapid 522,3,Tier 2,-121.84407,37.35829
+616,65856,mtc:alum-rock-king,0,Alum Rock & King,SC,VTA,Rapid 522,3,Tier 2,-121.85504,37.35302
+617,65857,mtc:alum-rock-king,0,Alum Rock & King,SC,VTA,Rapid 522,3,Tier 2,-121.85618,37.35256
+618,65242,PS_ALUM,0,Alum Rock Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.83212,37.35813
+619,65243,PS_ALUM,0,Alum Rock Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.83224,37.35837
+620,65384,PS_BASC,0,Bascom Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.9303,37.29947
+621,65377,PS_BASC,0,Bascom Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.92983,37.29985
+622,64760,PS_BAYP,0,Baypointe Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.94153,37.41078
+623,64806,PS_BAYP,0,Baypointe Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.94232,37.41053
+624,64761,PS_BAYP,0,Baypointe Station,SC,VTA,"Blue Line, BlueS, GreenN",0,Tier 2,-121.94231,37.41044
+625,64801,PS_BAYP,0,Baypointe Station,SC,VTA,"Blue Line, GreenN, Orange Line",0,Tier 2,-121.94152,37.41088
+626,64817,PS_NASA,0,Bayshore Nasa Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.04999,37.4047
+627,64790,PS_NASA,0,Bayshore Nasa Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.04917,37.40433
+628,65239,PS_BRRS,0,Berryessa Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.86148,37.38739
+629,65246,PS_BRRS,0,Berryessa Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.86311,37.38909
+630,64739,PS_BLSM,0,Blossom Hill Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.84181,37.25315
+631,64782,PS_BLSM,0,Blossom Hill Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.84103,37.25277
+632,64765,PS_BONA,0,Bonaventura Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.92871,37.3872
+633,64756,PS_BONA,0,Bonaventura Station,SC,VTA,"Blue Line, Green Line, GreenN",0,Tier 2,-121.92974,37.38875
+634,64792,PS_BORR,0,Borregas Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.0167,37.41133
+635,64815,PS_BORR,0,Borregas Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.01932,37.41199
+636,64781,PS_BRNM,0,Branham Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.85921,37.26658
+637,64740,PS_BRNM,0,Branham Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.85938,37.2673
+638,65379,PS_CMBL,0,Campbell Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.94303,37.2859
+639,65386,PS_CMBL,0,Campbell Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.94339,37.28548
+640,64741,PS_CPTL,0,Capitol Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.86327,37.27529
+641,64780,PS_CPTL,0,Capitol Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.86296,37.2739
+642,64800,PS_CHMP,0,Champion Station,SC,VTA,"Green Line, GreenN, Orange Line, OrangeE",0,Tier 2,-121.95194,37.4089
+643,64807,PS_CHMP,0,Champion Station,SC,VTA,"Green Line, GreenN, Orange Line, OrangeE",0,Tier 2,-121.95262,37.40942
+644,64776,PS_CDMS,0,Children's Discovery Museum Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.89311,37.32722
+645,64745,PS_CDMS,0,Children's Discovery Museum Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.89366,37.32776
+646,64802,PS_CISC,0,Cisco Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.92831,37.41235
+647,64805,PS_CISC,0,Cisco Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.92905,37.41266
+648,64751,PS_CIVC,0,Civic Center Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.90243,37.35202
+649,64770,PS_CIVC,0,Civic Center Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.90196,37.35138
+650,64755,PS_COMP,0,Component Station,SC,VTA,"Blue Line, Green Line, GreenN",0,Tier 2,-121.92578,37.38348
+651,64766,PS_COMP,0,Component Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.92476,37.38194
+652,64775,PS_CONV,0,Convention Center Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.89054,37.32981
+653,64746,PS_CONV,0,Convention Center Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.88975,37.33017
+654,64784,PS_CTTL,0,Cottle Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.80225,37.24251
+655,64737,PS_CTTL,0,Cottle Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.80316,37.24273
+656,65237,PS_CROP,0,Cropley Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.88107,37.40264
+657,65248,PS_CROP,0,Cropley Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.88308,37.40401
+658,64814,PS_CRSS,0,Crossman Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.0117,37.40947
+659,64793,PS_CRSS,0,Crossman Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.01118,37.40884
+660,64742,PS_CURT,0,Curtner Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.8727,37.29395
+661,64779,PS_CURT,0,Curtner Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.87234,37.29304
+662,64813,PS_FAIR,0,Fair Oaks Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.00955,37.40278
+663,64794,PS_FAIR,0,Fair Oaks Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.00864,37.40258
+664,65376,PS_FRTD,0,Fruitdale Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.91802,37.31048
+665,65383,PS_FRTD,0,Fruitdale Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.91848,37.31012
+666,64769,PS_GISH,0,Gish Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.9091,37.36094
+667,64752,PS_GISH,0,Gish Station,SC,VTA,"Blue Line, Green Line, GreenN",0,Tier 2,-121.91016,37.36254
+668,64798,PS_GRAM,0,Great America Station,SC,VTA,"Green Line, Orange Line, OrangeW",0,Tier 2,-121.97406,37.40355
+669,64809,PS_GRAM,0,Great America Station,SC,VTA,"Green Line, Orange Line, OrangeW",0,Tier 2,-121.97491,37.40347
+670,65250,PS_GRML,0,Great Mall Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.90212,37.41439
+671,65235,PS_GRML,0,Great Mall Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.90143,37.41392
+672,65378,PS_HAML,0,Hamilton Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.93617,37.29406
+673,65385,PS_HAML,0,Hamilton Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.93658,37.29369
+674,65238,PS_HOST,0,Hostetter Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.87029,37.39565
+675,65247,PS_HOST,0,Hostetter Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.86963,37.39512
+676,64750,PS_JAPN,0,Japantown/Ayer Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.89756,37.34556
+677,64771,PS_JAPN,0,Japantown/Ayer Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.89712,37.34496
+678,64767,PS_KRNA,0,Karina Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.91932,37.37461
+679,64754,PS_KRNA,0,Karina Station,SC,VTA,"Blue Line, Green Line, GreenN",0,Tier 2,-121.92041,37.37628
+680,64799,PS_LICK,0,Lick Mill Station,SC,VTA,"Green Line, GreenN, Orange Line, OrangeE",0,Tier 2,-121.96292,37.4078
+681,64808,PS_LICK,0,Lick Mill Station,SC,VTA,"Green Line, GreenN, Orange Line, OrangeE",0,Tier 2,-121.96368,37.40762
+682,64816,PS_LOCK,0,Lockheed Martin Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.02713,37.4094
+683,64791,PS_LOCK,0,Lockheed Martin Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.02689,37.41005
+684,65241,PS_MKEE,0,Mckee Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.84404,37.37106
+685,65244,PS_MKEE,0,Mckee Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.84548,37.37265
+686,64768,PS_METR,0,Metro/Airport Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.91488,37.36866
+687,64753,PS_METR,0,Metro/Airport Station,SC,VTA,"Blue Line, Green Line, GreenN",0,Tier 2,-121.91599,37.37036
+688,64818,PS_MIDD,0,Middlefield Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.05221,37.39543
+689,64789,PS_MIDD,0,Middlefield Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.05196,37.39607
+690,65024,PS_MOFF,0,Moffett Park Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.03433,37.40244
+691,65023,PS_MOFF,0,Moffett Park Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.03346,37.40237
+692,64733,PS_OHLO,0,Ohlone-Chynoweth Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.86028,37.25742
+693,64731,PS_OHLO,0,Ohlone-Chynoweth Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.85967,37.25799
+694,64797,PS_OLDI,0,Old Ironsides Station,SC,VTA,"Green Line, Orange Line, OrangeW",0,Tier 2,-121.97887,37.4033
+695,64810,PS_OLDI,0,Old Ironsides Station,SC,VTA,"Green Line, Orange Line, OrangeW",0,Tier 2,-121.97986,37.40331
+696,64764,PS_ORCH,0,Orchard Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.93384,37.39408
+697,64757,PS_ORCH,0,Orchard Station,SC,VTA,"Blue Line, Green Line, GreenN",0,Tier 2,-121.93487,37.39573
+698,65240,PS_PENC,0,Penitencia Creek Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.85442,37.38096
+699,65245,PS_PENC,0,Penitencia Creek Station,SC,VTA,"Orange Line, OrangeE",0,Tier 2,-121.8554,37.38202
+700,65382,PS_RACE,0,Race Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.91075,37.31715
+701,65375,PS_RACE,0,Race Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.91031,37.31757
+702,64796,PS_REAM,0,Reamwood Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-121.98741,37.40351
+703,64811,PS_REAM,0,Reamwood Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-121.98966,37.40357
+704,64763,PS_ROAK,0,River Oaks Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.93897,37.40119
+705,64758,PS_ROAK,0,River Oaks Station,SC,VTA,"Blue Line, Green Line, GreenN",0,Tier 2,-121.94003,37.40285
+706,64749,mtc:saint-james-eb,0,Saint James Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.89218,37.3384
+707,64772,mtc:saint-james-wb,0,Saint James Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.89081,37.33836
+708,64774,mtc:san-antonio-wb,0,San Antonio Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.88719,37.33348
+709,64747,mtc:san-antonio-eb,0,San Antonio Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.88798,37.33278
+710,65388,PS_SFND,0,San Fernando Station,SC,VTA,"Green Line, GreenN",0,Tier 2,-121.89812,37.33037
+711,65389,PS_SFND,0,San Fernando Station,SC,VTA,"Green Line, GreenN",0,Tier 2,-121.89905,37.33025
+712,64748,mtc:santa-clara-eb,0,Santa Clara Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.89035,37.33592
+713,64773,mtc:santa-clara-wb,0,Santa Clara Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.88891,37.3358
+714,64736,PS_TRSA,0,Santa Teresa Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.78914,37.23667
+715,64785,PS_TRSA,0,Santa Teresa Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.78949,37.23597
+716,64738,PS_SNLL,0,Snell Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.83134,37.24806
+717,64783,PS_SNLL,0,Snell Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.83055,37.24764
+718,64743,PS_TAMN,0,Tamien Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.88481,37.31193
+719,64778,PS_TAMN,0,Tamien Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.8843,37.31126
+720,64762,PS_TASM,0,Tasman Station,SC,VTA,"Blue Line, BlueS, Green Line, GreenN",0,Tier 2,-121.944,37.40806
+721,64759,PS_TASM,0,Tasman Station,SC,VTA,"Blue Line, Green Line, GreenN",0,Tier 2,-121.94446,37.40867
+722,64795,PS_VIEN,0,Vienna Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-121.99825,37.40335
+723,64812,PS_VIEN,0,Vienna Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.00087,37.4034
+724,64744,PS_VIRG,0,Virginia Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.8901,37.31983
+725,64777,PS_VIRG,0,Virginia Station,SC,VTA,"Blue Line, BlueS",0,Tier 2,-121.88995,37.31916
+726,64788,PS_WHIS,0,Whisman Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.05822,37.3922
+727,64819,PS_WHIS,0,Whisman Station,SC,VTA,"Orange Line, OrangeW",0,Tier 2,-122.059,37.39177
+728,65380,PS_WINC,0,Winchester Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.94791,37.27961
+729,65387,PS_WINC,0,Winchester Station,SC,VTA,"Green Line, GreenN, GreenS",0,Tier 2,-121.94831,37.27918
+730,70021,22nd_street,0,22nd Street Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.39188,37.7576
+731,70022,22nd_street,0,22nd Street Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.3924,37.75758
+732,70031,bayshore,0,Bayshore Caltrain Station Northbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.40159,37.70954
+733,70032,bayshore,0,Bayshore Caltrain Station Southbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.40198,37.70954
+734,70121,belmont,0,Belmont Caltrain Station Northbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.27574,37.52089
+735,70122,belmont,0,Belmont Caltrain Station Southbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.27582,37.52084
+736,70081,burlingame,0,Burlingame Caltrain Station Northbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.3449,37.5802
+737,70082,burlingame,0,Burlingame Caltrain Station Southbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.34507,37.58019
+738,70191,california_ave,0,California Avenue Caltrain Station Northbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-122.14193,37.42936
+739,70192,california_ave,0,California Avenue Caltrain Station Southbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-122.14198,37.42933
+740,70101,hayward_park,0,Hayward Park Caltrain Station Northbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.30934,37.55294
+741,70102,hayward_park,0,Hayward Park Caltrain Station Southbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.30961,37.55299
+742,70111,hillsdale,0,Hillsdale Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.3015,37.54261
+743,70112,hillsdale,0,Hillsdale Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.30167,37.54254
+744,70231,lawrence,0,Lawrence Caltrain Station Northbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-121.99711,37.3706
+745,70232,lawrence,0,Lawrence Caltrain Station Southbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-121.99714,37.37048
+746,70161,menlo_park,0,Menlo Park Caltrain Station Northbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-122.1823,37.45486
+747,70162,menlo_park,0,Menlo Park Caltrain Station Southbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-122.18241,37.45475
+748,70141,redwood_city,0,Redwood City Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.23194,37.48616
+749,70142,redwood_city,0,Redwood City Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.232,37.4861
+750,70201,san_antonio,0,San Antonio Caltrain Station Northbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-122.107,37.40733
+751,70202,san_antonio,0,San Antonio Caltrain Station Southbound,CT,Caltrain,"Limited, Local Weekday, Local Weekend",2,Tier 1,-122.10712,37.40724
+752,70051,san_bruno,0,San Bruno Caltrain Station Northbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.41159,37.6305
+753,70052,san_bruno,0,San Bruno Caltrain Station Southbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.41171,37.63046
+754,70131,san_carlos,0,San Carlos Caltrain Station Northbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.26015,37.50805
+755,70132,san_carlos,0,San Carlos Caltrain Station Southbound,CT,Caltrain,"Local Weekday, Local Weekend",2,Tier 1,-122.26027,37.50793
+756,70091,san_mateo,0,San Mateo Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.32385,37.56809
+757,70092,san_mateo,0,San Mateo Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.32409,37.56829
+758,70041,south_sf,0,South San Francisco Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.40498,37.65594
+759,70042,south_sf,0,South San Francisco Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.40498,37.65594
+760,70221,sunnyvale,0,Sunnyvale Caltrain Station Northbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.03137,37.37892
+761,70222,sunnyvale,0,Sunnyvale Caltrain Station Southbound,CT,Caltrain,"Express, Limited, Local Weekday, Local Weekend",2,Tier 1,-122.03142,37.37879
+762,70271,tamien,0,Tamien Caltrain Station Northbound,CT,Caltrain,"Local Weekday, Local Weekend, South County",2,Tier 1,-121.88372,37.31174
+763,70272,tamien,0,Tamien Caltrain Station Southbound,CT,Caltrain,"Local Weekday, Local Weekend, South County",2,Tier 1,-121.884,37.31175
+764,mtc:executive-park,mtc:executive-park,0,Executive Park BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.3947654,37.7106222
+765,mtc:harney-jamestown,mtc:harney-jamestown,0,Harney-Jamestown BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.386375,37.71105024
+766,mtc:spear-blandy,mtc:spear-blandy,0,Spear-Blandy BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.3646286,37.72625116
+767,New_Southfront_ValleyLInk,New_Southfront_ValleyLInk,0,Southfront Valley Link (Future),VL,Valley Link,,,Tier 1,-121.730778,37.70607056
+768,New_Isabel_ValleyLink,New_Isabel_ValleyLink,0,Isabel Valley Link (Future),VL,Valley Link,,,Tier 1,-121.7997364,37.70081718
+769,New_DublinPleasanton_ValleyLink,New_DublinPleasanton_ValleyLink,0,Dublin/Pleasanton Valley Link (Future),VL,Valley Link,,,Tier 1,-121.8979533,37.70124669
+770,PS_ERTC,PS_ERTC,0,Eastridge Transit Center,SC,VTA,,,Tier 2,-121.81091,37.32741
+771,New_VTA_StoryRd_LRT_Station,New_VTA_StoryRd_LRT_Station,0,Story Road,SC,VTA,,,Tier 2,-121.8269544,37.35086416
+772,Future_BART_Station_28thSt,Future_BART_Station_28thSt,0,28th Street/Littl Portugal (Future),BA,BART,,,Tier 1,-121.864162,37.34874892
+773,mtc:salesforce-transit-center1,mtc:salesforce-transit-center,0,mtc:salesforce-transit-center,CT,CT,,,Tier 1,-122.39736,37.78876
+774,Future_BART_Station_Diridon1,Future_BART_Station_Diridon,0,Diridon BART (Future),BA,Bay Area Rapid Transit,,,Tier 1,-121.9017401,37.33158657
+775,Future_BART_Station_DowntownSanJose1,Future_BART_Station_DowntownSanJose,0,Downtown San Jose BART (Future),BA,BA,,,Tier 1,-121.890564,37.33616649
+776,Future_BART_Station_Irvington1,Future_BART_Station_Irvington,0,Irvington BART (Future),BA,BA,,,Tier 1,-121.9535513,37.53090956
+777,Future_BART_Station_SantaClara1,Future_BART_Station_SantaClara,0,Santa Clara BART (Future),BA,BA,,,Tier 1,-121.9364087,37.35458345
+778,mtc:future-brt-spear-cochrane,mtc:future-brt-station-spear-cochrane,0,Spear Ave & Cochrane St BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.3672915,37.72555483
+779,mtc:future-brt-crispt,mtc:future-brt-station-crisp,0,Crisp Rd BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.3726914,37.72575102
+780,mtc:future-brt-fitch-quesanda, mtc:future-brt-station-fitch-quesanda,0,Fitch St & Quesanda Ave BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.378415,37.72594832
+781,mtc:future-brt-donner-arelious-walker, mtc:future-brt-station-donner-arelious-walker,0,Donner Ave & Arelious Walker Dr BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.3846108,37.71906851
+782,mtc:future-brt-donner-harney, mtc:future-brt-station-donner-harney,0,Donner Ave & Harney Way BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.3804617,37.71683676
+783,mtc:future-brt-ingerson-harney, mtc:future-brt-station-ingerson-harney,0,Ingerson Ave & Harney Way BRT Stop (Future),SF,San Francisco Municipal Transportation Agency,,,Tier 2,-122.3834102,37.71360746
+784,59555,mtc:station_bancroft_college,0,Bancroft Way & College Ave,AC,AC TRANSIT,,3,Tier 2,-122.2552136,37.86928144
