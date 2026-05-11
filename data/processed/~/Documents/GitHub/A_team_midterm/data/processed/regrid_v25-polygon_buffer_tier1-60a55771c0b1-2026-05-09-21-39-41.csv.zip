@@ -1,0 +1,6 @@
+port install git-lfs
+git add .gitattributes
+git add /Users/denissearellano/Downloads/regrid_v25-polygon_buffer_tier1-60a55771c0b1-2026-05-11-22-13-44 (1).csv.zip
+git commit -m "Add regrid_v25 file"
+git push origin main
+
