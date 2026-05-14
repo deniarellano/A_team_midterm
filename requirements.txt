@@ -11,6 +11,6 @@ zipfile
 seaborn 
 shapely.geometry 
 folium
-
-
+wkb
+request
 PROJECT_CRS = "EPSG:26910"  # UTM Zone 10N (Bay Area)
