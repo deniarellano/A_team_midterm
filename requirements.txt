@@ -16,5 +16,5 @@ request
 plotly.express
 json
 github 
-
+fiona
 PROJECT_CRS = "EPSG:26910"  # UTM Zone 10N (Bay Area)
