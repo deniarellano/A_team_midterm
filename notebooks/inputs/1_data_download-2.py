@@ -29,7 +29,9 @@
 # Import Libraries
 # ==========================================================================
 
+import os
 import census
+import requests
 import pandas as pd
 import numpy as np
 from pathlib import Path
@@ -41,13 +43,16 @@ pd.options.display.float_format = '{:.2f}'.format  # avoid scientific notation
 
 home = str(Path.home())
 input_path  = home + '/deniarellano/A_team_midterm/tree/main/notebooks/inputs/'
-output_path = home + '/deniarellano/A_team_midterm/tree/main/notebooks/outputs/'
+# Write into this repo (relative), so the CSV is easy to find.
+output_path = str(Path(__file__).resolve().parents[1] / 'outputs/')
 
 # ==========================================================================
 # Set API Key
 # ==========================================================================
 
-key = 'YOUR_CENSUS_API_KEY'  # <-- insert your Census API key here
+key = os.environ.get('CENSUS_API_KEY', '').strip() or 'YOUR_CENSUS_API_KEY'  # <-- insert your Census API key here
+if key == 'YOUR_CENSUS_API_KEY':
+    raise RuntimeError('Missing Census API key. Set env var CENSUS_API_KEY (recommended) or edit notebooks/inputs/1_data_download-2.py.')
 c = census.Census(key)
 
 # ==========================================================================
@@ -66,6 +71,59 @@ sql_query = 'state:{} county:*'.format(state)
 def filter_FIPS(df):
     """Keep only the four target counties."""
     return df[df['county'].isin(FIPS)]
+
+def fetch_acs_chunked_by_county_and_vars(acs_client, var_names, state, county_fips_list, year, chunk_size):
+    """
+    Fetch ACS tract-level data by splitting variables into chunks to avoid oversized requests.
+    Uses direct HTTP calls so we can surface non-JSON error bodies clearly.
+    Returns a DataFrame with columns: ['state','county','tract', <vars...>]
+    """
+    _ = acs_client  # unused (kept for backwards compatibility)
+    geo_key_cols = ["state", "county", "tract"]
+    parts = []
+
+    api_base = f"https://api.census.gov/data/{year}/acs/acs5"
+    api_key = key
+
+    for county_fips in county_fips_list:
+        county_sql = f"state:{state} county:{county_fips}"
+        county_parts = []
+
+        for i in range(0, len(var_names), chunk_size):
+            var_chunk = var_names[i:i + chunk_size]
+            get_vars = ",".join(var_chunk)
+
+            params = {
+                "get": get_vars,
+                "for": "tract:*",
+                "in": county_sql,
+                "key": api_key,
+            }
+
+            resp = requests.get(api_base, params=params, timeout=120)
+            if resp.status_code != 200:
+                raise RuntimeError(
+                    f"ACS request failed (HTTP {resp.status_code}) year={year} county={county_fips} vars={get_vars[:80]}... "
+                    f"body_head={resp.text[:300]!r}"
+                )
+
+            try:
+                data = resp.json()
+            except Exception as e:
+                raise RuntimeError(
+                    f"ACS response was not valid JSON year={year} county={county_fips} vars={get_vars[:80]}... "
+                    f"error={type(e).__name__}: {e} body_head={resp.text[:400]!r}"
+                )
+
+            county_parts.append(pd.DataFrame.from_records(data[1:], columns=data[0]))
+
+        merged_county = county_parts[0]
+        for nxt in county_parts[1:]:
+            merged_county = merged_county.merge(nxt, on=geo_key_cols, how="inner")
+
+        parts.append(merged_county)
+
+    return pd.concat(parts, ignore_index=True)
 
 # ==========================================================================
 # Download ACS 2023 5-Year Estimates  (replaces 2018 pull)
@@ -108,14 +166,17 @@ for i in (list(range(25, 34)) +
     df_vars_23.append(var_str + '_' + str(i).zfill(3) + 'E')
 
 # Run API query — ACS 2023 5-year
-var_dict_acs5 = c.acs5.get(
-    df_vars_23,
-    geo={'for': 'tract:*', 'in': sql_query},
-    year=2023
+# Split variables into smaller groups to avoid non-JSON error pages from oversized requests.
+chunk_size = 12
+df_vars_23 = fetch_acs_chunked_by_county_and_vars(
+    acs_client=c,
+    var_names=df_vars_23,
+    state=state,
+    county_fips_list=FIPS,
+    year=2023,
+    chunk_size=chunk_size
 )
 
-# Convert to DataFrame, build FIPS, filter counties
-df_vars_23 = pd.DataFrame.from_dict(var_dict_acs5)
 df_vars_23['FIPS'] = df_vars_23['state'] + df_vars_23['county'] + df_vars_23['tract']
 df_vars_23 = filter_FIPS(df_vars_23)
 
@@ -230,14 +291,17 @@ df_vars_19 = [
 ]
 
 # Run API query — ACS 2019 5-year
-var_dict_acs5 = c.acs5.get(
-    df_vars_19,
-    geo={'for': 'tract:*', 'in': sql_query},
-    year=2019
+chunk_size = 12
+df_vars_19 = fetch_acs_chunked_by_county_and_vars(
+    acs_client=c,
+    var_names=df_vars_19,
+    state=state,
+    county_fips_list=FIPS,
+    year=2019,
+    chunk_size=chunk_size
 )
 
 # Convert to DataFrame, build FIPS, filter counties
-df_vars_19 = pd.DataFrame.from_dict(var_dict_acs5)
 df_vars_19['FIPS'] = df_vars_19['state'] + df_vars_19['county'] + df_vars_19['tract']
 df_vars_19 = filter_FIPS(df_vars_19)
 
@@ -306,10 +370,22 @@ df_vars_summ.to_csv(
 
 print(f"Done. {len(df_vars_summ)} tracts written to:")
 print(f"  {output_path}downloads/{city_name.replace(' ', '')}_census_summ_2023.csv")
+
+county_col = None
+if 'county' in df_vars_summ.columns:
+    county_col = 'county'
+elif 'county_x' in df_vars_summ.columns:
+    county_col = 'county_x'
+elif 'county_y' in df_vars_summ.columns:
+    county_col = 'county_y'
+
 print(f"\nCounty tract counts:")
-print(df_vars_summ['county'].value_counts().rename({
-    '001': 'Alameda',
-    '075': 'San Francisco',
-    '081': 'San Mateo',
-    '085': 'Santa Clara'
-}))
+if county_col is None:
+    print("Could not find a county column after merge (expected 'county' or 'county_x/county_y').")
+else:
+    print(df_vars_summ[county_col].value_counts().rename({
+        '001': 'Alameda',
+        '075': 'San Francisco',
+        '081': 'San Mateo',
+        '085': 'Santa Clara'
+    }))

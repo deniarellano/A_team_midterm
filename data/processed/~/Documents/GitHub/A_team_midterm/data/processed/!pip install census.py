@@ -1,16 +1,26 @@
-!pip install census
+import sys
+import subprocess
+import importlib
 
-import census
+try:
+    census = importlib.import_module('census')
+except ModuleNotFoundError:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "census"])
+    census = importlib.import_module('census')
+
 import pandas as pd
 import numpy as np
-import sys
 from pathlib import Path
 import geopandas as gpd
 from shapely.geometry import Point
 from pyproj import Proj
 import matplotlib.pyplot as plt
-from google.colab import userdata
-!git clone https://github.com/deniarellano/A_team_midterm.git
+
+try:
+    from google.colab import userdata
+except ImportError:
+    userdata = None
+# !git clone https://github.com/deniarellano/A_team_midterm.git
 
 
 pd.set_option('display.max_columns', None)
@@ -18,8 +28,8 @@ pd.set_option('display.max_rows', None)
 pd.options.display.float_format = '{:.2f}'.format # avoid scientific notation
 
 home = str(Path.home())
-input_path = home+'/deniarellano/A_team_midterm/data/raw/'
-output_path = home+'/deniarellano/A_team_midterm/notebooks/outputs'
+input_path  = "/Users/denissearellano/A_team_midterm/data/raw/"
+output_path = "/Users/denissearellano/A_team_midterm/notebooks/outputs/"
 
 # ==========================================================================
 # Set API Key
